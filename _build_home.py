@@ -69,7 +69,7 @@ gallery_photos = [
 ]
 
 gallery_html = "".join(f"""<div style="position:relative;overflow:hidden;border-radius:10px;aspect-ratio:1/1;background:#163E29">
-  <img src="/images/{photo}" alt="{alt}" loading="lazy" width="400" height="300"
+  <img src="/images/{photo}?v=2" alt="{alt}" loading="lazy" width="400" height="300"
     style="width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s"
     onmouseover="this.style.transform='scale(1.04)'" onmouseout="this.style.transform='scale(1)'">
   <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(22,62,41,.85));padding:.6rem .9rem">
@@ -77,8 +77,8 @@ gallery_html = "".join(f"""<div style="position:relative;overflow:hidden;border-
   </div>
 </div>""" for (photo, alt, label) in gallery_photos)
 
-html = page_head(TITLE, DESC, "", og_image="/images/hero-hardwood.jpg",
-    extra_meta='<link rel="preload" as="image" href="/images/hero-hardwood.jpg" fetchpriority="high">') + """
+html = page_head(TITLE, DESC, "", og_image="/images/hero-hardwood.jpg?v=2",
+    extra_meta='<link rel="preload" as="image" href="/images/hero-hardwood.jpg?v=2" fetchpriority="high">') + """
 <body>
 """ + render_schemas(schemas) + """
 """ + header() + f"""
@@ -89,7 +89,7 @@ html = page_head(TITLE, DESC, "", og_image="/images/hero-hardwood.jpg",
 <section style="position:relative;overflow:hidden;min-height:auto;display:flex;align-items:flex-start">
   <!-- Real hardwood photo background -->
   <div style="position:absolute;inset:0;z-index:0">
-    <img src="/images/hero-hardwood.jpg" alt="Flooring company in Sarasota FL — hardwood installation by Sarasota Flooring Company"
+    <img src="/images/hero-hardwood.jpg?v=2" alt="Flooring company in Sarasota FL — hardwood installation by Sarasota Flooring Company"
       width="1600" height="900" fetchpriority="high"
       style="width:100%;height:100%;object-fit:cover;object-position:center">
     <div style="position:absolute;inset:0;background:linear-gradient(105deg,rgba(22,62,41,.92) 0%,rgba(22,62,41,.82) 45%,rgba(22,62,41,.5) 100%)"></div>
