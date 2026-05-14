@@ -86,7 +86,7 @@ html = page_head(TITLE, DESC, "", og_image="/images/hero-hardwood.jpg",
 <!-- ====================================================
      HERO — real project photo + form (stcloudflconcrete style)
      ==================================================== -->
-<section style="position:relative;overflow:hidden;min-height:auto;display:flex;align-items:center">
+<section style="position:relative;overflow:hidden;min-height:auto;display:flex;align-items:flex-start">
   <!-- Real hardwood photo background -->
   <div style="position:absolute;inset:0;z-index:0">
     <img src="/images/hero-hardwood.jpg" alt="Flooring company in Sarasota FL — hardwood installation by Sarasota Flooring Company"
@@ -95,7 +95,7 @@ html = page_head(TITLE, DESC, "", og_image="/images/hero-hardwood.jpg",
     <div style="position:absolute;inset:0;background:linear-gradient(105deg,rgba(22,62,41,.92) 0%,rgba(22,62,41,.82) 45%,rgba(22,62,41,.5) 100%)"></div>
   </div>
 
-  <div class="container" style="position:relative;z-index:2;display:flex;align-items:center;gap:3.5rem;padding-top:2.2rem;padding-bottom:2.8rem;flex-wrap:wrap">
+  <div class="container" style="position:relative;z-index:2;display:flex;align-items:center;gap:3.5rem;padding-top:1rem;padding-bottom:1.8rem;flex-wrap:wrap;align-items:flex-start">
 
     <!-- LEFT: headline + keyword-rich trust copy -->
     <div style="flex:1 1 400px;min-width:0;color:#fff">
