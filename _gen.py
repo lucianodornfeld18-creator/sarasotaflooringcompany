@@ -86,7 +86,7 @@ em{font-style:italic}
 /* HEADER — emerald nav bar */
 .site-header{position:sticky;top:0;z-index:100;background:var(--emerald-dark);box-shadow:0 2px 16px rgba(22,62,41,.28)}
 .nav-bar{display:flex;align-items:center;justify-content:space-between;padding:0 22px;max-width:var(--container);margin:0 auto;gap:1rem;height:68px}
-.brand{display:flex;align-items:center;gap:11px;text-decoration:none;flex-shrink:0}
+.brand{display:flex;align-items:center;gap:11px;text-decoration:none;flex-shrink:0;min-width:240px}
 .brand img{height:40px;width:auto}
 .brand-text{display:flex;flex-direction:column;line-height:1}
 .brand-name{font-family:var(--font-head);font-weight:800;font-size:1.1rem;color:#fff;letter-spacing:-.02em;white-space:nowrap}
@@ -367,13 +367,13 @@ document.addEventListener('DOMContentLoaded',function(){
 # ============================================================================
 # LOGO SVG (inline, used everywhere)
 # ============================================================================
-LOGO_SVG = """<svg viewBox="0 0 220 52" xmlns="http://www.w3.org/2000/svg" aria-label="Sarasota Flooring Company" style="height:46px;width:auto">
+LOGO_SVG = """<svg viewBox="0 0 290 52" xmlns="http://www.w3.org/2000/svg" aria-label="Sarasota Flooring Company" style="height:44px;width:auto;flex-shrink:0">
   <rect width="52" height="52" rx="8" fill="#1F5F3F"/>
   <text x="5" y="39" font-family="'Outfit','Inter',-apple-system,sans-serif" font-weight="900" font-size="34" fill="#FFFFFF" letter-spacing="-2">SFC</text>
   <rect x="0" y="47" width="52" height="5" fill="#C8893D" opacity="0.9"/>
-  <text x="62" y="22" font-family="'Outfit','Inter',-apple-system,sans-serif" font-weight="800" font-size="16.5" fill="#FFFFFF" letter-spacing="0.2">Sarasota Flooring Co.</text>
-  <text x="63" y="37" font-family="'Outfit','Inter',-apple-system,sans-serif" font-weight="500" font-size="10" fill="#F8DDA8" letter-spacing="2.8">SARASOTA · MANATEE</text>
-  <rect x="62" y="41" width="152" height="1.5" rx=".75" fill="#C8893D" opacity="0.6"/>
+  <text x="64" y="23" font-family="'Outfit','Inter',-apple-system,sans-serif" font-weight="800" font-size="17" fill="#FFFFFF" letter-spacing="0.1">Sarasota Flooring Co.</text>
+  <text x="65" y="38" font-family="'Outfit','Inter',-apple-system,sans-serif" font-weight="500" font-size="10" fill="#F8DDA8" letter-spacing="2.6">SARASOTA · MANATEE</text>
+  <rect x="64" y="42" width="220" height="1.5" rx=".75" fill="#C8893D" opacity="0.55"/>
 </svg>"""
 
 # ============================================================================
@@ -705,7 +705,7 @@ def wa_banner(message=None):
 
 def cta_banner(headline=None,sub=None):
     headline = headline or "Ready to start? Free estimate within 24 hours."
-    sub = sub or "Call or text the owner directly. Sample bring-outs and in-home consultations are free across all 8 service areas."
+    sub = sub or "Call or text Sarasota Flooring Company directly. Free sample bring-outs and in-home consultations across all 8 service areas."
     return f"""<section class="cta-banner">
   <div class="container">
     <h2>{headline}</h2>
@@ -713,7 +713,7 @@ def cta_banner(headline=None,sub=None):
     <a href="{TEL_LINK}" class="cta-phone-large">📞 {BUSINESS['phone_display']}</a>
     <div class="cta-buttons">
       <a href="{TEL_LINK}" class="btn btn-primary">Call Now</a>
-      <a href="{WA_LINK}" target="_blank" rel="noopener" class="btn btn-wa">WhatsApp</a>
+      <a href="{SMS_LINK}" class="btn btn-secondary" style="background:#fff;color:var(--emerald)">💬 Text Us</a>
       <a href="/contact/" class="btn btn-ghost" style="border-color:rgba(255,255,255,.5);color:#fff">Online Form</a>
     </div>
   </div>

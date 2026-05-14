@@ -68,7 +68,7 @@ gallery_photos = [
     ("stair-installation-sarasota.jpg", "Hardwood stair tread installation Sarasota FL", "Stair Treads · Sarasota"),
 ]
 
-gallery_html = "".join(f"""<div style="position:relative;overflow:hidden;border-radius:10px;aspect-ratio:4/3;background:#163E29">
+gallery_html = "".join(f"""<div style="position:relative;overflow:hidden;border-radius:10px;aspect-ratio:1/1;background:#163E29">
   <img src="/images/{photo}" alt="{alt}" loading="lazy" width="400" height="300"
     style="width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s"
     onmouseover="this.style.transform='scale(1.04)'" onmouseout="this.style.transform='scale(1)'">
@@ -86,7 +86,7 @@ html = page_head(TITLE, DESC, "", og_image="/images/hero-hardwood.jpg",
 <!-- ====================================================
      HERO — real project photo + form (stcloudflconcrete style)
      ==================================================== -->
-<section style="position:relative;overflow:hidden;min-height:580px;display:flex;align-items:center">
+<section style="position:relative;overflow:hidden;min-height:auto;display:flex;align-items:center">
   <!-- Real hardwood photo background -->
   <div style="position:absolute;inset:0;z-index:0">
     <img src="/images/hero-hardwood.jpg" alt="Flooring company in Sarasota FL — hardwood installation by Sarasota Flooring Company"
@@ -95,7 +95,7 @@ html = page_head(TITLE, DESC, "", og_image="/images/hero-hardwood.jpg",
     <div style="position:absolute;inset:0;background:linear-gradient(105deg,rgba(22,62,41,.92) 0%,rgba(22,62,41,.82) 45%,rgba(22,62,41,.5) 100%)"></div>
   </div>
 
-  <div class="container" style="position:relative;z-index:2;display:flex;align-items:center;gap:3.5rem;padding-top:4rem;padding-bottom:4rem;flex-wrap:wrap">
+  <div class="container" style="position:relative;z-index:2;display:flex;align-items:center;gap:3.5rem;padding-top:2.2rem;padding-bottom:2.8rem;flex-wrap:wrap">
 
     <!-- LEFT: headline + keyword-rich trust copy -->
     <div style="flex:1 1 400px;min-width:0;color:#fff">

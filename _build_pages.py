@@ -109,7 +109,7 @@ write_html("about/index.html", about_html)
 contact_title = f"Contact {BUSINESS['short_name']} | Free Flooring Estimate in 24 Hours"
 contact_desc = (
     f"Get a free in-home flooring estimate across Sarasota, Bradenton &amp; Lakewood Ranch. "
-    f"Call {BUSINESS['phone_display']}, WhatsApp, or fill out the form — owner responds in 24 hours."
+    f"Call or text {BUSINESS['phone_display']} or fill out the form — Sarasota Flooring Company responds in 24 hours."
 )
 contact_schemas = [
     localbiz_schema(page_path="contact"),
@@ -130,7 +130,7 @@ contact_html = f"""{page_head(contact_title,contact_desc,"contact/")}
   <div class="container">
     <span class="eyebrow on-dark">Contact</span>
     <h1>Get a <span class="accent">free estimate</span><br>in 24 hours.</h1>
-    <p class="lead">Call, text, or WhatsApp the owner directly. We'll be at your home with samples — often same day.</p>
+    <p class="lead">Call or text Sarasota Flooring Company directly. We'll be at your home with samples — often same day.</p>
   </div>
 </section>
 <nav class="breadcrumbs"><div class="container"><ol><li><a href="/">Home</a></li><li>Contact</li></ol></div></nav>
@@ -143,13 +143,13 @@ contact_html = f"""{page_head(contact_title,contact_desc,"contact/")}
         <p style="color:var(--ink-soft);font-size:1.02rem;line-height:1.65">No call-center routing, no front-desk filtering — the phone on this page rings the owner's mobile. Sample bring-outs are free, in-home estimates are free, and we don't sell on the spot. You get the written quote in your inbox and decide on your timeline.</p>
 
         <div style="background:var(--emerald-soft);border-radius:var(--radius-lg);padding:1.6rem;margin-top:1.6rem">
-          <p style="font-family:var(--font-head);font-weight:700;font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;color:var(--emerald-dark);margin-bottom:.4rem">Phone &amp; WhatsApp</p>
+          <p style="font-family:var(--font-head);font-weight:700;font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;color:var(--emerald-dark);margin-bottom:.4rem">Phone &amp; Text</p>
           <a href="{TEL_LINK}" style="display:block;font-family:var(--font-head);font-size:1.85rem;font-weight:800;color:var(--emerald-dark);text-decoration:none;letter-spacing:-.02em">{BUSINESS['phone_display']}</a>
           <p style="margin:.4rem 0 1rem;font-size:.92rem;color:var(--gray)">Mon–Fri 7am–7pm · Sat 8am–5pm · Sun 9am–4pm</p>
           <div style="display:flex;flex-wrap:wrap;gap:.6rem">
             <a href="{TEL_LINK}" class="btn btn-emerald">📞 Call Now</a>
             <a href="{SMS_LINK}" class="btn btn-secondary">💬 Text</a>
-            <a href="{WA_LINK}" target="_blank" rel="noopener" class="btn btn-wa">WhatsApp</a>
+            
           </div>
         </div>
 
