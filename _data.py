@@ -73,6 +73,14 @@ SMS_LINK = f"sms:{BUSINESS['phone']}?body=Hi%20Sarasota%20Flooring%20Company%2C%
 TEL_LINK = f"tel:{BUSINESS['phone']}"
 
 # ============================================================================
+# LEAD FORM — Web3Forms. One endpoint + one access key for every form on the
+# site. The key is public by design (it only allows sending TO the inbox
+# registered at web3forms.com).
+# ============================================================================
+WEB3FORMS_ENDPOINT = "https://api.web3forms.com/submit"
+WEB3FORMS_KEY = "348354a8-581e-490e-aeeb-654bb6b32255"
+
+# ============================================================================
 # SERVICE AREA — 8 cities across Sarasota & Manatee Counties
 # All neighborhoods, ZIPs, landmarks are REAL and verified.
 # ============================================================================

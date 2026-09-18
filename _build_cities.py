@@ -13,7 +13,7 @@ from _gen import (
     neighborhoods_pills, SITE,
 )
 
-OUT = "/home/claude/sarasota-flooring"
+OUT = os.path.dirname(os.path.abspath(__file__))
 
 # ============================================================================
 # 8 CITY INDEX PAGES — /[city]/index.html

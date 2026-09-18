@@ -11,6 +11,7 @@ from _data import (
 from _gen import (
     page_head, header, footer, render_schemas, org_schema, localbiz_schema,
     breadcrumb_schema, stat_badge, wa_banner, cta_banner, reviews_block, SITE,
+    web3_hidden, WEB3FORMS_ENDPOINT,
 )
 
 TITLE = "Flooring Company in Sarasota FL | Hardwood, Vinyl Plank, Tile Installation | Sarasota Flooring Company"
@@ -133,7 +134,8 @@ html = page_head(TITLE, DESC, "", og_image="/images/hero-hardwood.jpg?v=2",
         <div style="position:absolute;top:0;left:1.85rem;right:1.85rem;height:3px;background:linear-gradient(90deg,var(--caramel),#F8DDA8,var(--caramel));border-radius:0 0 4px 4px"></div>
         <p style="font-family:var(--font-head);font-weight:800;font-size:1.2rem;color:var(--emerald-dark);margin-bottom:.2rem">Get a Free Flooring Estimate</p>
         <p style="font-size:.85rem;color:var(--gray);margin-bottom:1.3rem">Sarasota Flooring Company — free estimate, no obligation</p>
-        <form action="/thanks/" method="POST" style="display:flex;flex-direction:column;gap:.8rem">
+        <form action="{WEB3FORMS_ENDPOINT}" method="POST" style="display:flex;flex-direction:column;gap:.8rem">
+          {web3_hidden()}
           <div style="display:grid;grid-template-columns:1fr 1fr;gap:.7rem">
             <div>
               <label style="font-family:var(--font-head);font-size:.72rem;font-weight:700;color:var(--ink);display:block;margin-bottom:.28rem;letter-spacing:.06em;text-transform:uppercase">Name *</label>
@@ -289,6 +291,6 @@ html = page_head(TITLE, DESC, "", og_image="/images/hero-hardwood.jpg?v=2",
 # Fill in the service_cards_html placeholder
 html = html.replace("{"".join(service_cards)}", "".join(service_cards))
 
-with open("/home/claude/sarasota-flooring/index.html", "w", encoding="utf-8") as f:
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "index.html"), "w", encoding="utf-8") as f:
     f.write(html)
 print("✓ Built /index.html — photos + keywords + SFC logo + no WhatsApp")

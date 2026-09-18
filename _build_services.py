@@ -11,7 +11,7 @@ from _gen import (
     checklist_block, pricing_block, scope_list_html, internal_links_box, SITE,
 )
 
-OUT = "/home/claude/sarasota-flooring"
+OUT = os.path.dirname(os.path.abspath(__file__))
 
 for slug in SERVICE_ORDER:
     sv = SERVICES[slug]

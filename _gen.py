@@ -9,7 +9,7 @@ from _data import (
     BUSINESS, CITIES, CITY_ORDER, SERVICES, SERVICE_ORDER,
     CHECKLIST, REVIEWS, WA_LINK, TEL_LINK, SMS_LINK,
     WHY_US_POINTS, PROCESS_STEPS, HERO_TRUST_BADGES,
-    GENERAL_BLOG_POSTS,
+    GENERAL_BLOG_POSTS, WEB3FORMS_ENDPOINT, WEB3FORMS_KEY,
 )
 
 DOMAIN = BUSINESS["domain"]
@@ -208,6 +208,27 @@ section{padding:4.2rem 0}
 .cta-phone-large:hover{color:#fff}
 .cta-buttons{display:flex;flex-wrap:wrap;gap:.85rem;justify-content:center}
 
+/* LEAD FORM — closes every page, posts to Web3Forms */
+.leadform{background:var(--cream-deep);padding:4.5rem 0;scroll-margin-top:80px}
+.lf-in{display:grid;grid-template-columns:1fr 1.05fr;gap:3rem;align-items:center}
+.lf-copy h2{margin-bottom:.85rem}
+.lf-copy p{color:var(--gray);font-size:1.05rem}
+.lf-points{list-style:none;margin:1.3rem 0;padding:0}
+.lf-points li{position:relative;padding-left:1.7rem;margin-bottom:.6rem;color:var(--ink-soft)}
+.lf-points li::before{content:"✓";position:absolute;left:0;color:var(--emerald);font-weight:800}
+.lf-copy .lf-tel{font-size:1rem;color:var(--ink-soft)}
+.lf-tel a{color:var(--emerald);font-weight:700}
+.formcard{background:#fff;border-radius:14px;box-shadow:var(--shadow-lg);padding:1.85rem;border-top:3px solid var(--caramel)}
+.formcard-title{font-family:var(--font-head);font-weight:800;font-size:1.2rem;color:var(--emerald-dark);margin-bottom:1.1rem}
+.fgrid{display:grid;grid-template-columns:1fr 1fr;gap:.8rem}
+.fgrid label{display:block;font-family:var(--font-head);font-size:.72rem;font-weight:700;color:var(--ink);letter-spacing:.06em;text-transform:uppercase}
+.fgrid .full{grid-column:1/-1}
+.fgrid input,.fgrid select,.fgrid textarea{display:block;width:100%;margin-top:.28rem;padding:.72rem .85rem;border:1.5px solid var(--gray-border);border-radius:7px;font-size:.95rem;font-family:var(--font-body);font-weight:400;letter-spacing:0;text-transform:none;color:var(--ink);background:#fff}
+.fgrid textarea{resize:vertical;min-height:84px}
+.fgrid input:focus,.fgrid select:focus,.fgrid textarea:focus{outline:none;border-color:var(--emerald);box-shadow:0 0 0 3px var(--emerald-soft)}
+.fgrid .fsubmit{grid-column:1/-1;width:100%}
+.fgrid .fnote{grid-column:1/-1;font-size:.78rem;color:var(--gray-light);margin:0;text-align:center}
+
 /* CHECKLIST */
 .checklist-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));gap:1.2rem;margin-top:2rem}
 .checklist-card{background:#fff;border:1px solid var(--gray-border);border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--shadow-sm)}
@@ -338,6 +359,8 @@ section{padding:4.2rem 0}
   .proof-num{font-size:1.4rem}
   .wa-float{padding:11px 16px;font-size:13px}
   .cta-phone-large{font-size:1.55rem}
+  .leadform{padding:3.2rem 0}
+  .lf-in{grid-template-columns:1fr;gap:2rem}
 }
 @media(max-width:520px){
   .brand img{height:38px}
@@ -345,6 +368,8 @@ section{padding:4.2rem 0}
   .brand-tag{font-size:.62rem}
   .nav-phone{padding:6px 10px;background:var(--emerald);color:#fff;border-radius:50px}
   .proof-grid{grid-template-columns:1fr 1fr}
+  .fgrid{grid-template-columns:1fr}
+  .formcard{padding:1.4rem}
 }
 """
 
@@ -361,6 +386,8 @@ document.addEventListener('DOMContentLoaded',function(){
       if(window.innerWidth<=880&&a.getAttribute('href').indexOf('#')!==0){e.preventDefault();li.classList.toggle('menu-open')}
     })}
   })}
+  // Tag every lead with the page that produced it (shows up in the Web3Forms email)
+  document.querySelectorAll('input[name="page"]').forEach(function(i){i.value=location.pathname});
 });
 """
 
@@ -707,10 +734,76 @@ def wa_banner(message=None):
   <a href="{TEL_LINK}" class="btn">Call Now</a>
 </div>"""
 
-def cta_banner(headline=None,sub=None):
+# ============================================================================
+# WEB3FORMS — every form on the site posts to the one Web3Forms endpoint.
+# Hidden fields: access_key (auth), subject/from_name (inbox labelling),
+# redirect (lands the visitor on /thanks/), page (filled by JS with the path
+# that produced the lead), botcheck (Web3Forms' documented honeypot — bots tick
+# it, humans never see it).
+# ============================================================================
+def web3_hidden(subject=None):
+    subject = subject or f"New estimate request — {DOMAIN}"
+    return (f'<input type="hidden" name="access_key" value="{WEB3FORMS_KEY}">\n'
+            f'          <input type="hidden" name="subject" value="{subject}">\n'
+            f'          <input type="hidden" name="from_name" value="{BUSINESS["name"]} website">\n'
+            f'          <input type="hidden" name="redirect" value="{SITE}/thanks/">\n'
+            f'          <input type="hidden" name="page" value="">\n'
+            f'          <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" aria-hidden="true">')
+
+def city_options():
+    return "".join(f'<option>{CITIES[c]["name"]}</option>' for c in CITY_ORDER) + "<option>Other</option>"
+
+def service_options():
+    return ("".join(f'<option>{SERVICES[s]["name"]}</option>' for s in SERVICE_ORDER)
+            + "<option>Not sure yet — need a recommendation</option>")
+
+def lead_form_section():
+    """The estimate form that closes every page. id="estimate" is the anchor
+    the CTA banner's "Online Form" button points at."""
+    return f"""<section class="leadform" id="estimate">
+  <div class="container">
+    <div class="lf-in">
+      <div class="lf-copy">
+        <span class="eyebrow">Free Estimate · 24-Hour Reply</span>
+        <h2>Request your free flooring estimate</h2>
+        <p>Tell us a little about your project. The owner responds within 24 hours with next steps.</p>
+        <ul class="lf-points">
+          <li>Free in-home measure with samples brought to you</li>
+          <li>Written, line-itemized quote — yours to compare</li>
+          <li>{BUSINESS['guarantee'].split(' — ')[0]}</li>
+          <li>Serving all 8 cities across Sarasota &amp; Manatee Counties</li>
+        </ul>
+        <p class="lf-tel">Prefer to talk? <a href="{TEL_LINK}">{BUSINESS['phone_display']}</a> · <a href="{SMS_LINK}">text us photos</a></p>
+      </div>
+      <div class="formcard">
+        <p class="formcard-title">Get a Free Flooring Estimate</p>
+        <form method="POST" action="{WEB3FORMS_ENDPOINT}">
+          {web3_hidden()}
+          <div class="fgrid">
+            <label>Name *<input type="text" name="name" required autocomplete="name" placeholder="Your name"></label>
+            <label>Phone *<input type="tel" name="phone" required autocomplete="tel" placeholder="(941) 000-0000"></label>
+            <label class="full">Email<input type="email" name="email" autocomplete="email" placeholder="your@email.com"></label>
+            <label>City<select name="city">{city_options()}</select></label>
+            <label>Project Type<select name="service">{service_options()}</select></label>
+            <label class="full">Tell us about the project<textarea name="message" rows="3" placeholder="Square footage, timing, any specific products in mind..."></textarea></label>
+            <button type="submit" class="btn btn-primary fsubmit">Get My Free Estimate →</button>
+            <p class="fnote">No spam, no sales pressure. The owner responds in 24 hours.</p>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>"""
+
+def cta_banner(headline=None,sub=None,form=True):
+    """Closing CTA. With form=True (default) the estimate form is rendered right
+    above it, so every page that ends in a CTA banner also carries the form.
+    Pass form=False on pages that already end in their own form (/contact/)."""
     headline = headline or "Ready to start? Free estimate within 24 hours."
     sub = sub or "Call or text Sarasota Flooring Company directly. Free sample bring-outs and in-home consultations across all 8 service areas."
-    return f"""<section class="cta-banner">
+    form_html = lead_form_section() + "\n" if form else ""
+    form_href = "#estimate" if form else "/contact/"
+    return f"""{form_html}<section class="cta-banner">
   <div class="container">
     <h2>{headline}</h2>
     <p>{sub}</p>
@@ -718,7 +811,7 @@ def cta_banner(headline=None,sub=None):
     <div class="cta-buttons">
       <a href="{TEL_LINK}" class="btn btn-primary">Call Now</a>
       <a href="{SMS_LINK}" class="btn btn-secondary" style="background:#fff;color:var(--emerald)">💬 Text Us</a>
-      <a href="/contact/" class="btn btn-ghost" style="border-color:rgba(255,255,255,.5);color:#fff">Online Form</a>
+      <a href="{form_href}" class="btn btn-ghost" style="border-color:rgba(255,255,255,.5);color:#fff">Online Form</a>
     </div>
   </div>
 </section>"""
@@ -834,9 +927,9 @@ def internal_links_box(heading,links):
     return f'<div class="internal-links"><h3>{heading}</h3><ul>{lis}</ul></div>'
 
 def write(path,html):
-    """Write file to /home/claude/sarasota-flooring/<path>."""
+    """Write file to <repo root>/<path>."""
     import os
-    full = f"/home/claude/sarasota-flooring/{path}"
+    full = os.path.join(os.path.dirname(os.path.abspath(__file__)), path)
     os.makedirs(os.path.dirname(full) if os.path.dirname(full) else full, exist_ok=True)
     if path.endswith(".html") or "." in path.split("/")[-1]:
         with open(full,"w",encoding="utf-8") as f: f.write(html)

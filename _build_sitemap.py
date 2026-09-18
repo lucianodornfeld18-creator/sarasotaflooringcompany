@@ -7,7 +7,7 @@ from datetime import date
 from _data import BUSINESS, CITIES, CITY_ORDER, SERVICES, SERVICE_ORDER, GENERAL_BLOG_POSTS
 from _gen import SITE
 
-OUT = "/home/claude/sarasota-flooring"
+OUT = os.path.dirname(os.path.abspath(__file__))
 TODAY = date.today().isoformat()
 
 urls = []

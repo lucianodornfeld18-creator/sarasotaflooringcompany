@@ -8,10 +8,10 @@ from _data import BUSINESS, CITIES, CITY_ORDER, SERVICES, SERVICE_ORDER, CHECKLI
 from _gen import (
     page_head, header, footer, render_schemas, org_schema, localbiz_schema,
     breadcrumb_schema, faq_schema, stat_badge, cta_banner, reviews_block,
-    write, SITE,
+    write, SITE, web3_hidden, WEB3FORMS_ENDPOINT,
 )
 
-OUT = "/home/claude/sarasota-flooring"
+OUT = os.path.dirname(os.path.abspath(__file__))
 
 def write_html(path,html):
     full = f"{OUT}/{path}"
@@ -171,7 +171,8 @@ contact_html = f"""{page_head(contact_title,contact_desc,"contact/")}
         <h2 style="margin-bottom:1rem">Request your estimate.</h2>
         <p style="color:var(--ink-soft);font-size:1rem;line-height:1.65;margin-bottom:1.2rem">Tell us a little about your project. The owner responds within 24 hours with next steps.</p>
 
-        <form action="/thanks/" method="POST" style="display:flex;flex-direction:column;gap:1rem">
+        <form action="{WEB3FORMS_ENDPOINT}" method="POST" style="display:flex;flex-direction:column;gap:1rem">
+          {web3_hidden()}
           <div>
             <label style="font-family:var(--font-head);font-size:.85rem;font-weight:600;color:var(--ink);margin-bottom:.4rem;display:block">Your Name *</label>
             <input type="text" name="name" required style="width:100%;padding:.85rem 1rem;border:1.5px solid var(--gray-border);border-radius:8px;font-family:var(--font-body);font-size:1rem;background:#fff">
@@ -212,7 +213,7 @@ contact_html = f"""{page_head(contact_title,contact_desc,"contact/")}
   </div>
 </section>
 
-{cta_banner()}
+{cta_banner(form=False)}
 {footer()}
 </body></html>"""
 write_html("contact/index.html", contact_html)

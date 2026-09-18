@@ -222,6 +222,27 @@ section{padding:4.2rem 0}
 .cta-phone-large:hover{color:#fff}
 .cta-buttons{display:flex;flex-wrap:wrap;gap:.85rem;justify-content:center}
 
+/* LEAD FORM — closes every page, posts to Web3Forms */
+.leadform{background:var(--cream-deep);padding:4.5rem 0;scroll-margin-top:80px}
+.lf-in{display:grid;grid-template-columns:1fr 1.05fr;gap:3rem;align-items:center}
+.lf-copy h2{margin-bottom:.85rem}
+.lf-copy p{color:var(--gray);font-size:1.05rem}
+.lf-points{list-style:none;margin:1.3rem 0;padding:0}
+.lf-points li{position:relative;padding-left:1.7rem;margin-bottom:.6rem;color:var(--ink-soft)}
+.lf-points li::before{content:"✓";position:absolute;left:0;color:var(--emerald);font-weight:800}
+.lf-copy .lf-tel{font-size:1rem;color:var(--ink-soft)}
+.lf-tel a{color:var(--emerald);font-weight:700}
+.formcard{background:#fff;border-radius:14px;box-shadow:var(--shadow-lg);padding:1.85rem;border-top:3px solid var(--caramel)}
+.formcard-title{font-family:var(--font-head);font-weight:800;font-size:1.2rem;color:var(--emerald-dark);margin-bottom:1.1rem}
+.fgrid{display:grid;grid-template-columns:1fr 1fr;gap:.8rem}
+.fgrid label{display:block;font-family:var(--font-head);font-size:.72rem;font-weight:700;color:var(--ink);letter-spacing:.06em;text-transform:uppercase}
+.fgrid .full{grid-column:1/-1}
+.fgrid input,.fgrid select,.fgrid textarea{display:block;width:100%;margin-top:.28rem;padding:.72rem .85rem;border:1.5px solid var(--gray-border);border-radius:7px;font-size:.95rem;font-family:var(--font-body);font-weight:400;letter-spacing:0;text-transform:none;color:var(--ink);background:#fff}
+.fgrid textarea{resize:vertical;min-height:84px}
+.fgrid input:focus,.fgrid select:focus,.fgrid textarea:focus{outline:none;border-color:var(--emerald);box-shadow:0 0 0 3px var(--emerald-soft)}
+.fgrid .fsubmit{grid-column:1/-1;width:100%}
+.fgrid .fnote{grid-column:1/-1;font-size:.78rem;color:var(--gray-light);margin:0;text-align:center}
+
 /* CHECKLIST */
 .checklist-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));gap:1.2rem;margin-top:2rem}
 .checklist-card{background:#fff;border:1px solid var(--gray-border);border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--shadow-sm)}
@@ -352,6 +373,8 @@ section{padding:4.2rem 0}
   .proof-num{font-size:1.4rem}
   .wa-float{padding:11px 16px;font-size:13px}
   .cta-phone-large{font-size:1.55rem}
+  .leadform{padding:3.2rem 0}
+  .lf-in{grid-template-columns:1fr;gap:2rem}
 }
 @media(max-width:520px){
   .brand img{height:38px}
@@ -359,6 +382,8 @@ section{padding:4.2rem 0}
   .brand-tag{font-size:.62rem}
   .nav-phone{padding:6px 10px;background:var(--emerald);color:#fff;border-radius:50px}
   .proof-grid{grid-template-columns:1fr 1fr}
+  .fgrid{grid-template-columns:1fr}
+  .formcard{padding:1.4rem}
 }
 </style>
 </head>
@@ -481,6 +506,45 @@ section{padding:4.2rem 0}
     <div class="faq-list"><details class="faq-item"><summary>What does luxury vinyl plank (lvp) flooring typically cost in Palmetto, FL in 2026?</summary><div class="faq-item-body">Luxury Vinyl Plank (LVP) Flooring installed pricing in Palmetto ranges from $1.75–$3.25 / sq ft installed on the entry-tier products up to $5.50–$9.50 / sq ft installed on the premium tier. Snead Island and Terra Ceia sit at the mouth of the Manatee — salt-air exposure rivals Anna Maria, so we use the same marine-grade fastener and stainless-trim spec on every install west of US-41. Most Palmetto clients land in the mid-tier — call or text for a free, itemized estimate inside 24 hours.</div></details><details class="faq-item"><summary>What's included in the luxury vinyl plank (lvp) flooring install price?</summary><div class="faq-item-body">Our quoted prices in Palmetto are turnkey: material, labor, subfloor moisture testing, self-leveling where required, demo and haul of the existing floor, transition strip carpentry, quarter-round, and a final detailed cleanup. The only add-ons that would change the quote post-signing are scope changes you approve — never surprise fees.</div></details><details class="faq-item"><summary>How long does a vinyl plank install take in Palmetto?</summary><div class="faq-item-body">A typical Palmetto install runs a typical 1,000–1,500 sq ft floating lvp install runs two to three working days: day one is demolition and subfloor prep, day two is installation, day three is transitions and trim — varies by square footage, subfloor condition, and selected product. We share an exact day-by-day schedule once we've walked the home and confirmed the scope.</div></details><details class="faq-item"><summary>Do you guarantee the work?</summary><div class="faq-item-body">Yes — every install in Palmetto carries our two-year written workmanship warranty, the longest in the Sarasota–Manatee flooring market. Two-year written workmanship guarantee on every install — the longest in the Sarasota market. Direct line to the owner for the full warranty period and beyond.</div></details></div>
   </div>
 </section>
+<section class="leadform" id="estimate">
+  <div class="container">
+    <div class="lf-in">
+      <div class="lf-copy">
+        <span class="eyebrow">Free Estimate · 24-Hour Reply</span>
+        <h2>Request your free flooring estimate</h2>
+        <p>Tell us a little about your project. The owner responds within 24 hours with next steps.</p>
+        <ul class="lf-points">
+          <li>Free in-home measure with samples brought to you</li>
+          <li>Written, line-itemized quote — yours to compare</li>
+          <li>Two-year written workmanship guarantee on every install</li>
+          <li>Serving all 8 cities across Sarasota &amp; Manatee Counties</li>
+        </ul>
+        <p class="lf-tel">Prefer to talk? <a href="tel:+19412413724">(941) 241-3724</a> · <a href="sms:+19412413724?body=Hi%20Sarasota%20Flooring%20Company%2C%20I%27d%20like%20a%20free%20estimate.">text us photos</a></p>
+      </div>
+      <div class="formcard">
+        <p class="formcard-title">Get a Free Flooring Estimate</p>
+        <form method="POST" action="https://api.web3forms.com/submit">
+          <input type="hidden" name="access_key" value="348354a8-581e-490e-aeeb-654bb6b32255">
+          <input type="hidden" name="subject" value="New estimate request — sarasotaflooringcompany.com">
+          <input type="hidden" name="from_name" value="Sarasota Flooring Company website">
+          <input type="hidden" name="redirect" value="https://sarasotaflooringcompany.com/thanks/">
+          <input type="hidden" name="page" value="">
+          <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" aria-hidden="true">
+          <div class="fgrid">
+            <label>Name *<input type="text" name="name" required autocomplete="name" placeholder="Your name"></label>
+            <label>Phone *<input type="tel" name="phone" required autocomplete="tel" placeholder="(941) 000-0000"></label>
+            <label class="full">Email<input type="email" name="email" autocomplete="email" placeholder="your@email.com"></label>
+            <label>City<select name="city"><option>Sarasota</option><option>Bradenton</option><option>Lakewood Ranch</option><option>Venice</option><option>Parrish</option><option>Palmetto</option><option>Siesta Key</option><option>Longboat Key</option><option>Other</option></select></label>
+            <label>Project Type<select name="service"><option>Hardwood Flooring</option><option>Luxury Vinyl Plank (LVP) Flooring</option><option>Tile Installation</option><option>Laminate Flooring</option><option>Stair Treads</option><option>Floor Repair</option><option>Not sure yet — need a recommendation</option></select></label>
+            <label class="full">Tell us about the project<textarea name="message" rows="3" placeholder="Square footage, timing, any specific products in mind..."></textarea></label>
+            <button type="submit" class="btn btn-primary fsubmit">Get My Free Estimate →</button>
+            <p class="fnote">No spam, no sales pressure. The owner responds in 24 hours.</p>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
 <section class="cta-banner">
   <div class="container">
     <h2>Ready to start? Free estimate within 24 hours.</h2>
@@ -489,7 +553,7 @@ section{padding:4.2rem 0}
     <div class="cta-buttons">
       <a href="tel:+19412413724" class="btn btn-primary">Call Now</a>
       <a href="sms:+19412413724?body=Hi%20Sarasota%20Flooring%20Company%2C%20I%27d%20like%20a%20free%20estimate." class="btn btn-secondary" style="background:#fff;color:var(--emerald)">💬 Text Us</a>
-      <a href="/contact/" class="btn btn-ghost" style="border-color:rgba(255,255,255,.5);color:#fff">Online Form</a>
+      <a href="#estimate" class="btn btn-ghost" style="border-color:rgba(255,255,255,.5);color:#fff">Online Form</a>
     </div>
   </div>
 </section>
@@ -562,6 +626,8 @@ document.addEventListener('DOMContentLoaded',function(){
       if(window.innerWidth<=880&&a.getAttribute('href').indexOf('#')!==0){e.preventDefault();li.classList.toggle('menu-open')}
     })}
   })}
+  // Tag every lead with the page that produced it (shows up in the Web3Forms email)
+  document.querySelectorAll('input[name="page"]').forEach(function(i){i.value=location.pathname});
 });
 </script>
 </body></html>

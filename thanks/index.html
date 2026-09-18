@@ -222,6 +222,27 @@ section{padding:4.2rem 0}
 .cta-phone-large:hover{color:#fff}
 .cta-buttons{display:flex;flex-wrap:wrap;gap:.85rem;justify-content:center}
 
+/* LEAD FORM — closes every page, posts to Web3Forms */
+.leadform{background:var(--cream-deep);padding:4.5rem 0;scroll-margin-top:80px}
+.lf-in{display:grid;grid-template-columns:1fr 1.05fr;gap:3rem;align-items:center}
+.lf-copy h2{margin-bottom:.85rem}
+.lf-copy p{color:var(--gray);font-size:1.05rem}
+.lf-points{list-style:none;margin:1.3rem 0;padding:0}
+.lf-points li{position:relative;padding-left:1.7rem;margin-bottom:.6rem;color:var(--ink-soft)}
+.lf-points li::before{content:"✓";position:absolute;left:0;color:var(--emerald);font-weight:800}
+.lf-copy .lf-tel{font-size:1rem;color:var(--ink-soft)}
+.lf-tel a{color:var(--emerald);font-weight:700}
+.formcard{background:#fff;border-radius:14px;box-shadow:var(--shadow-lg);padding:1.85rem;border-top:3px solid var(--caramel)}
+.formcard-title{font-family:var(--font-head);font-weight:800;font-size:1.2rem;color:var(--emerald-dark);margin-bottom:1.1rem}
+.fgrid{display:grid;grid-template-columns:1fr 1fr;gap:.8rem}
+.fgrid label{display:block;font-family:var(--font-head);font-size:.72rem;font-weight:700;color:var(--ink);letter-spacing:.06em;text-transform:uppercase}
+.fgrid .full{grid-column:1/-1}
+.fgrid input,.fgrid select,.fgrid textarea{display:block;width:100%;margin-top:.28rem;padding:.72rem .85rem;border:1.5px solid var(--gray-border);border-radius:7px;font-size:.95rem;font-family:var(--font-body);font-weight:400;letter-spacing:0;text-transform:none;color:var(--ink);background:#fff}
+.fgrid textarea{resize:vertical;min-height:84px}
+.fgrid input:focus,.fgrid select:focus,.fgrid textarea:focus{outline:none;border-color:var(--emerald);box-shadow:0 0 0 3px var(--emerald-soft)}
+.fgrid .fsubmit{grid-column:1/-1;width:100%}
+.fgrid .fnote{grid-column:1/-1;font-size:.78rem;color:var(--gray-light);margin:0;text-align:center}
+
 /* CHECKLIST */
 .checklist-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));gap:1.2rem;margin-top:2rem}
 .checklist-card{background:#fff;border:1px solid var(--gray-border);border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--shadow-sm)}
@@ -352,6 +373,8 @@ section{padding:4.2rem 0}
   .proof-num{font-size:1.4rem}
   .wa-float{padding:11px 16px;font-size:13px}
   .cta-phone-large{font-size:1.55rem}
+  .leadform{padding:3.2rem 0}
+  .lf-in{grid-template-columns:1fr;gap:2rem}
 }
 @media(max-width:520px){
   .brand img{height:38px}
@@ -359,6 +382,8 @@ section{padding:4.2rem 0}
   .brand-tag{font-size:.62rem}
   .nav-phone{padding:6px 10px;background:var(--emerald);color:#fff;border-radius:50px}
   .proof-grid{grid-template-columns:1fr 1fr}
+  .fgrid{grid-template-columns:1fr}
+  .formcard{padding:1.4rem}
 }
 </style>
 </head>
@@ -496,6 +521,8 @@ document.addEventListener('DOMContentLoaded',function(){
       if(window.innerWidth<=880&&a.getAttribute('href').indexOf('#')!==0){e.preventDefault();li.classList.toggle('menu-open')}
     })}
   })}
+  // Tag every lead with the page that produced it (shows up in the Web3Forms email)
+  document.querySelectorAll('input[name="page"]').forEach(function(i){i.value=location.pathname});
 });
 </script>
 </body></html>

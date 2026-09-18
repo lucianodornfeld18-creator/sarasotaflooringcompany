@@ -13,7 +13,7 @@ from _gen import (
     internal_links_box, SITE,
 )
 
-OUT = "/home/claude/sarasota-flooring"
+OUT = os.path.dirname(os.path.abspath(__file__))
 
 # ============================================================================
 # Pre-generate the cost-blog topic list
