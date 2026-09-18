@@ -1,0 +1,57 @@
+{
+ "slug": "homeowners-insurance-cover-flood-damaged-floors-florida",
+ "question": "Does homeowners insurance cover flood-damaged floors in Florida?",
+ "title": "Does Homeowners Insurance Cover Flood-Damaged Floors?",
+ "h1": "Does Homeowners Insurance Cover Flood-Damaged Floors in Florida?",
+ "description": "No -- standard homeowners policies exclude flood; NFIP flood insurance covers up to $250,000 in building damage, with a 30-day wait for new policies.",
+ "cluster": "water-flood-hurricane",
+ "cluster_label": "Water, floods & hurricanes",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "No, not under a standard homeowners policy. FEMA is explicit that flood damage, including flooring destroyed by storm surge, requires separate flood insurance. NFIP building coverage goes up to $250,000 and contents coverage up to $100,000, but new policies usually carry a 30-day waiting period, so buying flood coverage after a storm's already forecast for Sarasota County is typically too late.",
+ "sections": [
+  {
+   "h2": "The Short Answer: No, Not Under a Standard Policy",
+   "html": "<p>A standard homeowners insurance policy in Florida excludes flood damage, and that includes flooring ruined by rising water, storm surge, or a slab that stayed wet long enough to warp hardwood boards or delaminate glued-down vinyl. FEMA's National Flood Insurance Program (NFIP) exists specifically and only because standard homeowners policies don't cover this kind of damage. Wind-driven rain damage, a different category, is sometimes covered depending on the policy; water that rises from outside the home, whether from surge, a swollen creek, or overflowing stormwater, generally is not, regardless of which hurricane caused it. That distinction alone is worth confirming with your specific carrier before a storm season starts, not after water is already on the floor.</p>"
+  },
+  {
+   "h2": "What NFIP Flood Insurance Actually Covers",
+   "html": "<p>NFIP building coverage goes up to $250,000, and contents coverage, which can include some flooring-adjacent items but not the flooring itself in every policy structure, goes up to $100,000. New flood insurance policies usually carry a 30-day waiting period before coverage takes effect, which is the detail that catches people off guard most: buying a policy once a storm is already tracking toward the Gulf Coast is almost always too late to help with that specific event. Coverage needs to be in place well before hurricane season, not during it, since carriers generally stop binding new flood policies once a storm is actively being tracked toward the state.</p>"
+  },
+  {
+   "h2": "Why Flooring Needs Its Own Line of Thinking",
+   "html": "<p>Flooring sits at the exact boundary flood policies are built around, since it's the first building material floodwater touches and often the most expensive single line item in a flood claim after drywall and cabinetry. An NFIP adjuster typically assesses flooring damage by material and by how contaminated the water was, which is part of why documentation, photos, and a clear timeline of when flooring was removed matter for the claim, not just for repair scheduling and not just for the flooring line item alone. <a href=\"/blog/soon-pull-up-wet-flooring-after-storm-surge/\">Our guide on how fast wet flooring needs to come up</a> covers both the mold risk and the claims angle together.</p>"
+  },
+  {
+   "h2": "What This Means for Your Flooring Budget",
+   "html": "<p>If a claim doesn't fully cover replacement, or a homeowner doesn't carry flood insurance at all, the cost falls back to standard flooring pricing: removal and prep running roughly $1.75 to $4.50 per sq ft depending on the material coming out, then new <a href=\"/vinyl-plank-flooring/\">vinyl plank</a> or <a href=\"/tile-installation/\">tile</a> installed at typical 2026 Sarasota-area rates, both of which tend to hold up better than wood if the same room ever floods again. <a href=\"/cost/\">Our cost guide</a> breaks that down by material so you can plan a realistic budget whether insurance covers part of it, most of it, or none of it at all.</p>"
+  },
+  {
+   "h2": "Where Wind Coverage and Flood Coverage Overlap, and Where They Don't",
+   "html": "<p>Hurricane damage claims in Florida often involve both a homeowners policy and a flood policy at the same time, and untangling which one pays for what is one of the more confusing parts of a post-storm claim. A roof leak that lets rain into a second-floor bedroom and damages the <a href=\"/hardwood-flooring/\">hardwood</a> below it is typically a wind/homeowners claim; storm surge that pushes water in at ground level and ruins the same style of flooring downstairs is typically a flood claim, even though both happened during the same storm. Adjusters from each policy sometimes need to coordinate on a single house, which is part of why clear photos and a documented timeline matter as much as the repair estimate itself.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Coverage Type", "What It Covers", "Limit / Note"],
+  "rows": [
+   ["Standard homeowners policy", "Generally excludes flood damage", "Not applicable to storm surge or rising water"],
+   ["NFIP building coverage", "Structure, including flooring", "Up to $250,000"],
+   ["NFIP contents coverage", "Belongings, some flooring-adjacent items", "Up to $100,000"],
+   ["New flood policy waiting period", "N/A", "Typically 30 days before coverage starts"]
+  ],
+  "caption": "Source: FEMA flood insurance overview, fema.gov/flood-insurance"
+ },
+ "faqs": [
+  {"q": "Is there ever a shorter waiting period for NFIP coverage?", "a": "Certain circumstances, like closing on a mortgage that requires flood insurance, can shorten or waive the standard 30-day wait. Check directly with your insurer or agent for your specific situation."},
+  {"q": "Does flood insurance cover mold that grows after a flood?", "a": "Coverage for resulting mold varies by policy and often depends on how quickly the homeowner acted to dry the space, which is another reason the EPA's 24-48 hour drying guidance matters for a claim, not just for the floor."},
+  {"q": "Can I get flood insurance if I'm not in a mapped flood zone?", "a": "Yes. NFIP policies are available outside high-risk zones too, often at a lower premium, and a meaningful share of Florida flood claims come from homes outside the mapped Special Flood Hazard Area."}
+ ],
+ "next_step": "If flood damage already happened, we'll give you a written, line-itemized flooring quote you can hand straight to your insurance adjuster or use to plan the budget yourself.",
+ "sources": [
+  {"title": "FEMA -- Flood Insurance overview", "url": "https://www.fema.gov/flood-insurance"}
+ ],
+ "related_services": ["floor-repair"],
+ "related_cities": ["sarasota"],
+ "related_posts": ["soon-pull-up-wet-flooring-after-storm-surge", "flooring-survives-hurricane-flood-florida", "water-damaged-hardwood-floors-saved", "vinyl-plank-flooring-saved-after-flood", "cost-remove-tile-flooring-southwest-florida"],
+ "keywords": ["homeowners insurance flood damaged floors Florida", "NFIP flood insurance flooring", "does insurance cover flood floors", "flood insurance Sarasota County", "flooring insurance claim Florida"]
+}

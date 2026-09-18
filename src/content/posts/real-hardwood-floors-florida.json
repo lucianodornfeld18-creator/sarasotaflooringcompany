@@ -1,0 +1,57 @@
+{
+ "slug": "real-hardwood-floors-florida",
+ "question": "Can you have real hardwood floors in Florida?",
+ "title": "Can Real Hardwood Floors Work in a Florida Home?",
+ "h1": "Can You Have Real Hardwood Floors in Florida?",
+ "description": "Solid hardwood can work in Sarasota-area homes if indoor humidity stays 30-50% RH and the slab tests at or below 75% RH before install.",
+ "cluster": "florida-humidity-moisture",
+ "cluster_label": "Florida humidity & moisture",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Yes -- solid hardwood can work in a Sarasota or Manatee County home, but only above grade with air conditioning holding steady. NWFA guidelines put hardwood's comfort zone at 30-50% relative humidity and 60-80°F, and any concrete slab must test at or below 75% RH (ASTM F2170) before engineered hardwood glues down directly.",
+ "sections": [
+  {
+   "h2": "Why Florida Humidity Makes This a Fair Question",
+   "html": "<p>Ask around Sarasota long enough and you'll hear it: real wood doesn't belong on the Gulf Coast. That's not true, but the worry has a real cause behind it. Wood is hygroscopic -- it trades moisture with the air around it constantly -- and outdoor humidity here sits high enough, often well into the 70s and 80s percent, that a house without steady air conditioning can push a wood floor outside its comfort zone fast. The National Wood Flooring Association (NWFA) says hardwood performs best between 30% and 50% relative humidity and 60-80°F, which is roughly what a normally air-conditioned home in Sarasota, Manatee or Charlotte County holds even in the middle of August. The problem was never the wood species. It's whether the house around it keeps those numbers steady, hurricane season included.</p>"
+  },
+  {
+   "h2": "What Happens to Wood Outside That Range",
+   "html": "<p>Most solid and engineered flooring ships from the mill at 6% to 9% moisture content. Inside a typical air-conditioned room, at 70°F and 40% relative humidity, wood settles near 7.7% moisture content and stays flat with tight seams. Let that same floor sit in un-air-conditioned Florida air at 75-80% relative humidity and it can climb toward 14% to 16% moisture content, enough to cup at the edges, gap at the seams once the AC comes back on, or push against baseboards and door casings. The table below shows the difference side by side. Nothing here is unique to hardwood; it's basic wood physics, which is exactly why the fix is mechanical -- air conditioning, dehumidification, subfloor prep -- rather than picking a different species.</p>"
+  },
+  {
+   "h2": "Solid Wood Belongs Above Grade, Not on a Bare Slab",
+   "html": "<p>The NWFA draws a clear line here: solid wood shouldn't go below grade, and any concrete-slab install needs to test at or below 75% relative humidity (ASTM F2170) or 3 lbs per 1,000 sq ft per 24 hours (ASTM F1869), unless a rated vapor-retarder system is part of the build. Most homes from Sarasota to Bradenton and Lakewood Ranch sit on slab-on-grade construction, so that reading isn't a formality -- it decides whether solid strip, engineered plank, or a different material is right for a given room. When the slab is uneven as well as damp, <a href=\"/subfloor-leveling/\">slab leveling and moisture prep</a> often becomes its own line item before any flooring order goes in. We cover the mechanics of that decision in our piece on <a href=\"/blog/install-hardwood-flooring-directly-concrete-slab/\">installing hardwood directly over concrete</a>.</p>"
+  },
+  {
+   "h2": "What We Check Before We Quote Hardwood Here",
+   "html": "<p>We read slab moisture before we write a <a href=\"/hardwood-flooring/\">hardwood flooring</a> quote for any home in our Sarasota, Manatee and Charlotte county service area, not after the fact. If a slab reads high, we'll talk through <a href=\"/engineered-hardwood-flooring/\">engineered hardwood</a> instead of solid strip, because a floor built for slab moisture at $9 to $12 per sq ft installed beats a solid floor fighting its subfloor for the next decade. Every quote is written and line-itemized -- material, labor, removal, prep -- so you can see exactly what the moisture reading changed about the plan and the price. If you're weighing engineered wood specifically because of the humidity question, <a href=\"/blog/am-stupid-want-engineered-wood-florida/\">we go deeper into that trade-off here</a>.</p>"
+  },
+  {
+   "h2": "Solid, Engineered, or Something Else, Room by Room",
+   "html": "<p>Not every room in the house needs the same answer. A great room with sliders open to a humid lanai behaves differently than an interior hallway that rarely sees outside air, and a 2,200 sq ft block ranch in Gulf Gate built in the 1970s often needs a different plan for the Florida room than for the bedrooms. We look at sun exposure, AC zoning and slab readings room by room instead of making one call for the whole house. For homes closer to open water, where flooding risk adds another variable, <a href=\"/blog/whats-best-flooring-option-house-by-water/\">this comparison is worth reading too</a>.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Indoor Condition", "Approx. Wood Moisture Content", "What You'll Typically See"],
+  "rows": [
+   ["AC running, 70°F / 40% RH", "~7.7%", "Flat boards, tight seams, normal seasonal movement"],
+   ["AC off or unconditioned room, 75-80% RH", "~14-16%", "Cupping, seam gaps, pressure at baseboards"]
+  ],
+  "caption": "Equilibrium moisture content estimates, FPL Wood Handbook data via en.wikipedia.org/wiki/Equilibrium_moisture_content"
+ },
+ "faqs": [
+  {"q": "Does solid hardwood need a plywood subfloor over a Florida slab?", "a": "Usually, yes. NWFA guidance keeps solid wood above grade and off bare concrete unless a rated vapor-retarder assembly is built into the floor system. Engineered hardwood is designed to glue directly to a slab that passes its moisture test, which is why it's the more common choice over concrete here."},
+  {"q": "Will my AC alone keep humidity low enough for hardwood?", "a": "In most Sarasota-area homes, yes, as long as it runs year-round. Problems start when a house sits closed up without AC for weeks or a sunroom stays unconditioned. Our guide on <a href=\"/blog/set-ac-humidistat-leave-florida-home-summer-floors/\">AC and humidistat settings for a home you're leaving for the season</a> covers the numbers."},
+  {"q": "Is engineered hardwood really more humidity-tolerant than solid?", "a": "Its cross-layered core resists the swelling and cupping solid strip can show at high moisture content, and it's built to glue directly to a slab. It isn't immune to a failed slab test, though; the same 75% RH and 3 lb thresholds still apply before we'll install it."}
+ ],
+ "next_step": "If you're picturing hardwood in a specific room, we'll test the slab on a free in-home visit and give you a written, line-itemized quote for solid or engineered within 24 hours.",
+ "sources": [
+  {"title": "NWFA moisture guidance via Hurst Hardwoods", "url": "https://www.hursthardwoods.com/moisture-control/"},
+  {"title": "Equilibrium Moisture Content, Wikipedia (FPL Wood Handbook data)", "url": "https://en.wikipedia.org/wiki/Equilibrium_moisture_content"},
+  {"title": "NWFA Concrete Subfloors guidance (PDF)", "url": "https://nwfa.org/wp-content/uploads/2020/03/Concrete-Subfloors_Updated.pdf"}
+ ],
+ "related_services": ["hardwood-flooring"],
+ "related_cities": ["sarasota", "bradenton", "lakewood-ranch"],
+ "related_posts": ["am-stupid-want-engineered-wood-florida", "install-hardwood-flooring-directly-concrete-slab", "set-ac-humidistat-leave-florida-home-summer-floors", "solid-vs-engineered-hardwood-better-concrete-slab", "indoor-humidity-keep-wood-floors-florida"],
+ "keywords": ["real hardwood floors Florida", "hardwood flooring Florida humidity", "engineered hardwood Florida", "best flooring for Florida humidity", "hardwood floor installation Sarasota FL", "NWFA moisture guidelines"]
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "moisture-barrier-under-laminate-concrete-floor",
+ "question": "Do you need a moisture barrier under laminate on a concrete floor?",
+ "title": "Moisture Barrier Under Laminate on a Concrete Floor",
+ "h1": "Do You Need a Moisture Barrier Under Laminate on a Concrete Floor?",
+ "description": "Mohawk requires 6-mil poly film with 8-inch overlapped seams under laminate on concrete. What Sarasota-area slabs need to test before install, 2026.",
+ "cluster": "laminate",
+ "cluster_label": "Laminate",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Yes, in a Sarasota-area home on a slab. Mohawk's laminate installation guide requires a moisture barrier over any concrete floor — 6-mil polyethylene film with seams overlapped 8 inches for a floating install. The slab should also test within ASTM F1869's default limit of 3 lbs of moisture vapor emission per 1,000 sq ft per 24 hours, unless the manufacturer allows a higher reading.",
+ "sections": [
+  {
+   "h2": "Do You Need a Moisture Barrier Under Laminate on a Concrete Floor?",
+   "html": "<p>Yes, and it's not optional if you want the warranty to hold. Mohawk's laminate installation FAQ specifies a moisture barrier over concrete for every floating <a href=\"/laminate-flooring/\">laminate</a> install: 6-mil polyethylene film, with seams overlapped 8 inches and taped, running up the wall slightly behind the baseboard, with every seam taped rather than just overlapped loosely. That film blocks vapor moving up through the slab from ever reaching the laminate's wood-fiber core, which is the part of the floor most vulnerable to swelling and delamination once moisture gets to it.</p><p>This applies whether the slab is brand new or decades old. A newer pour can actually test wetter for longer than an older one, since concrete keeps releasing residual moisture from the curing process for months, sometimes longer than a year on a thick slab. That's a common surprise on new-construction homes in Lakewood Ranch and Parrish, where owners assume a brand-new slab must be the driest option in the house and are caught off guard when the moisture test says otherwise.</p>"
+  },
+  {
+   "h2": "How Much Moisture Is Too Much?",
+   "html": "<p>A barrier alone doesn't fix a slab that's too wet to begin with. The standard test, ASTM F1869, uses a calcium chloride kit taped to the slab for 60-72 hours to measure moisture vapor emission rate. The default acceptable limit is 3 lbs per 1,000 sq ft per 24 hours, unless the specific laminate manufacturer's documentation allows a higher number for their product. A slab that fails that test needs a sealer or a longer drying period before laminate goes down, barrier or not. We schedule this test well ahead of the install date specifically because the 60-72 hour window doesn't fit into a same-week timeline if the first reading comes back high and a second test is needed after treatment.</p>"
+  },
+  {
+   "h2": "What Happens If You Skip the Barrier?",
+   "html": "<p>We've torn out laminate installed without one, and the failure pattern is consistent: swelling and lifting starting at the seams, usually noticeable within the first year, worse in rooms that stay humid longer between AC cycles, like a back bedroom on a thermostat zone that runs less often than the main living space. It's an expensive way to find out a step got skipped, since the whole floating floor typically has to come up rather than just the affected boards. A 6-mil film and a moisture test add a modest amount to the job cost and prevent nearly all of that risk. We include both as standard line items on every laminate quote rather than treating them as optional upgrades, since the cost of doing it right the first time is small next to tearing out an entire floating floor a year later.</p>"
+  },
+  {
+   "h2": "How We Handle Barrier and Moisture Testing",
+   "html": "<p>We test every slab before ordering laminate material and install the polyethylene barrier as a standard part of the job, never as an optional upsell tacked on later. If your slab tests high, we'll walk through the available options with you, from a longer dry-out period to switching to a product built for wetter conditions, such as waterproof <a href=\"/vinyl-plank-flooring/\">vinyl plank</a>. See our <a href=\"/cost/laminate-flooring/\">laminate flooring cost guide</a> for what barrier and prep typically add to a project, or our <a href=\"/subfloor-leveling/\">subfloor leveling</a> page if the slab needs more than moisture control before installation. Every reading we take gets written into your quote, so there's a clear record of what the slab tested at on the day the barrier went down.</p>"
+  }
+ ],
+ "faqs": [
+  {"q": "Does glue-down laminate need the same moisture barrier as floating laminate?", "a": "Glue-down laminate is uncommon residentially; most Sarasota-area laminate jobs are floating floors, which is the install method Mohawk's barrier spec addresses directly."},
+  {"q": "Can you install laminate over an old vinyl or tile floor instead of bare concrete?", "a": "Sometimes, if that existing floor is flat, stable and fully adhered, but a moisture barrier is still typically required if concrete is anywhere in the moisture path below the existing material."},
+  {"q": "How long does a calcium chloride moisture test take?", "a": "The ASTM F1869 test runs 60-72 hours once the kit is taped to the slab, which is why we schedule it ahead of the install date rather than the morning materials arrive."}
+ ],
+ "next_step": "We'll test your slab's moisture emission rate before ordering laminate, so there are no surprises once installation starts.",
+ "sources": [
+  {"title": "Mohawk laminate flooring FAQ", "url": "https://content.syndigo.com/legacy/sp/a/mohklamFAQ.pdf.pdf?spworld_assetname=4YV9qpwo.pdf&spworld_download=1&spworld_filename=mohklamFAQ.pdf.pdf"},
+  {"title": "IFTI: ASTM F2170 vs F1869, which moisture test fits your project", "url": "https://ifti.com/astm-f2170-vs-f1869-which-moisture-test-fits-your-project/"}
+ ],
+ "related_services": ["laminate-flooring", "vinyl-plank-flooring"],
+ "related_cities": [],
+ "related_posts": ["laminate-flooring-bad-idea-florida", "test-concrete-slab-moisture-before-installing-flooring", "acceptable-moisture-level-concrete-slab-flooring", "moisture-barrier-under-vinyl-plank-flooring-concrete-slab"],
+ "keywords": ["moisture barrier for laminate on concrete", "laminate flooring sarasota", "concrete slab moisture testing for flooring", "water resistant laminate"]
+}

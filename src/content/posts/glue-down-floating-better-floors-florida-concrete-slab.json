@@ -1,0 +1,59 @@
+{
+ "slug": "glue-down-floating-better-floors-florida-concrete-slab",
+ "question": "Is glue-down or floating better for floors on a Florida concrete slab?",
+ "title": "Glue-Down vs Floating Floors on a Florida Slab",
+ "h1": "Is Glue-Down or Floating Better for Floors on a Florida Concrete Slab?",
+ "description": "Glue-down suits high-traffic and high-moisture rooms; floating installs faster but many condos, like Siesta Key's, restrict it above floor one.",
+ "cluster": "concrete-slab-subfloor",
+ "cluster_label": "Concrete slabs & subfloors",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Neither is universally better; it depends on the room and the building. Glue-down handles higher slab moisture and heavy traffic better because the adhesive itself can be rated for the reading, while floating installs faster and is easier to replace in sections. Some Sarasota-area condo buildings, including Siesta Key's Siesta Dunes, prohibit floating floors above the first floor entirely.",
+ "sections": [
+  {
+   "h2": "What Actually Separates the Two Methods",
+   "html": "<p>Glue-down vinyl plank or engineered hardwood bonds directly to the slab with an adhesive selected for the room's measured moisture reading, which lets it handle a wider range of slab conditions than a floating floor can. Floating floors click together over an underlayment without any adhesive touching the slab, which makes them faster to install and simpler to replace a damaged section of, but doesn't remove the slab's moisture limit; most floating LVP and LVT still caps acceptable in-slab relative humidity at 75% to 85%. Neither method is inherently the better choice across every room in a house, and the right call often changes from one room to the next in the same home.</p>"
+  },
+  {
+   "h2": "When Glue-Down Wins on a Florida Slab",
+   "html": "<p>Glue-down tends to be the better call in rooms with heavier furniture, rolling loads like a kitchen island cart, or a slab reading that's on the high side of acceptable, because the right adhesive is chosen to match that specific moisture number. A Houzz thread on Florida slab flooring makes the same point installers repeat often: the wrong adhesive over a damp slab is a common cause of lifting and bubbling months later, not a flaw in glue-down as a method. Matching the adhesive to the tested reading, rather than using whatever's on hand or on the truck that day, is what actually makes the difference between a floor that holds and one that doesn't.</p>"
+  },
+  {
+   "h2": "When Floating Makes More Sense",
+   "html": "<p>Floating floors make sense in rooms where speed matters, where the slab reading is comfortably within the product's rated limit, or where a future repair might need a section pulled up and replaced without re-gluing anything. They're also common in rental turnovers and rooms getting refreshed on a tighter budget, since there's no adhesive cure time built into the schedule. The trade-off is that a floating floor telegraphs more of what's underneath it, so a slab that isn't flat within tolerance shows up underfoot more noticeably than it would with a glued installation, which is one more reason flatness gets checked alongside moisture before either method is chosen.</p>"
+  },
+  {
+   "h2": "What Condo Buildings Add to the Decision",
+   "html": "<p>Some Sarasota-area condo associations settle this question before you get to choose. Siesta Dunes on Siesta Key, for example, requires units above the first floor to install an underlayment rated at IIC 50 or better under both carpet and hard flooring, requires management to inspect that underlayment before flooring goes down, and prohibits floating floors above the first floor outright. Rules like that vary building by building, so <a href=\"/condo-flooring/\">condo flooring</a> projects need the HOA's actual documents checked before glue-down or floating even becomes a live question. Our <a href=\"/tools/condo-flooring-approval-checklist/\">condo flooring approval checklist</a> walks through what to gather first.</p>"
+  },
+  {
+   "h2": "How We Decide on Your Job",
+   "html": "<p>We start with the slab moisture test, since a reading near a product's rated limit narrows the decision before traffic patterns or HOA rules even enter the conversation. From there, we walk the room with you: a primary bedroom with light foot traffic and a comfortable moisture margin often does fine floating, while a kitchen, entry, or a room with a dog that scratches at the seams usually does better glued. <a href=\"/tile-installation/\">Tile</a> sidesteps the question entirely in wet areas like showers and laundry rooms, which is worth mentioning since not every room needs a vinyl-versus-wood decision at all. Whichever way it goes, the method gets written into the quote by name, not left as an assumption.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Factor", "Glue-Down", "Floating"],
+  "rows": [
+   ["Moisture tolerance", "Matched to adhesive rating, often higher", "Capped by manufacturer, typically 75-85% RH"],
+   ["Install speed", "Slower, adhesive cure time", "Faster, no cure time"],
+   ["Condo/HOA rules", "Generally allowed", "Sometimes prohibited above ground floor (e.g. Siesta Dunes)"],
+   ["Repairability", "Harder to lift a single section", "Easier to replace individual planks"]
+  ],
+  "caption": "General comparison; always confirm against your slab's tested moisture reading and your building's HOA documents"
+ },
+ "faqs": [
+  {"q": "Does glue-down cost more than floating?", "a": "Usually somewhat more in labor, since adhesive application and cure time add a step, though material cost can be similar. Our <a href=\"/cost/vinyl-plank-flooring/\">vinyl plank cost guide</a> breaks out both by method."},
+  {"q": "Can I switch from floating to glue-down later if the floor fails?", "a": "Yes, but it usually means full removal and starting over rather than a partial fix, since floating floors aren't bonded to allow a gradual conversion. That's part of why we test the slab up front rather than guessing."},
+  {"q": "Do all Sarasota condos restrict floating floors?", "a": "No, it varies by association. Some allow floating with a minimum IIC rating, others require glue-down only above the first floor. Check your specific documents, or see our <a href=\"/blog/hoa-approval-new-flooring-sarasota-condo/\">guide to HOA flooring approval</a>."}
+ ],
+ "next_step": "Tell us your building and floor level and we'll confirm the HOA's install-method rules before recommending glue-down or floating on your written quote.",
+ "sources": [
+  {"title": "IFTI -- Acceptable moisture content, concrete & vinyl flooring", "url": "https://ifti.com/acceptable-moisture-content-concrete-vinyl-flooring/"},
+  {"title": "Siesta Dunes Terms & Conditions (flooring/underlayment rules)", "url": "https://www.siestadunes.com/terms-conditions/"},
+  {"title": "Houzz -- engineered wood floors in a condo, underlayment discussion", "url": "https://www.houzz.com/discussions/5840417/humid-fla-concrete-slab-best-floor-choice-type-don-t-want-tile"}
+ ],
+ "related_services": ["vinyl-plank-flooring", "hardwood-flooring"],
+ "related_cities": ["siesta-key", "sarasota"],
+ "related_posts": ["moisture-barrier-under-vinyl-plank-flooring-concrete-slab", "floating-floors-allowed-siesta-key-longboat-key-condos", "hoa-approval-new-flooring-sarasota-condo", "iic-rating-condo-flooring-florida", "install-hardwood-flooring-directly-concrete-slab"],
+ "keywords": ["glue-down vs floating flooring Florida", "floating floor concrete slab", "glue-down vinyl plank Florida", "condo flooring Siesta Key rules", "IIC rating floating floor"]
+}

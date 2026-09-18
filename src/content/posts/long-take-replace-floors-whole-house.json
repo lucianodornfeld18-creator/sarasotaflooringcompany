@@ -1,0 +1,54 @@
+{
+ "slug": "long-take-replace-floors-whole-house",
+ "question": "How long does it take to replace the floors in a whole house?",
+ "title": "How Long Does a Whole-House Floor Replacement Take?",
+ "h1": "How Long Does It Take to Replace the Floors in a Whole House?",
+ "description": "A two-person crew lays 1,000 sq ft of click LVP in 1-2 days; tile and refinishing take longer because of cure times. See the 2026 timeline breakdown.",
+ "cluster": "installation-process-timeline",
+ "cluster_label": "Installation & timeline",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "A two-person crew lays about 1,000 square feet of click LVP in one to two days on a flat, prepped slab. Tile and glue-down wood take longer because of cure times: tile needs 24 hours before grouting and up to 72 hours before heavy loads, and a full hardwood sand-and-refinish runs three to five working days.",
+ "sections": [
+  {
+   "h2": "The Baseline: Click LVP on a Ready Slab",
+   "html": "<p>A two-person crew typically installs about 1,000 square feet of click-together <a href=\"/vinyl-plank-flooring/\">LVP</a> in one to two days, as long as the slab underneath is already flat and prepped. That's the fastest realistic timeline for a whole-house job, and it's the number most other materials get measured against.</p><p>The catch is that ready slab. If the existing floor still needs to come out, or the concrete has high spots, add time before the clock on the flooring itself even starts; that's covered by <a href=\"/subfloor-leveling/\">subfloor leveling</a> when it applies.</p><p>That two-day figure assumes a two-person crew working steadily, not a solo installer squeezing in a job between others. Larger homes sometimes get a three- or four-person crew specifically to keep pace with that same daily rate across more square footage, rather than stretching one crew across a week and a half. We sequence bedrooms and living areas first when the household is staying home during the work, and save less-used spaces like a guest room or den for the tail end of the schedule.</p>"
+  },
+  {
+   "h2": "Why Tile and Glue-Down Wood Take Longer",
+   "html": "<p>Tile isn't slow to install so much as slow to finish. Most tile can be grouted about 24 hours after setting, and you should wait at least another 24 hours after grouting before regular foot traffic and 72 hours before heavy loads or appliances go back, according to MAPEI's installation guidance. Rapid-set products can shorten that window. Glue-down <a href=\"/hardwood-flooring/\">hardwood</a> has its own adhesive cure time on top of the actual laying.</p><p>The grout itself matters too. Standard cement-based grout needs the full cure window MAPEI describes, while some rapid-set formulations are engineered specifically to shorten it, faster turnaround on occupied jobs. Ask which grout is planned for your project if the calendar is tight.</p>"
+  },
+  {
+   "h2": "Sand-and-Refinish Runs on a Different Clock Entirely",
+   "html": "<p>A full sand-and-refinish job on existing hardwood typically takes three to five working days. That's the sanding, staining, and finish coats. Oil-based polyurethane needs up to 30 days to fully cure before rugs and furniture pads go back down, even though the floor is walkable well before that. If you're weighing refinishing against a full replacement, our <a href=\"/hardwood-floor-refinishing/\">refinishing page</a> covers the tradeoffs in more depth.</p><p>The sanding stage alone typically eats two of those three to five days, since it usually takes multiple passes with progressively finer grits to get an even surface, especially on a floor that's been refinished before. That's a meaningful chunk of the timeline right there. Staining and the finish coats fill out the remaining days.</p>"
+  },
+  {
+   "h2": "What Actually Slows a Whole-House Job Down",
+   "html": "<p>Old flooring removal, furniture moves, multiple rooms with different materials, and custom cuts around cabinetry or stairs all add days that a per-square-foot install rate doesn't capture. A 1,800 square foot home with tile in the wet areas and LVP everywhere else takes longer than either material alone would suggest, simply because the crew is managing two different cure schedules under one roof.</p><p>Stairs are their own category entirely. A staircase with a dozen or more treads, risers, and stringers to cut and fit precisely can add a full day or more on its own, separate from whatever timeline the rest of the house is on. None of these variables show up in a simple per-square-foot install rate, which is why we walk through the actual floor plan room by room before giving a timeline rather than quoting off square footage alone. That's also why the timeline on your written quote is a range tied to the actual scope, not a single number pulled from a generic rate card.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Job type", "Typical time", "What extends it"],
+  "rows": [
+   ["1,000 sq ft click LVP on a ready slab", "1-2 days", "Furniture removal, multiple rooms, custom trim work"],
+   ["Tile setting and grouting", "Grout 24 hrs after setting, plus 24-72 hrs cure", "Rapid-set product vs. standard thinset and grout"],
+   ["Full hardwood sand and refinish", "3-5 working days", "Oil-based polyurethane needs up to 30 days before rugs return"]
+  ],
+  "caption": "Sources: Tampa Flooring Gallery, MAPEI, Big Bro Hardwood (2026)."
+ },
+ "faqs": [
+  {"q": "Does removing old flooring add much time to a whole-house job?", "a": "Yes, and it's usually the first thing to get underestimated. Carpet and laminate come out fast, but glued tile removal with thinset chip-out takes meaningfully longer per room than either of those."},
+  {"q": "Can different rooms get different materials in the same week?", "a": "Often, yes, if we sequence the work around each material's cure time. Tile-heavy wet areas usually get scheduled first since they need the most lead time before foot traffic resumes."},
+  {"q": "Why do some quotes give a wider time range than others?", "a": "A range that accounts for removal, slab prep, and multiple material cure times is more honest than a single number based only on install speed. Ask what's included before comparing two timelines directly."}
+ ],
+ "next_step": "Get a written timeline as part of your free in-home estimate, broken out by room and material so you know what to plan around.",
+ "sources": [
+  {"title": "Estimating the duration of your flooring installation project", "url": "https://tampaflooringgallery.com/quick-step-estimating-the-duration-of-your-flooring-installation-project/"},
+  {"title": "MAPEI - tile installation basics", "url": "https://www.mapei.com/us/en-us/training-and-technical-service/tech-talk-blog/detail/mapei-blog/2018/07/02/tile-installation-basics"},
+  {"title": "How long to refinish hardwood floors", "url": "https://bigbrohardwood.com/how-long-to-refinish-hardwood-floors/"}
+ ],
+ "related_services": ["vinyl-plank-flooring", "tile-installation", "hardwood-flooring"],
+ "related_cities": [],
+ "related_posts": ["live-house-during-floor-removal-installation", "best-time-year-flooring-installation-sarasota", "cost-refinish-hardwood-floors", "fast-floors-replaced-between-guest-bookings"],
+ "keywords": ["how long does flooring installation take", "flooring installation timeline", "hardwood floor refinishing near me", "lvp installation near me", "cost to refinish hardwood floors"]
+}

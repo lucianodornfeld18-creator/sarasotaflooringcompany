@@ -1,0 +1,58 @@
+{
+ "slug": "indoor-humidity-keep-wood-floors-florida",
+ "question": "What indoor humidity should I keep for wood floors in Florida?",
+ "title": "What Indoor Humidity Protects Wood Floors in Florida",
+ "h1": "What Indoor Humidity Should I Keep for Wood Floors in Florida?",
+ "description": "Keep indoor relative humidity between 30% and 50% for wood floors in Sarasota-area homes; outdoor air here averages 74% RH year-round.",
+ "cluster": "florida-humidity-moisture",
+ "cluster_label": "Florida humidity & moisture",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Keep indoor relative humidity between 30% and 50%, per NWFA guidelines, with temperature around 60-80°F, to protect hardwood and engineered floors in Sarasota and Manatee County homes. Outdoor air here averages about 74% RH year-round, climbing to roughly 78% in August, so a well-sized AC system running consistently does most of the work.",
+ "sections": [
+  {
+   "h2": "The Target: 30-50% Relative Humidity, Not Just \"Run the AC\"",
+   "html": "<p>The number to aim for is 30% to 50% relative humidity with the temperature somewhere between 60°F and 80°F, according to the National Wood Flooring Association. That's the range where hardwood and engineered wood hold their factory moisture content, seams stay tight, and boards don't cup or gap with the seasons. \"Run the AC\" gets most Sarasota-area homes close, but it's not automatic: a thermostat set to temperature alone can leave humidity higher than it looks, especially on a mild, damp day when the compressor doesn't run long enough to pull moisture out of the air. A standalone hygrometer, the kind that reads humidity the way a thermometer reads temperature, is the only way to know your actual number instead of guessing from how the room feels.</p>"
+  },
+  {
+   "h2": "How That Compares to Sarasota's Outdoor Air",
+   "html": "<p>Outdoor air along the Gulf Coast doesn't make this easy. Sarasota's outdoor relative humidity averages around 74% for the year, ranging from about 69% in April, the driest month, up to roughly 78% in August, the peak of summer. Every open door, or every AC system undersized for its square footage, lets some of that outdoor humidity work its way in. A well-sized, well-maintained system in a sealed, insulated home usually holds indoor RH in the 45-55% range even in August. An oversized unit that short-cycles, or a home with leaky attic ductwork, often can't, which is one reason two houses on the same street can have very different-looking floors five years later.</p>"
+  },
+  {
+   "h2": "Why 60% Is the Line the EPA Draws, Not Just the NWFA",
+   "html": "<p>The EPA's mold-prevention guidance sets 60% relative humidity as the ceiling, with 30-50% named as the ideal range, the same range the NWFA gives for wood. That overlap isn't a coincidence: humidity high enough to hurt a wood floor is generally high enough to let mold take hold in baseboards, cabinet toe-kicks and behind furniture. The EPA also recommends drying any water-damaged material within 24 to 48 hours, which matters after a leak or a storm, not just day-to-day. Keeping a hygrometer on the wall isn't only a flooring-warranty exercise; it's the same number that keeps the rest of the house healthy.</p>"
+  },
+  {
+   "h2": "Getting a Reading You Can Actually Trust",
+   "html": "<p>A reading you can trust comes from a hygrometer placed away from vents, exterior doors and direct sun, checked at a few different times of day rather than once. We also check indoor humidity as part of any in-home estimate before quoting <a href=\"/hardwood-flooring/\">hardwood</a> or <a href=\"/engineered-hardwood-flooring/\">engineered hardwood</a>, because a house already running high tells us as much as the slab moisture test does. If you're leaving the house unattended for weeks at a time, the target shifts slightly; see our breakdown of <a href=\"/blog/set-ac-humidistat-leave-florida-home-summer-floors/\">AC and humidistat settings for an empty summer home</a> for the numbers to use instead.</p>"
+  },
+  {
+   "h2": "If 30-50% Isn't Realistic in Every Room",
+   "html": "<p>Not every room holds the target equally well. A converted lanai, a room over a garage, or a house occupied only part of the year can run consistently higher than the rest of the home no matter what the main thermostat says. In those rooms, we often steer clients toward <a href=\"/vinyl-plank-flooring/\">waterproof vinyl plank</a> or porcelain tile instead of wood, because those materials don't care whether the room holds 45% or 65% RH. It's not a downgrade; it's matching the floor to the humidity the room actually sees instead of fighting it with a bigger dehumidifier. Our guide to <a href=\"/blog/best-flooring-vacation-rental-florida/\">flooring for seasonally empty or rental homes</a> goes further into that particular trade-off for Sarasota-area owners.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Time of Year", "Sarasota Outdoor RH (avg)", "Indoor Target for Wood Floors"],
+  "rows": [
+   ["April (driest month)", "~69%", "30-50% RH (NWFA)"],
+   ["August (peak humidity)", "~78%", "30-50% RH (NWFA)"],
+   ["Year-round average", "~74%", "Below 60% (EPA mold ceiling), ideally 30-50%"]
+  ],
+  "caption": "Sarasota outdoor humidity: weather-and-climate.com; indoor targets: NWFA and EPA"
+ },
+ "faqs": [
+  {"q": "Can I trust my thermostat's humidity reading?", "a": "Not always. Many thermostats estimate humidity or only show it with a compatible sensor. A dedicated hygrometer near the floor, away from vents, gives a more reliable number for tracking a flooring warranty."},
+  {"q": "What humidity is too low for wood floors?", "a": "Below about 30% RH, wood can shrink and gap between boards. It's less common in Florida than the high side, but it can happen when AC runs constantly in a small, tightly sealed room."},
+  {"q": "Does vinyl plank need the same humidity range as wood?", "a": "No. Vinyl plank isn't hygroscopic the way wood is, so it tolerates a wider indoor humidity swing. The slab underneath it still has its own moisture limit; see our guide on <a href=\"/blog/moisture-barrier-under-vinyl-plank-flooring-concrete-slab/\">whether vinyl plank needs a moisture barrier over concrete</a>."}
+ ],
+ "next_step": "We check indoor humidity along with slab moisture on every free in-home estimate, so your hardwood or engineered wood quote reflects how your specific house actually holds up.",
+ "sources": [
+  {"title": "NWFA moisture guidance via Hurst Hardwoods", "url": "https://www.hursthardwoods.com/moisture-control/"},
+  {"title": "Sarasota average monthly humidity", "url": "https://weather-and-climate.com/average-monthly-Humidity-perc,sarasota-florida-us,United-States-of-America"},
+  {"title": "EPA -- A Brief Guide to Mold, Moisture and Your Home", "url": "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"}
+ ],
+ "related_services": ["hardwood-flooring", "vinyl-plank-flooring"],
+ "related_cities": ["sarasota"],
+ "related_posts": ["real-hardwood-floors-florida", "set-ac-humidistat-leave-florida-home-summer-floors", "am-stupid-want-engineered-wood-florida", "flooring-best-snowbird-home-sits-empty-all-summer", "mold-grow-under-vinyl-plank-flooring-florida-slab"],
+ "keywords": ["indoor humidity wood floors Florida", "best flooring for Florida humidity", "hardwood flooring humidity Sarasota", "relative humidity wood floors", "hygrometer wood floors Florida"]
+}

@@ -1,0 +1,49 @@
+{
+ "slug": "long-flooring-acclimate-florida-before-installation",
+ "question": "How long does flooring need to acclimate in Florida before installation?",
+ "title": "How Long Should Flooring Acclimate in Florida?",
+ "h1": "How Long Does Flooring Need to Acclimate in Florida Before Installation?",
+ "description": "There's no fixed number of days; NWFA judges acclimation by moisture-meter readings after the HVAC runs 48 hours at normal settings.",
+ "cluster": "florida-humidity-moisture",
+ "cluster_label": "Florida humidity & moisture",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "There's no set number of days. The NWFA judges acclimation by moisture-meter readings, not a calendar, and only starts counting once the HVAC has run at normal living conditions for at least 48 hours. Strip flooring needs to land within 4% moisture content of the subfloor, wide plank within 2%, before installation in a Sarasota-area home.",
+ "sections": [
+  {
+   "h2": "There's No Fixed Number of Days",
+   "html": "<p>There isn't a set number of days, despite what a lot of general flooring guides suggest. The National Wood Flooring Association judges acclimation by moisture-meter readings, not a calendar. Some jobs are ready in two or three days; a house that just had drywall repaired, or a slab that read borderline on the moisture test, can take two weeks or more before the wood and the subfloor are close enough in moisture content to install. Anyone who quotes a flat \"three days and you're good\" without measuring anything is skipping the part of the process that actually determines whether your <a href=\"/hardwood-flooring/\">hardwood flooring</a> stays flat.</p>"
+  },
+  {
+   "h2": "What Acclimation Actually Means (It's Not Just Letting Boxes Sit)",
+   "html": "<p>Acclimation isn't just stacking boxes of flooring in the room and waiting. It means storing the material, unopened or loosely stacked per the manufacturer's instructions, in the actual room it's going into, under the conditions the floor will live in long-term, while we track how its moisture content changes over time with a meter. A garage that's 15 degrees hotter and far more humid than the living room doesn't count as acclimating flooring for the living room. Neither does a house with the AC off during the week before install, even if the boxes have technically sat on-site for the right number of days. The room has to be living-condition normal, because that's the only environment the reading means anything in.</p>"
+  },
+  {
+   "h2": "The 48-Hour HVAC Rule Comes First",
+   "html": "<p>The NWFA's rule of thumb is that the HVAC needs to have run at normal living conditions for at least 48 hours before acclimation even starts counting. That matters on new-construction and post-renovation jobs in our area, where a house might have had the AC cycling on a builder's temporary setting, or off altogether during drywall and paint, right up until closing. We ask when the AC started running at normal settings before we schedule delivery, because starting the acclimation clock too early, while the house is still drying out from construction humidity, gives numbers that look fine on day three and cup by month three.</p>"
+  },
+  {
+   "h2": "How Close the Numbers Need to Match",
+   "html": "<p>Once conditions are stable, the target is a moisture-content match between the flooring and the subfloor, not just a low number in isolation. Strip flooring under 3 in. wide needs to land within 4% moisture content of the subfloor; wider plank, 3 in. or more, needs to be within 2%, a tighter tolerance because wider boards show more movement per percentage point of change. We take readings on both the flooring and the subfloor, not just one or the other, before calling a room ready, and we log those numbers so there's a record if a manufacturer's warranty ever needs proof the install followed spec. <a href=\"/blog/test-concrete-slab-moisture-before-installing-flooring/\">If the subfloor is a concrete slab, that number starts with the slab test itself.</a></p>"
+  },
+  {
+   "h2": "Why Vinyl Plank Skips This Step Almost Entirely",
+   "html": "<p>Luxury vinyl plank changes the calculus. COREtec's install guide, for example, doesn't require acclimation at all; it calls for installing between 55°F and 85°F with a 1/4 in. expansion gap at the walls. That's one reason <a href=\"/vinyl-plank-flooring/\">vinyl plank</a> is often the faster option when a Sarasota or Venice homeowner needs floors finished between snowbird season and a specific move-in date. Hardwood still rewards the wait; a floor acclimated properly moves less over its first year than one rushed in on a fixed schedule. Acclimation timing is usually the biggest variable in <a href=\"/blog/long-take-replace-floors-whole-house/\">how long a whole-house floor replacement takes</a>, more than the install labor itself.</p>"
+  }
+ ],
+ "faqs": [
+  {"q": "Can I speed up acclimation with a dehumidifier?", "a": "Sometimes, if the issue is a house that's generally too humid rather than a borderline slab reading. Running the AC and a dehumidifier for a few extra days before delivery can shorten the wait, but we still confirm with a moisture meter rather than assuming."},
+  {"q": "Does engineered hardwood need less acclimation time than solid?", "a": "Generally yes, since its cross-layered core is more dimensionally stable, but it still needs the same 48-hour HVAC rule and a moisture-meter check before we install. See our <a href=\"/blog/am-stupid-want-engineered-wood-florida/\">engineered hardwood in Florida guide</a> for why it handles humidity differently."},
+  {"q": "What happens if I install flooring without acclimating it?", "a": "The boards can expand after installation instead of before it, which shows up as buckling, peaking at the seams, or pressure against walls and cabinets within the first few months, sometimes needing a partial <a href=\"/floor-repair/\">floor repair</a>."}
+ ],
+ "next_step": "We schedule material delivery around your AC's actual run time and confirm readiness with a moisture meter, so your install date is set by real numbers, not a guess.",
+ "sources": [
+  {"title": "NWFA Installation Guidelines (PDF)", "url": "https://nwfa.org/wp-content/uploads/2026/02/NWFA-Installation-Guidelines.pdf"},
+  {"title": "NWFA moisture guidance via Hurst Hardwoods", "url": "https://www.hursthardwoods.com/moisture-control/"},
+  {"title": "COREtec Scratchless installation guide", "url": "https://www.georgiacarpet.com/pages/installation-guides/coretec-scratchless-installation-guide.html"}
+ ],
+ "related_services": ["hardwood-flooring", "vinyl-plank-flooring"],
+ "related_cities": ["sarasota", "venice"],
+ "related_posts": ["test-concrete-slab-moisture-before-installing-flooring", "long-take-replace-floors-whole-house", "am-stupid-want-engineered-wood-florida", "real-hardwood-floors-florida", "install-hardwood-flooring-directly-concrete-slab"],
+ "keywords": ["flooring acclimation Florida", "how long to acclimate hardwood flooring", "wood flooring installation Sarasota", "moisture content flooring subfloor", "vinyl plank acclimation"]
+}

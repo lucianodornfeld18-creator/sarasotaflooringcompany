@@ -1,0 +1,54 @@
+{
+ "slug": "vinyl-plank-floor-buckling",
+ "question": "Why is my vinyl plank floor buckling?",
+ "title": "Why Is My Vinyl Plank Floor Buckling?",
+ "h1": "Why Does Vinyl Plank Flooring Buckle or Peak?",
+ "description": "COREtec requires a 1/4-inch gap at every wall. See the three usual causes of buckled vinyl plank in Sarasota-area homes and how to fix each one.",
+ "cluster": "lvp-vinyl",
+ "cluster_label": "Vinyl plank (LVP)",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "In Sarasota-area homes, vinyl plank floors usually buckle because they have nowhere to expand: COREtec's install guide calls for a 1/4-inch gap at every wall, and planks pinned tight by trim, door jambs or a glued transition strip peak first, especially in sun-heated rooms. An uneven slab makes it worse — Shaw's SPC guide requires the concrete to be flat within 3/16 inch over 10 feet before installation.",
+ "sections": [
+  {
+   "h2": "Why Does Vinyl Plank Flooring Buckle or Peak?",
+   "html": "<p>Rigid-core <a href=\"/vinyl-plank-flooring/\">vinyl plank</a> expands and contracts slightly with heat, and every manufacturer's install spec plans for that. COREtec's guide doesn't require acclimation before installing, but it does call for installing between 55°F and 85°F and leaving a 1/4-inch expansion gap at every wall. When that gap gets closed off, by base trim nailed too tight, a door jamb undercut too shallow, or a transition strip glued straight across a doorway, the floor has nowhere to go when it heats up. Discussion threads on Houzz and Quora describe the same pattern owners report here: the buckle or peak shows up first in the sun-heated stretch of floor, usually right at a sliding door or a west-facing window.</p><p>It's worth saying plainly that buckling almost never means the plank itself is defective. In the callbacks we've run, the cause traces back to the install conditions around the plank, the gap, the transition, or the slab, far more often than the product.</p>"
+  },
+  {
+   "h2": "Is It the Slab, the Install, or the Sun?",
+   "html": "<p>Three things cause most of the buckling calls we get, and they're not equally common. An unlevel slab is often the root cause even when the symptom looks like an expansion problem. Shaw's SPC installation guide requires the concrete to be flat within 3/16 inch over a 10-foot span, or 1/8 inch over 6 feet, and planks rocking on a high spot or bridging a low one telegraph that movement as a visible peak long before anything looks obviously wrong.</p><div class=\"tbl-wrap\"><table class=\"tbl\"><thead><tr><th>Likely cause</th><th>What it looks like</th><th>Typical fix</th></tr></thead><tbody><tr><td>No expansion gap left</td><td>Buckling along one wall or doorway</td><td>Trim or jamb re-cut to restore the 1/4-in gap</td></tr><tr><td>Slab out of flat spec</td><td>Peaking or rocking in the middle of a room</td><td>Slab grinding or self-leveling before re-lay</td></tr><tr><td>Glued transition strip</td><td>Buckle stops right at a doorway threshold</td><td>Replace with a floating transition</td></tr></tbody></table></div><p>A fourth, less common cause is a subfloor that was never checked for moisture before the vinyl went down; see our guide on <a href=\"/blog/test-concrete-slab-moisture-before-installing-flooring/\">testing a concrete slab for moisture before installing flooring</a> if you suspect that's part of the picture.</p>"
+  },
+  {
+   "h2": "Can a Buckled Floor Be Fixed Without Full Replacement?",
+   "html": "<p>Sometimes. If the buckling is confined to a section near a trim line or a single glued transition, we can often cut the gap back, let the floor relax, and re-set the affected planks. If the cause is a slab that never met the flatness spec, though, the whole run of flooring over that section usually has to come up so we can correct the slab first — patching around it just moves the problem a few feet over. We won't re-lay vinyl over a slab we haven't checked for flatness and moisture, because a callback on a floor we didn't prep correctly costs everyone more than doing it right the first time. A same-day diagnostic visit is usually enough to tell you which category your floor falls into before any material comes up.</p>"
+  },
+  {
+   "h2": "How We Prevent This From Day One",
+   "html": "<p>Every vinyl plank job starts with a flatness and moisture check on the slab, not just a quick look. We leave the full expansion gap at walls and never glue a transition strip across a floating floor. If your current floor is already buckling, our <a href=\"/floor-repair/\">floor repair</a> team can tell you within one visit whether it's a trim fix or a <a href=\"/subfloor-leveling/\">subfloor leveling</a> job, and our <a href=\"/cost/floor-repair/\">floor repair cost guide</a> gives you a general sense of pricing before that visit.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Likely cause", "What it looks like", "Typical fix"],
+  "rows": [
+   ["No expansion gap left", "Buckling along one wall or doorway", "Trim or jamb re-cut to restore the 1/4-in gap"],
+   ["Slab out of flat spec", "Peaking or rocking in the middle of a room", "Slab grinding or self-leveling before re-lay"],
+   ["Glued transition strip", "Buckle stops right at a doorway threshold", "Replace with a floating transition"]
+  ],
+  "caption": "Sources: COREtec Scratchless installation guide; Shaw Floorte Pro SPC installation guide."
+ },
+ "faqs": [
+  {"q": "Can a buckled vinyl plank floor be flattened by walking on it or adding weight?", "a": "No. Weighting a buckled plank can hide the peak temporarily but doesn't restore the expansion gap that caused it, and the buckle typically returns."},
+  {"q": "Does sunlight cause the same problem as a tight expansion gap?", "a": "They often show up together. Heat from direct sun makes the plank expand more, so a gap that was already too tight fails in that spot first. See our post on <a href=\"/blog/sunlight-damage-vinyl-plank-flooring/\">whether sunlight damages vinyl plank flooring</a>."},
+  {"q": "Is buckling covered under a manufacturer warranty?", "a": "It depends on the cause. Most warranties exclude buckling traced back to installation error, like a missing expansion gap, which is one reason we document slab flatness and gaps on every job."}
+ ],
+ "next_step": "Send us a photo of the buckled area and we'll tell you whether it's a trim fix or a slab issue before we schedule a visit.",
+ "sources": [
+  {"title": "COREtec Scratchless installation guide", "url": "https://www.georgiacarpet.com/pages/installation-guides/coretec-scratchless-installation-guide.html"},
+  {"title": "Shaw Floorte Pro SPC installation guide", "url": "https://www.cfiu.org/wp-content/uploads/2022/01/Shaw-Floors-Floorte-Pro-6-7-10-Installation-pdf-generated-on-12_30_2021.pdf"},
+  {"title": "Quora: why is my vinyl plank floor buckling", "url": "https://www.quora.com/Why-is-my-vinyl-plank-floor-buckling"}
+ ],
+ "related_services": ["vinyl-plank-flooring", "floor-repair"],
+ "related_cities": [],
+ "related_posts": ["sunlight-damage-vinyl-plank-flooring", "flat-concrete-floor-vinyl-plank-flooring", "put-vinyl-plank-flooring-lanai-florida-room-no", "vinyl-plank-flooring-really-waterproof"],
+ "keywords": ["vinyl plank floor buckling", "vinyl plank flooring sarasota", "floor repair near me", "subfloor repair near me"]
+}

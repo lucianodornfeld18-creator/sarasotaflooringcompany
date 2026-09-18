@@ -1,0 +1,152 @@
+keyword,cluster,intent,demand,evidence,owner_page_type
+flooring sarasota,head,commercial/local,HIGH,"AC-exact + ""flooring sarasota fl"" is top suggestion; 9 organic results all showrooms/directories; used in nearly every competitor title",home
+flooring company sarasota,head,commercial,HIGH,"AC-exact (+fl, florida, area, county); Flooring 941 H1 ""The Flooring Company Sarasota Homeowners Rely On""; FCI H2 ""Make Us Your Go-To Sarasota Flooring Company""; exact-match domain advantage",home
+sarasota flooring companies,head,commercial,HIGH,"AC-rich: surfaced as a suggestion from 6 different seeds (flooring sarasota, store, best, showroom, commercial, flooring america)",home
+flooring companies sarasota fl,head,commercial,MEDIUM,"AC suggestion under ""flooring contractors sarasota""",home
+flooring store sarasota,head,commercial (retail),HIGH,"AC-exact + ""sarasota flooring stores"", ""flooring warehouse sarasota""; SERP is 100% showrooms - intent mismatch for a mobile installer","home (secondary mention) + FAQ ""Do you have a showroom?"""
+flooring installation sarasota,head,commercial,HIGH,"AC-exact (+4 geo variants); Footprints Floors ranks #1 with title ""Floor Installation in Sarasota, FL""; Meta Flooring title uses it",home (primary H1 term)
+flooring contractors sarasota,head,commercial,MEDIUM,"AC-pattern (florida/area/county); titles: Flooring 941 ""Flooring Contractor Sarasota FL"", Comfort Style ""Sarasota Flooring Contractor""",home
+sarasota flooring installers,head,commercial,MEDIUM,"AC suggestion under ""flooring sarasota""",home
+sarasota flooring services,head,commercial,LOW,"AC suggestion under ""flooring sarasota""",home
+best flooring sarasota,head-best,commercial,MEDIUM,"AC-pattern + ""best flooring sarasota reviews"", ""best flooring stores in sarasota""; SERP = Houzz, Angi, Thumbtack, Yelp, BestPickReports lists",home + reviews page
+best flooring company sarasota,head-best,commercial,MEDIUM,AC-pattern (fl/florida/area); list-style SERP owned by directories,home + reviews page
+flooring near me,near-me,commercial/local,HIGH,"Published: ~90,500/mo US (HomeServiceDirect, no tool cited); AC-rich (open now, sale, cheap, installation, vinyl)",home + Google Business Profile
+flooring companies near me,near-me,commercial,HIGH,"Published: 18,100/mo US, CPC $26.63 (SERPWARS list); AC-rich incl. ""free estimates"", ""that finance"", ""that install""",home
+flooring contractors near me,near-me,commercial,HIGH,"Published: 18,100/mo US, CPC $20.35 (SERPWARS); AC-rich (""within 20 mi"", ""prices"")",home
+flooring installation near me,near-me,commercial,HIGH,"Published: 12,100/mo US, CPC $21.96 (SERPWARS); AC-rich (""estimate"", ""with financing"", ""prices"")",home
+floor installers near me,near-me,commercial,HIGH,"Published: 14,800/mo US, CPC $21.84 (SERPWARS); AC-exact",home
+flooring installers near me,near-me,commercial,HIGH,"AC-rich (""within 20 mi"", ""within 5 mi"", ""now"")",home
+best flooring company near me,near-me-best,commercial,MEDIUM,"AC-exact + ""reviews"", ""best flooring contractors near me"", ""top flooring company near me""",home + reviews page
+top rated flooring companies near me,near-me-best,commercial,MEDIUM,"AC-rich (top suggestion for ""top rated flooring"")",reviews page
+local flooring companies,near-me,commercial,MEDIUM,"Published: 12,100/mo US, CPC $22.60 (SERPWARS)",home / about
+flooring contractors,head-generic,commercial,MEDIUM,"Published: 5,400/mo US, CPC $19.88 (Moonrank, source ""Google Ads"", updated 2026-06-16); SERPWARS lists 5,400 / $20.79",home
+affordable flooring installation near me,modifier,commercial,MEDIUM,"AC suggestion under ""affordable flooring"" (+ ""affordable flooring companies near me"")",financing page + home
+flooring installation near me with financing,modifier,commercial,MEDIUM,"AC suggestion; ""flooring companies near me that finance"" also suggested",financing page
+free flooring estimate near me,modifier,commercial,MEDIUM,"AC-rich (""flooring companies free estimates"", ""flooring installation free estimate"")",contact / free-estimate page
+licensed and insured flooring contractors,modifier,commercial,LOW,AC shows only 3 completions,about page + FAQ
+same day flooring estimate,modifier,commercial,LOW,"AC (""same day flooring installation"", ""same day flooring estimate"")",contact page + FAQ
+commercial flooring sarasota,head-segment,commercial,LOW,AC-pattern only; Chappie's and FCI have dedicated pages,"service page (new, optional)"
+hardwood flooring sarasota,hardwood,commercial,HIGH,"AC-exact (+4 geo variants, + ""wood flooring sarasota""); SERP: Flooring America, Houzz, Yelp, Mr. Sandless, Hardwood Stop, International Wood Floors",service page
+wood flooring sarasota,hardwood,commercial,MEDIUM,AC suggestion under hardwood seed,service page
+hardwood floor installation sarasota,hardwood,commercial,MEDIUM,"Yelp category ""Hardwood Floor Installation in Sarasota""; Published national: ""wood flooring installation"" 33,100/mo, CPC $13.32 (SERPWARS)",service page
+hardwood flooring near me,hardwood,commercial,HIGH,"Published (conflicting): 14,800/mo (SERPWARS) vs 27,100/mo (HomeServiceDirect)",service page
+hardwood flooring installation near me,hardwood,commercial,MEDIUM,"Published: 3,600/mo US, CPC $19.26 (SERPWARS)",service page
+engineered hardwood flooring sarasota,engineered hardwood,commercial,MEDIUM,"AC-pattern; dedicated pages at Comfort Style, Meta Flooring, Jack Dean, Fairfax",service page (new)
+engineered hardwood installation on concrete slab,engineered hardwood,commercial/informational,LOW,"SERP for the glue-down query is all local installers (Filar, EGR, Comfort Style, Meta) - no directories",service page (new) section
+hardwood floor refinishing sarasota,refinishing,commercial,MEDIUM,"AC-pattern (4); SERP: Thumbtack, Footprints x2, Mr. Sandless, Kingdom, Bob's, Filar, Comfort Style, Behr Snyder - 8 local specialists",service page (new)
+hardwood floor refinishing near me,refinishing,commercial,HIGH,"AC-rich (cost, within 20 mi, sanding, restoration, best)",service page (new)
+sand and refinish hardwood floors near me,refinishing,commercial,MEDIUM,AC suggestion,service page (new)
+dustless hardwood floor refinishing,refinishing,commercial,LOW,"Competitor positioning: Behr Snyder ""Dustless Hardwood Floor Refinishing"", Mr. Sandless",service page (new) section
+wood floor repair sarasota,repair,commercial,LOW,"AC suggestion under ""floor repair sarasota""",service page (floor repair)
+can you have hardwood floors in florida,hardwood,informational,MEDIUM,"AC-rich (8 variants incl. ""in florida condo"", ""without a permit"")",blog post + FAQ
+engineered vs solid hardwood in florida,comparison,comparison,LOW,"AC-pattern (homes, house, 2024)",comparison guide
+vinyl plank flooring sarasota,LVP,commercial,HIGH,"AC-pattern + ""luxury vinyl plank flooring sarasota""; SERP: FCI, Footprints, Hardwood Stop, Yelp, Meta, Jack Dean, SC&F, Chappie's - every competitor has a page",service page
+luxury vinyl plank sarasota,LVP,commercial,MEDIUM,"AC-pattern + ""luxury vinyl flooring sarasota""",service page
+luxury vinyl flooring sarasota,LVP,commercial,MEDIUM,"AC suggestion; showroom page titles ""Luxury Vinyl Flooring in Sarasota County""",service page
+lvp installation near me,LVP,commercial,HIGH,"AC-rich (""best lvp installers near me"", ""lvp flooring installation near me"")",service page
+vinyl plank flooring installation near me,LVP,commercial,HIGH,"AC-exact; Published national: ""vinyl plank flooring installation"" 22,200/mo, CPC $8.39 (SERPWARS)",service page
+vinyl plank flooring installers,LVP,commercial,MEDIUM,"Published: 12,100/mo US, CPC $7.73 (SERPWARS)",service page
+luxury vinyl plank flooring installation,LVP,commercial,MEDIUM,"Published: 8,100/mo US, CPC $10.82 (SERPWARS)",service page
+waterproof flooring sarasota,waterproof,commercial,MEDIUM,"AC-pattern (4); dedicated pages at Manasota, Chappie's, SC&F, LG Kramer, YFW",service page (new)
+is waterproof vinyl plank flooring really waterproof,waterproof,informational,MEDIUM,AC suggestion under waterproof seed,FAQ on waterproof service page
+glue down vs floating vinyl plank,LVP,comparison,MEDIUM,AC-rich (10 variants),comparison guide
+moisture barrier for vinyl plank on concrete,slab prep,informational,MEDIUM,"AC-rich (10 variants, all question-form)",blog post -> links to slab-prep service page
+is vinyl plank flooring good in florida,LVP,informational,LOW,"AC-pattern (homes, heat)",FAQ / blog post
+tile installation sarasota,tile,commercial,HIGH,"AC-exact (+4 variants, + ""tile contractors sarasota fl""); SERP: Mr. Handyman, Home Depot, Footprints, Thumbtack, Yelp, Daltile, Tile Solutions, Fisher Tile",service page
+tile contractors sarasota fl,tile,commercial,MEDIUM,AC suggestion,service page
+tile flooring sarasota,tile,commercial,MEDIUM,"AC-exact + ""floor tile sarasota fl""",service page
+tile installers near me,tile,commercial,HIGH,"AC-rich; Published national: ""tile flooring installers near me"" 27,100/mo, CPC $8.79 (SERPWARS)",service page
+porcelain tile installation sarasota,tile,commercial,LOW,AC-pattern only; Tile Solutions positions on porcelain slabs,service page section
+wood look tile installation,tile,commercial/informational,MEDIUM,"AC-rich (cost, patterns, ""is wood look tile a good idea"")",service page section
+wood look tile vs lvp,comparison,comparison,MEDIUM,"AC-rich (10 variants incl. cost, reddit)",comparison guide
+tile removal sarasota,removal,commercial,MEDIUM,"AC-exact (+4) and AC suggests ""dustless tile removal sarasota""",service page (new)
+dustless tile removal sarasota,removal,commercial,MEDIUM,"AC-exact; 8 dedicated local competitors rank (Tile Solutions, Accent, Custom Creations, Dust Monkeys, Hardwood Stop, Dust Free Tile Removal, Dustless Demolition)",service page (new)
+flooring removal near me,removal,commercial,MEDIUM,"AC-rich (floor tile removal, demolition, laminate removal)",service page (new)
+tile removal cost per square foot,removal,cost,MEDIUM,"AC-rich incl. ""dustless tile removal cost per square foot""; one competitor publishes ""$1.95 per sq ft""",cost guide
+laminate flooring sarasota,laminate,commercial,MEDIUM,"AC-exact (+4); SERP: Lowe's x2, Home Depot, FCI, Houzz, HomeAdvisor",service page
+laminate flooring installation near me,laminate,commercial,MEDIUM,"Published: 4,400/mo US, CPC $16.70; ""laminate flooring installation"" 12,100/mo (SERPWARS)",service page
+waterproof laminate flooring,laminate,commercial/informational,MEDIUM,"AC (""which is the best waterproof laminate flooring""); Fairfax blog post on it",service page section
+lvp vs laminate,comparison,comparison,HIGH,"AC-rich (10 variants: cost, pros and cons, reddit, vs engineered hardwood)",comparison guide
+carpet installation sarasota,carpet,commercial,MEDIUM,"AC-exact (+4); SERP: Lowe's, FCI, Thumbtack, Angi, Home Depot, Sarasota Carpet & Flooring",service page (new - only if carpet is offered)
+cost to replace carpet with lvp,carpet,cost,MEDIUM,"AC-rich (""cost to replace carpet with hardwood / lvp / laminate / tile"")",cost guide
+stair treads installation near me,stairs,commercial,MEDIUM,"AC-rich (""stair tread installers near me"", ""how much to install stair treads"")",service page
+stair treads sarasota,stairs,commercial,LOW,"SERP: Footprints stairs page, Florida Stair, Sarasota Stair Inc, lead-gen shells",service page
+stair remodel near me,stairs,commercial,MEDIUM,"AC-rich (staircase renovation, contractors, cost)",service page
+cost to install vinyl plank flooring on stairs,stairs,cost,LOW,AC suggestion under LVP cost seed,cost guide (stairs)
+floor repair sarasota,repair,commercial,LOW,AC-pattern (4),service page
+floor repair near me,repair,commercial,MEDIUM,"AC-rich; Published: ""flooring repair contractors near me"" 480/mo, CPC $13.32 (SERPWARS)",service page
+water damaged floor repair,repair,commercial,MEDIUM,"AC-rich (cost, near me, hardwood, laminate) - hurricane/flood relevance on the Gulf coast",service page section + blog post
+subfloor repair near me,subfloor,commercial,MEDIUM,AC-rich (10 variants); Knock On Wood has a subfloor page,service page (new)
+floor leveling sarasota,floor prep,commercial,LOW,"AC-pattern; SERP is almost entirely lead-gen shells (Jenson, concretefloorconstructionpros, myhomequote) - weak competition",service page (new)
+floor leveling near me,floor prep,commercial,MEDIUM,"AC-rich (concrete floor leveling, contractors, specialist)",service page (new)
+concrete slab moisture testing for flooring,floor prep,informational,LOW,"Not tested in AC; Meta Flooring has a /preparation/ page, Comfort Style leads with moisture testing",service page (new) section
+baseboard installation near me,baseboards,commercial,MEDIUM,"AC-rich (contractors, cost, best)",service page (new) or add-on section
+baseboard installation sarasota,baseboards,commercial,LOW,AC-pattern only,service page (new) or add-on section
+flooring installation cost per square foot,cost,cost,HIGH,"AC-rich (wood, vinyl, lvp, laminate, labor, lowes)",cost guide (hub)
+flooring installation cost florida,cost,cost,MEDIUM,"AC (reddit, orlando, per square foot)",cost guide (hub)
+how much to install 1000 sq ft of flooring,cost,cost,MEDIUM,"AC-rich (vinyl plank, hardwood, lvp, laminate, tile, flooring)","cost guide (hub) with worked 1,000 sq ft examples"
+labor cost to install flooring per square foot,cost,cost,MEDIUM,AC-rich,cost guide (hub)
+flooring installation cost,cost,cost,MEDIUM,"Published: 5,400/mo US, CPC $8.41 (SERPWARS)",cost guide (hub)
+cost to install vinyl plank flooring,cost,cost,HIGH,"AC-rich (labor only, 1000 sq ft, stairs, per square foot); Published: ""vinyl plank flooring installation cost"" 5,400/mo (SERPWARS)",cost guide (LVP)
+vinyl flooring installation cost sarasota,cost,cost,LOW,"SERP: homeyou, Footprints, Flooring 941 cost post, HomeAdvisor",cost guide (LVP)
+lvp installation labor cost,cost,cost,MEDIUM,"AC (""lvp installation cost"", ""price"", ""labor cost"")",cost guide (LVP)
+cost to install hardwood floors,cost,cost,HIGH,"AC-rich; Published: ""hardwood flooring installation cost"" 18,100/mo, CPC $8.19 (SERPWARS)",cost guide (hardwood)
+hardwood flooring cost sarasota,cost,cost,LOW,"SERP: Manasota blog (1,163 words), homeyou, sarasotahardwood.com price guide",cost guide (hardwood)
+cost to install tile floor in florida,cost,cost,MEDIUM,"AC suggestion ""cost to install tile floor in florida"" + per square foot, labor only",cost guide (tile)
+tile installation cost sarasota,cost,cost,LOW,"SERP: triangle-floor.com (sibling site), towncontractors, homeyou",cost guide (tile)
+cost to install laminate flooring,cost,cost,HIGH,"AC-rich; Published: ""laminate flooring installation cost"" 14,800/mo, CPC $7.16 (SERPWARS)",cost guide (laminate)
+cost to refinish hardwood floors,cost,cost,HIGH,"AC-rich (per square foot, 1000 sq ft, vs replace)",cost guide (new - refinishing)
+best flooring for florida homes,comparison,comparison,HIGH,"AC-rich (10: homes, condo, lanai, climate, south florida)",comparison guide (pillar)
+best flooring for florida humidity,comparison,comparison,MEDIUM,AC (4); SERP is all contractor blogs incl. sibling sites triangle-floor.com and napasflooring.com,blog post (exists)
+best flooring for concrete slab in florida,comparison,comparison,MEDIUM,"AC suggestion + ""with moisture""",comparison guide
+best flooring for condos in florida,condo,comparison,MEDIUM,"AC (""best flooring for condo in florida"", ""best soundproof flooring for condos"")",condo guide
+best flooring for pets,comparison,comparison,HIGH,AC-rich (10),comparison guide
+best flooring for beach house,comparison,comparison,MEDIUM,"AC-rich (10: rental, lvp, tile) - fits Siesta/Longboat/AMI",comparison guide (barrier islands)
+best flooring for rental property,comparison,comparison,MEDIUM,AC-rich,blog post (exists: short-term rental)
+best waterproof flooring,comparison,comparison,HIGH,AC-rich (10),comparison guide
+lvp vs tile,comparison,comparison,MEDIUM,"AC-rich (10: bathroom, kitchen, cost)",comparison guide
+lvp vs engineered hardwood,comparison,comparison,MEDIUM,"AC-rich (10: cost, resale value)",comparison guide
+condo flooring soundproofing requirements florida,condo,informational,MEDIUM,"AC suggestion; only one local page ranks (FCI Sarasota condo guide, 2,147 words)",condo guide (pillar)
+condo flooring underlayment requirements florida,condo,informational,MEDIUM,AC suggestion,condo guide (pillar)
+iic rating flooring,condo,informational,MEDIUM,"AC-rich (9: florida, requirements, vinyl plank, chart)",condo guide + FAQ
+flooring for second floor condo in florida,condo,informational,LOW,AC suggestion,condo guide
+condo flooring sarasota,condo,commercial,LOW,AC-pattern; FCI is the only local business with a dedicated page,service page (new - condo flooring)
+condo flooring longboat key,condo,commercial,LOW,AC-pattern; no dedicated competitor page found,service x city page
+can you put hardwood floors in florida condo,condo,informational,LOW,AC suggestion,condo guide FAQ
+flooring bradenton fl,city,local,HIGH,"AC-exact + ""bradenton flooring company"", ""flooring stores bradenton fl""; SERP: Houzz, Angi, Footprints, 50Floor, Extraordinary, 6051, Bradenton Flooring Pros",city page (exists)
+flooring company bradenton,city,local,MEDIUM,AC-exact,city page (exists)
+flooring installation bradenton fl,city,local,MEDIUM,"AC-pattern; titles ""Flooring Installation Company Bradenton FL"" x2",city page (exists)
+flooring lakewood ranch,city,local,HIGH,"AC-exact + ""flooring company lakewood ranch"", 3 competitor brands in AC; LG Kramer title is keyword-stuffed (92 chars)",city page (exists)
+flooring installation lakewood ranch,city,local,MEDIUM,AC-exact,city page (exists)
+flooring venice fl,city,local,HIGH,"AC-exact + 6 competitor brands in AC; SERP: Floor & Decor + 7 showrooms, zero installers",city page (exists)
+flooring installation venice fl,city,local,MEDIUM,AC-exact (+ zip variants),city page (exists)
+flooring north port fl,city,local,MEDIUM,"AC-exact (+3 zips); SERP: FCI, Footprints, Houzz, HomeAdvisor, 50Floor, Uflooria",city page (new)
+flooring englewood fl,city,local,MEDIUM,AC-exact + 3 local brands,city page (new)
+flooring port charlotte,city,local,MEDIUM,AC-exact + 6 local brands; approx 37 mi straight-line (edge of radius),"city page (new, phase 2)"
+flooring punta gorda,city,local,MEDIUM,AC-exact + 3 brands; approx 41 mi straight-line = OUTSIDE 40 mi,skip (outside radius)
+flooring palmetto fl,city,local,LOW,AC-pattern + zip variants,city page (exists)
+flooring parrish fl,city,local,LOW,AC-exact + zip variants,city page (exists)
+flooring ellenton fl,city,local,LOW,AC-pattern (zip variants),"city page (new, low priority)"
+flooring siesta key,city,local,LOW,"AC-pattern + ""siesta key flooring""; pages at FCI, Meta, Knock On Wood, YFW, Angi",city page (exists)
+flooring longboat key,city,local,LOW,"AC-pattern + ""your flooring warehouse longboat key""",city page (exists)
+flooring anna maria island,city,local,LOW,"AC-pattern (3); pages at FCI, Meta, Comfort Style",city page (new)
+flooring holmes beach,city,local,LOW,AC-pattern,section on Anna Maria Island page
+flooring osprey fl,city,local,LOW,"AC-pattern; pages at FCI, Meta, Comfort Style, Knock On Wood",city page (new)
+flooring nokomis fl,city,local,LOW,AC-pattern + one local brand,city page (new)
+flooring sun city center,city,local,MEDIUM,AC-exact + competitor brand; approx 29 mi; 55+ community = high replacement demand,"city page (new, phase 2)"
+flooring apollo beach,city,local,LOW,AC-exact; approx 31 mi,city page (phase 3)
+flooring ruskin fl,city,local,LOW,AC-exact; approx 27 mi,section on Sun City Center page
+flooring wellen park,city,local,LOW,AC-pattern (Google confuses with Orlando); new-construction community,section on Venice / North Port pages
+flooring palmer ranch,neighborhood,local,LOW,"AC shows ""flooring palmer ranch sarasota""; FCI has a page",neighborhood section on Sarasota city page
+flooring lido key,neighborhood,local,LOW,AC-pattern; FCI and Meta have pages,neighborhood section on Sarasota city page
+flooring university park fl,neighborhood,local,LOW,AC-pattern (mixed with Orlando zips); Comfort Style and Hardwood Stop have pages,neighborhood section on Lakewood Ranch page
+flooring gulf gate sarasota,neighborhood,local,LOW,AC-pattern,neighborhood section on Sarasota city page
+flooring myakka city,city,local,LOW,AC-pattern only; rural,mention on service-area list only
+flooring st petersburg fl,city,local,HIGH (own market),"AC-rich, but approx 31 mi straight-line across Tampa Bay (Skyway toll, ~40+ road miles) and a separate Google local pack",skip (leave to sibling sites)
+hardwood flooring lakewood ranch,service x city,local,MEDIUM,"AC-exact; LG Kramer title ""Hardwood Flooring Lakewood Ranch, FL""",service x city page (exists)
+hardwood flooring bradenton,service x city,local,LOW,AC-pattern,service x city page (exists)
+vinyl plank flooring bradenton,service x city,local,LOW,AC-pattern,service x city page (exists)
+vinyl plank flooring venice fl,service x city,local,LOW,"AC-exact + zips; AC also suggests ""vinyl flooring venice fl""",service x city page (exists)
+tile installation venice fl,service x city,local,LOW,"AC-pattern + ""tile installers venice fl"", ""tile contractors venice fl""",service x city page (exists)
+tile installers bradenton fl,service x city,local,LOW,AC suggestion,service x city page (exists)
+hardwood floor refinishing bradenton,service x city,local,LOW,AC-pattern,"service x city page (new, after refinishing service page)"

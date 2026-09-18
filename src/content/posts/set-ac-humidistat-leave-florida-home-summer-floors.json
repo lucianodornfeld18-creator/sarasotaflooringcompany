@@ -1,0 +1,58 @@
+{
+ "slug": "set-ac-humidistat-leave-florida-home-summer-floors",
+ "question": "What should I set my AC and humidistat to when I leave my Florida home for the summer so the floors aren't damaged?",
+ "title": "AC and Humidistat Settings for an Empty Florida Home",
+ "h1": "What Should I Set My AC and Humidistat to When I Leave My Florida Home for the Summer?",
+ "description": "UF/IFAS recommends 85°F max while away for the summer; Southwest Florida HVAC pros suggest 78-80°F and a 55-60% humidistat to protect floors.",
+ "cluster": "florida-humidity-moisture",
+ "cluster_label": "Florida humidity & moisture",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Leave the AC running at 85°F or lower, per UF/IFAS guidance for closing a seasonal home, since higher settings let indoor humidity pass 55-60% and put wood floors at risk. Southwest Florida HVAC companies recommend a tighter 78-80°F thermostat with the humidistat near 55-60%, calibrated before you leave for the summer.",
+ "sections": [
+  {
+   "h2": "The Short Answer for Snowbirds Leaving for the Season",
+   "html": "<p>Leave the air conditioning running, full stop -- don't switch it off to save on the summer power bill while the house sits empty. University of Florida's IFAS Extension, in its guidance for closing a seasonal home, says the AC should be set no higher than 85°F, because above that point indoor relative humidity tends to climb past 55-60%, which is where mold gets a foothold on walls, cabinets and wood floors. Most Southwest Florida HVAC companies recommend a lower setting than that ceiling: thermostat around 78-80°F with the humidistat near 55-60%, which keeps more margin before problems start. Either number beats shutting the system off. For the year-round, occupied target rather than the away-mode target, see <a href=\"/blog/indoor-humidity-keep-wood-floors-florida/\">what humidity to keep when you're living in the house</a>.</p>"
+  },
+  {
+   "h2": "Why 85°F Is the Line UF/IFAS Draws",
+   "html": "<p>UF/IFAS's 85°F line isn't arbitrary. It's roughly the point where a closed-up Florida house, without the moisture load of daily cooking, showers and open doors a lived-in home has, still tends to drift past 55-60% indoor relative humidity once the AC stops actively pulling moisture out of the air. That's already above the NWFA's 30-50% comfort range for wood floors, and it edges toward the conditions where wood's equilibrium moisture content starts climbing toward the 14-16% level that causes cupping, the kind of shift you'd otherwise see in a fully un-air-conditioned house at 75-80% RH. An empty house doesn't need storm-shuttered conditions to start affecting the floors; a few degrees of thermostat setback is often enough.</p>"
+  },
+  {
+   "h2": "What Southwest Florida HVAC Companies Recommend Instead",
+   "html": "<p>SW Florida HVAC firms that manage seasonal homes for a living tend to give a tighter number than the university guidance: 78-80°F on the thermostat, 55-60% on the humidistat, and never switch the system off completely, not even for a week. The gap between their advice and UF/IFAS's 85°F ceiling is the safety margin -- pros who've seen the wrong side of that line would rather you run a slightly higher electric bill than come home to warped floors or a musty smell. If your thermostat doesn't have a built-in humidistat, a standalone one, or a smart thermostat with a humidity sensor, closes that gap for under $200.</p>"
+  },
+  {
+   "h2": "Get the Humidistat Calibrated Before You Lock the Door",
+   "html": "<p>A humidistat that reads wrong is worse than no humidistat, because it gives you false confidence while the house drifts. Have it calibrated, or at minimum checked against a separate hygrometer, before you leave for the season, not after you get back to cupped boards. Ceiling fans left running on a timer help circulate air so one corner of the house doesn't sit stagnant and humid while the thermostat near the main hallway reads fine. If the house has zoned AC, confirm every zone, not just the one near the thermostat, is actually getting conditioned air while you're gone for the whole season.</p>"
+  },
+  {
+   "h2": "What Happens to the Floors If You Get This Wrong",
+   "html": "<p>Skip this and the floors are usually the first thing to show it. <a href=\"/blog/real-hardwood-floors-florida/\">Solid and engineered hardwood</a> can cup or gap once indoor RH sits above roughly 60% for weeks at a time, and even <a href=\"/vinyl-plank-flooring/\">vinyl plank</a> over a slab that stays damp longer than usual can develop the conditions for mold underneath it -- <a href=\"/blog/mold-grow-under-vinyl-plank-flooring-florida-slab/\">we cover that specific risk here</a>. If you come home to floors that don't look right after a season away, a free in-home visit tells you whether it's cosmetic or something the subfloor needs addressed before it's ignored again next year.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Home Status", "Thermostat", "Humidistat"],
+  "rows": [
+   ["Occupied, year-round", "Comfort setting (typically 68-75°F)", "Keep indoor RH 30-50% (NWFA)"],
+   ["Away for summer, UF/IFAS minimum", "85°F maximum", "Keep RH under ~55-60%"],
+   ["Away for summer, SW Florida HVAC pros", "78-80°F", "55-60%"]
+  ],
+  "caption": "UF/IFAS \"Closing Your Seasonal Home\" (HE887) and SW Florida HVAC guidance via getbest.com"
+ },
+ "faqs": [
+  {"q": "Should I turn the AC off completely to save money while I'm away?", "a": "No. UF/IFAS specifically warns against this. A closed-up house without any cooling can pass 55-60% indoor humidity within days, enough to start affecting wood floors and grow mold on walls and cabinets."},
+  {"q": "Do I need a smart thermostat to do this right?", "a": "Not necessarily, but a thermostat with a real humidistat function, or a standalone hygrometer you can check remotely, removes the guesswork. A basic mechanical thermostat with no humidity readout is the hardest to trust for a house sitting empty for months."},
+  {"q": "What if I come home and the floors already look off?", "a": "Give it a couple of weeks with normal AC running before assuming the worst; mild cupping from a temporary humidity swing can flatten out on its own. If it doesn't, <a href=\"/floor-repair/\">a repair visit</a> tells you whether it's cosmetic or something deeper."}
+ ],
+ "next_step": "Ask us for a humidity and slab check on your next visit home; it's a fast add-on to a free estimate and tells you whether last summer's settings actually held.",
+ "sources": [
+  {"title": "UF/IFAS Extension -- Closing Your Seasonal Home (HE887)", "url": "https://ask.ifas.ufl.edu/publication/HE887"},
+  {"title": "SW Florida HVAC guidance on thermostat/humidistat settings while away", "url": "https://getbest.com/where-do-i-set-the-thermostat-humidistat-when-i-leave-home/"},
+  {"title": "NWFA moisture guidance via Hurst Hardwoods", "url": "https://www.hursthardwoods.com/moisture-control/"}
+ ],
+ "related_services": ["hardwood-flooring", "vinyl-plank-flooring"],
+ "related_cities": ["sarasota", "longboat-key", "siesta-key"],
+ "related_posts": ["indoor-humidity-keep-wood-floors-florida", "flooring-best-snowbird-home-sits-empty-all-summer", "mold-grow-under-vinyl-plank-flooring-florida-slab", "real-hardwood-floors-florida", "best-flooring-vacation-rental-florida"],
+ "keywords": ["AC settings for empty Florida home", "humidistat setting Florida floors", "closing seasonal home Florida", "snowbird home humidity floors", "protect wood floors while away Florida"]
+}

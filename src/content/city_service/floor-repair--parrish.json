@@ -1,0 +1,25 @@
+{
+  "floor-repair/parrish": {
+    "title": "Floor Repair Parrish FL | Warranty & Builder-Grade Fixes",
+    "description": "Floor repair for Parrish, FL's new-construction homes, mostly first-year, warranty-adjacent fixes like buckled LVP and loose transition strips. 2026 rates.",
+    "h1": "Floor Repair in Parrish, FL",
+    "lede": "Parrish's housing stock is too young for the wear-and-tear repairs we see elsewhere, so almost every call here traces back to something that went wrong in the first year.",
+    "capsule": "Because nearly every Parrish house is new construction built since 2015, our repair calls here skew first-year and warranty-adjacent: a loose transition strip, LVP that buckled before the AC ran consistently, or a cracked shower tile in a Del Webb villa. The $185 diagnostic visit credits toward whatever repair follows. Typical 2026 ranges run $95 to $370 for a small tile or plank fix.",
+    "body_html": "<p>Parrish's housing stock is too young for the repair calls we see in older parts of the county, and that changes what a <a href=\"/floor-repair/\">floor repair</a> visit here usually looks like. Almost nothing we fix in North River Ranch, Silverleaf or Twin Rivers traces back to age; it traces back to the first year of ownership. The most common call is a builder-installed transition strip that pulled loose within months of closing, followed closely by LVP that buckled near a window or exterior wall because the house sat with the air conditioning off or barely running during the final weeks before closing, letting Florida humidity work into the slab and the plank's core before the new owner ever moved in.</p><p>A 1,050 sq ft main living area in a new North River Ranch home showing a buckled seam six weeks after closing is a typical case, and figuring out whether it's an installation defect or a manufacturer defect matters, because our two-year workmanship warranty covers the first and the product's own warranty covers the second. We diagnose it with a moisture check at the seam and a look at how the planks were racked during the original install before telling the owner which warranty applies.</p><p>Del Webb at North River Ranch's 55-and-over households call us more often about grout and tile than about plank floors, usually a hairline crack or a loose corner in a walk-in shower discovered within the first year of use. Manatee County Building & Development Services is the office of record if a repair ever touches plumbing or a load-bearing wall, though a straight flooring repair almost never needs a permit under Florida's floor-covering exemption. Most of these calls happen within the first twelve months after closing, which is also the window our two-year workmanship warranty and the builder's own one-year warranty tend to overlap, so we help owners figure out which one applies. For the mechanics behind the most common complaint we see, read our post on <a href=\"/blog/vinyl-plank-floor-buckling/\">why vinyl plank flooring buckles</a>, and our <a href=\"/parrish/\">Parrish area page</a> fills in the rest of what's new-construction about this town.</p>",
+    "cost_html": "<p>A typical first-year Parrish call is a loose transition strip plus two buckled LVP planks near a window in a North River Ranch home. The pull-and-reset labor runs $95-$190 for one to two hours at our $95 hourly rate, plus $20-$40 in replacement material from the builder's leftover box, and the $185 diagnostic visit credits toward that total instead of stacking on top, so the invoice for a straightforward buckled-plank fix runs $115-$230, not $300-$415.</p><p>A Del Webb shower with two cracked tiles instead runs $190-$370 (2 tiles x $95-$185 each) with the same diagnostic credit applied. Regrouting the surrounding field, when the grout doesn't match cleanly, adds $3.50-$7.00 per sq ft. Our <a href=\"/cost/floor-repair/\">floor repair cost guide</a> breaks down pricing for every repair category we handle.</p>",
+    "faqs": [
+      {
+        "q": "Why did my brand-new Parrish home's LVP floor buckle before I even moved in?",
+        "a": "It usually means the air conditioning wasn't running consistently in the vacant house during the final weeks before closing, letting Florida humidity reach the slab and the plank's core. That's an installation-related issue our two-year warranty typically covers, not a manufacturer defect."
+      },
+      {
+        "q": "Who pays for a warranty-adjacent floor repair in a new North River Ranch home?",
+        "a": "It depends on whether the diagnostic points to an installation defect, covered by our two-year workmanship warranty, or a manufacturer defect, covered by the product's own warranty, and we tell you which applies before any repair work starts."
+      },
+      {
+        "q": "Does Del Webb at North River Ranch need a different kind of floor repair?",
+        "a": "Its most common calls are cracked or loose tile in walk-in showers rather than plank issues, since the community's 55-and-over households use those showers daily and a hairline crack shows up faster than it would in a less-used bathroom."
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+ "slug": "flooring-installers-license-florida",
+ "question": "Do flooring installers need a license in Florida?",
+ "title": "Do Flooring Installers Need a License in Florida?",
+ "h1": "Does Florida Require a License to Install Flooring?",
+ "description": "Florida has no state license for flooring installers, and local licensing of the trade was preempted statewide effective July 1, 2024, per HB 1383.",
+ "cluster": "permits-licensing",
+ "cluster_label": "Permits & licensing",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "No. Florida issues no state license for flooring or tile installers, and as of July 1, 2024, cities and counties can no longer require one either, under a preemption law passed as HB 735 in 2021 and expanded by HB 1383 in 2023. Installers still need an active Sunbiz business registration and general liability insurance, plus workers' compensation or a valid exemption.",
+ "sections": [
+  {
+   "h2": "Do Flooring Installers Need a License in Florida?",
+   "html": "<p>No, and this trips up a lot of homeowners searching for one. There is no state-issued license for flooring or tile installation in Florida, through the DBPR or otherwise. Before 2024, some local governments issued their own occupational licenses for specialty trades like flooring, but that's gone now too. Any flooring company that advertises itself as \"licensed\" for installation work is describing something that doesn't currently exist as a credential in this state.</p><p>It's a fair question to ask, since Florida does license plenty of other home-services trades and there's no obvious reason a homeowner would know flooring falls outside that system. Flooring and tile installation were simply never brought under that kind of state regulatory framework, and the 2024 law closed off the local patchwork that had partly filled that gap in a handful of cities and counties. Worth remembering the goal wasn't to lower standards; lawmakers argued the old patchwork of local licenses created inconsistent, sometimes redundant requirements across county lines without actually protecting homeowners any better, since insurance and registration were already doing most of that protective work anyway, without the added cost and delay of a separate local licensing process layered on top of business registration and insurance that already existed.</p>"
+  },
+  {
+   "h2": "What Changed on July 1, 2024",
+   "html": "<p>Florida passed HB 735 in 2021 and expanded it with HB 1383 in 2023, preempting local governments from requiring licenses for a list of specialty trades, flooring and tile installation among them. The preemption took full effect July 1, 2024. Local occupational licenses that used to exist in some cities and counties for flooring installers are no longer enforceable requirements.</p><p>For homeowners in Sarasota and Manatee County, that means a distinction that used to matter, whether a specific city or county issued its own flooring occupational license, no longer applies anywhere in the state. The rule is now the same in Sarasota, in Bradenton, and in a jurisdiction clear across Florida.</p>"
+  },
+  {
+   "h2": "What Florida Does Require Instead",
+   "html": "<p>Even without a trade license, a legitimate flooring business still needs an active registration with the Florida Division of Corporations (Sunbiz), general liability insurance, and workers' compensation coverage or a documented exemption. Those are the things worth verifying before you hire, not a license number that doesn't exist for this trade. Ask us for our certificate of insurance and we'll provide it before the job starts, whether the work is <a href=\"/hardwood-flooring/\">hardwood</a>, <a href=\"/tile-installation/\">tile</a> or vinyl plank.</p><p>Workers' compensation matters more than it might seem. If an uninsured worker is hurt in your home, Florida's exemption rules can leave the homeowner exposed in ways a certificate of insurance would have prevented.</p>"
+  },
+  {
+   "h2": "Which Florida Trades Still Need a State License",
+   "html": "<p>This isn't true of every trade. Florida's Department of Business and Professional Regulation still licenses electricians, plumbers and general contractors, among others, and maintains a public list of which services do and don't require a state license. Flooring and tile installation fall outside that list, which is exactly why the 2024 preemption applied to them. If your project pulls in another trade, say, electrical work for a heated floor system, that portion of the job may still need a licensed subcontractor even though the flooring installation itself doesn't.</p><p>Questions about what to verify before hiring anyone for a flooring project? See our full breakdown of <a href=\"/blog/questions-ask-flooring-contractor-before-hiring/\">questions to ask a flooring contractor</a>, or <a href=\"#estimate\">request a free estimate</a> and ask us directly about registration and insurance.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Requirement", "Applies to flooring installers in Florida?"],
+  "rows": [
+   ["State DBPR trade license", "No, does not exist for this trade"],
+   ["Local occupational license", "No, preempted statewide since July 1, 2024"],
+   ["Active Sunbiz business registration", "Yes"],
+   ["General liability insurance", "Yes"],
+   ["Workers' compensation or exemption", "Yes"]
+  ],
+  "caption": "Based on HB 735 (2021) and HB 1383 (2023) preemption of local specialty trade licensing."
+ },
+ "faqs": [
+  {
+   "q": "Is a flooring company lying if they say they're 'licensed'?",
+   "a": "There's no state or local license for flooring installation to hold, so the claim doesn't map to an actual credential. It's more useful to ask about business registration, insurance and workers' compensation instead."
+  },
+  {
+   "q": "Is insurance the same thing as a license?",
+   "a": "No. Insurance protects you financially if something goes wrong on the job; a license is a government-issued credential. Florida doesn't require the second for flooring installers, but insurance still matters and is worth verifying."
+  },
+  {
+   "q": "What if my HOA asks for a contractor's license number?",
+   "a": "Let them know Florida doesn't license flooring installation as a trade, and offer proof of business registration and insurance instead, which is what HOAs typically accept once they understand the 2024 change."
+  }
+ ],
+ "next_step": "Ask us for proof of Sunbiz registration and insurance as part of your free estimate.",
+ "sources": [
+  {"title": "Seer Floor: Changes to Licensing in Florida", "url": "https://www.seerfloor.com/2024/06/changes-to-licensing-in-florida/"},
+  {"title": "DBPR: Services Requiring a DBPR License", "url": "https://www2.myfloridalicense.com/services-requiring-a-dbpr-license/"}
+ ],
+ "related_services": ["hardwood-flooring", "tile-installation"],
+ "related_cities": ["sarasota", "bradenton"],
+ "related_posts": ["questions-ask-flooring-contractor-before-hiring", "permit-replace-flooring-sarasota-county", "permit-change-flooring-florida-condo", "better-buy-flooring-home-depot-lowes-hire-local"],
+ "keywords": ["flooring installer license florida", "do flooring installers need a license", "florida flooring licensing law", "flooring contractor insurance florida", "hiring a flooring contractor"]
+}

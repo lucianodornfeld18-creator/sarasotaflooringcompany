@@ -1,0 +1,48 @@
+{
+ "slug": "long-slab-dry-after-flooding-before-new-floors",
+ "question": "How long does a slab need to dry after flooding before new floors go in?",
+ "title": "How Long Does a Flooded Slab Need to Dry First?",
+ "h1": "How Long Does a Slab Need to Dry After Flooding Before New Floors Go In?",
+ "description": "There's no fixed number of days; a flooded slab needs to test at or below 75% RH (ASTM F2170) before new flooring in a Sarasota-area home.",
+ "cluster": "water-flood-hurricane",
+ "cluster_label": "Water, floods & hurricanes",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "There's no universal number of days, despite what general guides claim. A flooded slab is ready when it tests at or below 75% relative humidity (ASTM F2170) or 3 lbs per 1,000 sq ft per 24 hours (ASTM F1869), the same default limits any new slab-on-grade flooring install needs to meet in a Sarasota-area home, whether or not a flood was ever involved.",
+ "sections": [
+  {
+   "h2": "There's No Universal Number of Days",
+   "html": "<p>A flooded slab dries on its own schedule, driven by how long it sat underwater, how thick the slab is, what type of flooring was on it before, what's underneath it, and how much airflow and dehumidification it gets afterward, not on a fixed calendar date. Guessing a number and installing on that guess is how homeowners end up paying to replace the same room's flooring twice within a couple of years. The only honest answer is that the slab is ready when it tests ready, using the same moisture thresholds any new flooring install requires, whether or not a flood was ever involved, and no amount of experience lets us skip that step honestly.</p>"
+  },
+  {
+   "h2": "The Two Tests That Replace Guesswork",
+   "html": "<p>ASTM F2170 relative humidity testing, with probes set carefully at 40% of the slab's total depth, is the current standard most manufacturers now actually require, alongside or instead of the older ASTM F1869 calcium chloride test. The default acceptable reading is 75% RH or 3 lbs per 1,000 sq ft per 24 hours, unless a specific product's manufacturer allows more, the way Shaw's Floorte Pro SPC line permits up to 90% RH or 8 lbs in its own tested system. <a href=\"/blog/test-concrete-slab-moisture-before-installing-flooring/\">Here's the full breakdown of how that testing works</a> on a slab that was never flooded; a post-flood slab gets tested the exact same way, just after a longer drying period first and often with more than one round of testing before it clears.</p>"
+  },
+  {
+   "h2": "What Speeds Drying and What Doesn't",
+   "html": "<p>Running the AC continuously, adding commercial dehumidifiers, and keeping fans moving air across the slab surface all measurably speed up drying compared to leaving a closed-up, humid room to dry passively. Opening windows in a Florida summer generally does the opposite, since outdoor humidity often exceeds what's already inside. A slab that flooded and then sat closed up for weeks before drying equipment arrived typically needs longer than one where drying started within the EPA's 24-to-48-hour window. None of that changes the target number, only how long it takes to get there, which is exactly why we test rather than promise a date based on how the room looked on day one.</p>"
+  },
+  {
+   "h2": "When We'll Write a Flooring Quote After a Flood",
+   "html": "<p>We won't quote new <a href=\"/hardwood-flooring/\">hardwood</a> or <a href=\"/vinyl-plank-flooring/\">vinyl plank</a> on a post-flood slab until it tests within range, because a quote built on a guess isn't a real quote. If the slab is still drying, we'll tell you that honestly rather than scheduling an install date that has to get pushed. <a href=\"/blog/soon-pull-up-wet-flooring-after-storm-surge/\">If the old flooring is still down, removing it is the first step</a>, well before drying time or a new floor even enters the conversation.</p>"
+  },
+  {
+   "h2": "Why We Won't Give You a Calendar Date Up Front",
+   "html": "<p>It would be easier for everyone if we could quote \"three weeks\" the first time we walk through a flooded home, but that number would be a guess dressed up as an estimate, and guesses are how homeowners end up paying for flooring twice. Two houses hit by the same storm, on the same street, can dry at meaningfully different rates depending on slab thickness, how much of the house flooded, whether the AC kept running, and how quickly drying equipment got started. What we can commit to is a testing schedule: we'll check the slab periodically as it dries, tell you honestly where the numbers stand each time, and only write the flooring quote once a reading actually clears the threshold, not before.</p>"
+  }
+ ],
+ "faqs": [
+  {"q": "Can I speed things up by running a space heater on the slab?", "a": "Not recommended. Heat without airflow and dehumidification can drive moisture deeper into the slab temporarily rather than removing it, and gives a misleadingly fast-looking surface dry. Fans and dehumidification do the actual work."},
+  {"q": "Does a thicker slab take longer to dry after flooding?", "a": "Generally yes, since there's more concrete mass holding moisture and a longer path for it to migrate out. This is part of why we test rather than estimate based on slab thickness alone."},
+  {"q": "Is it worth testing multiple times during drying?", "a": "Yes. Testing periodically shows the trend, not just a single number, and helps avoid both installing too early and waiting longer than necessary once the slab has actually reached an acceptable reading."}
+ ],
+ "next_step": "We'll test your post-flood slab and give you an honest timeline before writing any flooring quote, so you're not installing on a guess.",
+ "sources": [
+  {"title": "IFTI -- ASTM F2170 vs F1869", "url": "https://ifti.com/astm-f2170-vs-f1869-which-moisture-test-fits-your-project/"},
+  {"title": "Shaw Floorte Pro SPC installation guide (PDF)", "url": "https://www.cfiu.org/wp-content/uploads/2022/01/Shaw-Floors-Floorte-Pro-6-7-10-Installation-pdf-generated-on-12_30_2021.pdf"}
+ ],
+ "related_services": ["hardwood-flooring", "vinyl-plank-flooring"],
+ "related_cities": ["sarasota"],
+ "related_posts": ["test-concrete-slab-moisture-before-installing-flooring", "soon-pull-up-wet-flooring-after-storm-surge", "vinyl-plank-flooring-saved-after-flood", "homeowners-insurance-cover-flood-damaged-floors-florida", "water-damaged-hardwood-floors-saved"],
+ "keywords": ["how long slab dry after flooding", "flooded slab before new flooring", "post-flood flooring installation Florida", "slab moisture testing after flood", "flooring after hurricane flood Sarasota"]
+}

@@ -1,0 +1,45 @@
+{
+ "slug": "vinyl-plank-flooring-really-waterproof",
+ "question": "Is vinyl plank flooring really waterproof?",
+ "title": "Is Vinyl Plank Flooring Really Waterproof?",
+ "h1": "Is Vinyl Plank Flooring Actually Waterproof?",
+ "description": "Most floating LVP makers still cap slab moisture at 75-85% RH. Here's what waterproof actually covers for a Sarasota-area home in 2026.",
+ "cluster": "lvp-vinyl",
+ "cluster_label": "Vinyl plank (LVP)",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Yes at the surface, but not automatically underneath: in a Sarasota-area home on a slab, most floating LVP/LVT makers still cap allowable moisture at 75-85% relative humidity, so a waterproof plank doesn't remove the need for a dry slab. After a clean-water event, planks can often be lifted, dried and re-laid within the EPA's 24-48 hour mold-prevention window.",
+ "sections": [
+  {
+   "h2": "Is Vinyl Plank Flooring Actually Waterproof?",
+   "html": "<p>The plank itself is, in the sense that water sitting on top won't soak into it or swell it the way it would a laminate or wood board. What \"waterproof\" doesn't cover is the slab underneath. IFTI's guidance on this is specific: most manufacturers of floating <a href=\"/vinyl-plank-flooring/\">LVP and LVT</a> still cap allowable in-slab relative humidity at 75-85%, even for products marketed as fully waterproof. Floating the floor instead of gluing it down doesn't erase that limit, it just moves the failure mode from adhesive bond loss to dimensional problems and hygiene issues if moisture gets trapped underneath long-term.</p><p>That distinction trips up a lot of homeowners who assume \"waterproof\" means the whole assembly, floor and slab together, is immune to moisture. It really only describes the plank's own resistance to water sitting on its surface. We explain this distinction at every estimate for exactly that reason, since it changes what prep work a slab needs before we'll install any vinyl product over it, waterproof marketing or not.</p>"
+  },
+  {
+   "h2": "What Happens If Water Gets Under It Anyway?",
+   "html": "<p>It depends heavily on what kind of water and how long it sat there. After a clean-water event, like a burst supply line rather than sewage backup, click-together vinyl planks can often be lifted, cleaned, dried and re-laid. Any foam pad or cork underlayment underneath should be thrown out rather than reused, and the slab itself needs to be dried and moisture-tested before the same planks go back down. Contaminated water, from storm surge or a sewage backup, is a different situation entirely and usually means the flooring gets replaced rather than salvaged, for hygiene reasons as much as material condition. The subfloor and any baseboard or drywall that got wet needs the same clean-versus-contaminated evaluation, since vinyl is rarely the only material affected once water gets past the surface.</p>"
+  },
+  {
+   "h2": "How Fast Do You Need to Act After a Leak or Flood?",
+   "html": "<p>The EPA's guidance is blunt on this point: dry water-damaged materials within 24-48 hours to keep mold from establishing, and keep indoor relative humidity below 60%, ideally in the 30-50% range. In a closed-up Sarasota house during a summer storm, that window can close faster than people expect, since high outdoor humidity slows natural drying even with fans running. Waiting through a long weekend before pulling up wet vinyl and running dehumidifiers is often the difference between a floor that's salvageable and one that isn't. A wet-dry vacuum and a couple of rented dehumidifiers running overnight is usually enough to buy the time needed to assess the damage properly, and moving furniture off the wet area right away keeps the drying process from getting blocked in the spots that matter most.</p>"
+  },
+  {
+   "h2": "What We Check Before Calling a Floor \"Waterproof\"",
+   "html": "<p>We test the slab's moisture level before every vinyl install, not just at the estimate stage, because a reading that was fine three months ago can change after a wet season. If you're dealing with water damage right now, our <a href=\"/floor-repair/\">floor repair</a> team can tell you over the phone whether your specific situation is a save-it or replace-it call. For new installs, see our <a href=\"/waterproof-flooring/\">waterproof flooring guide</a> for how we prep the slab before any material goes down, and our <a href=\"/subfloor-leveling/\">subfloor leveling</a> page if the slab needs correction before a moisture reading will even mean much. Documenting that reading in writing at the estimate also protects you later, since it's the record that shows the slab met spec on the day the floor went in.</p>"
+  }
+ ],
+ "faqs": [
+  {"q": "Does a waterproof warranty cover flooding from a hurricane?", "a": "Usually not. Most vinyl warranties cover spills and everyday moisture, not storm surge or standing floodwater. Check your specific product's warranty language before assuming flood coverage."},
+  {"q": "Can mold grow under vinyl plank flooring even if it's waterproof?", "a": "Yes, if moisture gets trapped between the slab and the plank and isn't dried out. See our post on <a href=\"/blog/mold-grow-under-vinyl-plank-flooring-florida-slab/\">whether mold can grow under vinyl plank flooring on a Florida slab</a>."},
+  {"q": "Is glue-down vinyl more water-resistant than floating vinyl?", "a": "Not necessarily more waterproof, but a full-spread adhesive can reduce the space where water pools under the plank compared to a floating install over padding."}
+ ],
+ "next_step": "If you have wet flooring right now, call us before you pull anything up so we can tell you whether it can be saved.",
+ "sources": [
+  {"title": "IFTI: acceptable moisture content for concrete under vinyl flooring", "url": "https://ifti.com/acceptable-moisture-content-concrete-vinyl-flooring/"},
+  {"title": "Ogden's Flooring: can you save flooring after a flood", "url": "https://ogdensflooring.com/can-you-save-flooring-after-a-flood/"},
+  {"title": "EPA: brief guide to mold, moisture and your home", "url": "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"}
+ ],
+ "related_services": ["vinyl-plank-flooring", "floor-repair"],
+ "related_cities": [],
+ "related_posts": ["vinyl-plank-flooring-saved-after-flood", "mold-grow-under-vinyl-plank-flooring-florida-slab", "moisture-barrier-under-vinyl-plank-flooring-concrete-slab", "soon-pull-up-wet-flooring-after-storm-surge"],
+ "keywords": ["is vinyl plank flooring waterproof", "waterproof flooring", "vinyl plank flooring sarasota", "moisture barrier for vinyl plank on concrete"]
+}

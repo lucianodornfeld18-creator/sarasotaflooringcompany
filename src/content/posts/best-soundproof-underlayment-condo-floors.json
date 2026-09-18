@@ -1,0 +1,54 @@
+{
+ "slug": "best-soundproof-underlayment-condo-floors",
+ "question": "What is the best soundproof underlayment for condo floors?",
+ "title": "Best Soundproof Underlayment for Condo Floors",
+ "h1": "What's the Best Soundproof Underlayment for a Condo Floor?",
+ "description": "Cork, rubber, and dense recycled-foam are the standard condo underlayments; cork alone can hit IIC 55-60. Florida's code minimum is IIC/STC 50.",
+ "cluster": "condo-hoa-sound",
+ "cluster_label": "Condo & HOA flooring",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Cork, rubber, and dense recycled-foam underlayments are the standard choices for Florida condo floors, with cork alone often reaching IIC 55-60. Florida's building code sets a 50 IIC/STC minimum between units, but many Sarasota-area associations want 55-60 or higher, so get the product's ASTM E2179 test report before you buy anything.",
+ "sections": [
+  {
+   "h2": "The Three Underlayment Families Condo Boards Accept",
+   "html": "<p>Most Sarasota condo renovation packages point owners toward one of three underlayment families: cork, rubber, or dense recycled-foam. Cork stands out because it can reach IIC 55-60 by itself, without anything else added to the assembly, according to Floor Coverings International's Sarasota office. Rubber and dense foam underlayments generally need to be paired with the finish flooring's own test data to confirm the combined rating. Rubber tends to cost more than dense foam but holds up longer under furniture and rolling loads, which matters in a hallway or living room that sees daily traffic.</p><p>Whichever family you pick, it has to sit on top of a properly prepped slab. We check that as part of every <a href=\"/condo-flooring/\">condo flooring</a> estimate before recommending a specific product. If your board's renovation application requires proof of the assembly's rating, keep the manufacturer's documentation with your other paperwork; our <a href=\"/tools/condo-flooring-approval-checklist/\">condo flooring approval checklist</a> lists what most Sarasota-area boards ask to see alongside the underlayment spec sheet.</p>"
+  },
+  {
+   "h2": "Why the Test Report Matters More Than the Marketing Claim",
+   "html": "<p>A box that says soundproof isn't the same as a number your board can approve. The figure that matters is the ASTM E2179 delta-IIC rating for the exact assembly, the flooring, the pad, and the subfloor tested together, not the underlayment alone. Ask the manufacturer or your installer for that report before you buy.</p><p>This matters even more if you're set on rigid-core <a href=\"/vinyl-plank-flooring/\">vinyl plank</a>. A Houzz pro discussion on condo LVP installs notes that most rigid-core products already ship with 1.5 to 2 mm of pad attached, and stacking a second underlayment on top of that can void the flooring's warranty.</p><p>None of this is unique to Sarasota. Any Florida condo built with a poured concrete slab between units faces the same starting point: sound transmits efficiently through bare concrete unless the assembly interrupts it, which is exactly what a rated underlayment is designed to do.</p>"
+  },
+  {
+   "h2": "Matching Underlayment to What's Going on Top",
+   "html": "<p>Tile and stone need the most help, since a bare slab with tile glued straight to it can test in the high 20s for IIC. Engineered or solid hardwood can go over cork, rubber, or dense foam depending on whether it's glued down or floating; the flooring manufacturer's installation instructions usually specify which. Rigid-core vinyl plank is the outlier, because the pad is often already built in. For <a href=\"/tile-installation/\">tile</a> specifically, the underlayment also has to manage moisture, not just sound, since Florida slabs commonly need a moisture reading before anything goes over them. We check both during the same visit rather than treating acoustic and moisture testing as separate steps.</p>"
+  },
+  {
+   "h2": "What to Ask Before You Buy",
+   "html": "<p>Ask for the exact IIC/STC number your building requires, then ask the underlayment manufacturer for a test report that matches your actual flooring choice, not a generic product rating. Don't assume a higher price tag means a higher number; get it in writing. We put this in your <a href=\"#estimate\">free in-home estimate</a> so you're not guessing when you submit your renovation application.</p><p>If two products list the same IIC number but different prices, ask what test method was used; a lab-tested delta-IIC report and a general manufacturer estimate aren't the same level of proof, and only one of them satisfies a strict board. We also flag when a product's warranty explicitly excludes stacking underlayments, since that detail is easy to miss on a spec sheet but expensive to discover after installation. A few extra minutes spent comparing test reports up front is a lot cheaper than pulling up a finished floor to fix a rating that never actually cleared your building's minimum.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Flooring on top", "Underlayment approach", "Watch for"],
+  "rows": [
+   ["Tile or stone", "Rated isolation membrane or cork underlayment rated for tile", "Bare slab alone tests in the high 20s for IIC"],
+   ["Engineered or solid hardwood", "Cork, rubber, or dense recycled foam under a glue-down or floating install", "Match the pad to the manufacturer's specified install method"],
+   ["Rigid-core vinyl plank", "Usually none added; most ship with 1.5-2 mm of pad attached", "A second underlayment on top can void the flooring warranty"]
+  ],
+  "caption": "Sources: Floor Coverings International Sarasota, Houzz pro discussion (2026)."
+ },
+ "faqs": [
+  {"q": "Can I stack two underlayments to boost the rating?", "a": "Usually not on rigid-core vinyl plank, since most already have a factory-attached pad and adding a second layer can void the warranty. On tile or hardwood, ask the manufacturer whether the assembly was tested with that specific combination before stacking."},
+  {"q": "Does cork work under tile too?", "a": "Yes. Floor Coverings International's Sarasota office notes cork can reach IIC 55-60 alone, and it's used under several flooring types, not just wood."},
+  {"q": "What if the product I like doesn't list an IIC number?", "a": "Ask the manufacturer or your installer for the ASTM E2179 test report before you buy. A listing without a documented number isn't something most condo boards will accept."}
+ ],
+ "next_step": "Bring your building's IIC/STC minimum to a free in-home estimate and we'll pull the test documentation for underlayments that actually clear it.",
+ "sources": [
+  {"title": "Floor Coverings International Sarasota - condo flooring soundproofing guide", "url": "https://floorcoveringsinternational.com/locations/us/fl/sarasota/tips/guide-condo-flooring-soundproofing/"},
+  {"title": "Houzz - LVP in condo with concrete floors, sound barrier underlayment discussion", "url": "https://www.houzz.com/discussions/5922442/lvp-in-condo-with-concrete-floors-sound-barrier-underlayment"},
+  {"title": "Commercial Acoustics - flooring permit and soundproofing", "url": "https://commercial-acoustics.com/soundproofing/flooring-permit/"}
+ ],
+ "related_services": ["tile-installation", "vinyl-plank-flooring", "hardwood-flooring"],
+ "related_cities": ["sarasota"],
+ "related_posts": ["iic-rating-condo-flooring-florida", "best-flooring-florida-condo-upper-floor", "hoa-approval-new-flooring-sarasota-condo", "replace-carpet-florida-condo-tile-hardwood"],
+ "keywords": ["best soundproof underlayment condo floors", "condo flooring underlayment requirements florida", "iic rating flooring", "moisture barrier for vinyl plank on concrete", "condo flooring sarasota"]
+}

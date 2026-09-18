@@ -1,0 +1,54 @@
+{
+ "slug": "permit-change-flooring-florida-condo",
+ "question": "Do I need a permit to change the flooring in a Florida condo?",
+ "title": "Permit to Change Flooring in a Florida Condo?",
+ "h1": "Does Changing Your Condo's Flooring Need a Permit in Florida?",
+ "description": "Florida condo flooring rules vary by city and building, but the Florida Building Code sets IIC and STC sound ratings of 50 between units either way.",
+ "cluster": "permits-licensing",
+ "cluster_label": "Permits & licensing",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "It depends on your city and your association. Several Florida cities, including Miami, Miami Beach, Boca Raton and Tampa, require a building permit plus an acoustic affidavit for hard-surface flooring in condos. Regardless of local permit rules, the Florida Building Code requires floor-ceiling assemblies between dwelling units to meet IIC and STC ratings of 50, or 45 if field-tested, which is what most HOA flooring rules are built around.",
+ "sections": [
+  {
+   "h2": "Does Your Florida Condo Flooring Change Need a Permit?",
+   "html": "<p>There's no single statewide answer, because condo flooring permitting is set city by city, not by the state. Some Florida cities, Miami, Miami Beach, Boca Raton and Tampa among them, require a building permit and an acoustic affidavit before hard-surface flooring goes in over an occupied unit below. Practice in Sarasota, Manatee and Charlotte county buildings varies more by individual association than by city ordinance, so the HOA is usually the first call, not the building department.</p><p>That's a meaningful difference from a single-family home, where we can usually tell you within the first few minutes of a free estimate whether county permitting applies at all. Condo buildings add a second layer, the association's own architectural review process, that a county permit search won't show you, and that layer is often the slower of the two to clear, since a volunteer board typically meets on its own monthly schedule rather than a permit office's posted turnaround time.</p>"
+  },
+  {
+   "h2": "The Sound Rating Every Condo Rule Is Built Around",
+   "html": "<p>Whether or not a permit is required, the underlying standard is consistent: the Florida Building Code requires floor-ceiling assemblies between dwelling units to meet an Impact Insulation Class (IIC) and Sound Transmission Class (STC) of 50, or 45 if measured with field testing rather than lab testing. That's the number most HOA flooring committees are checking for when they ask for an underlayment spec sheet, even if they don't cite the code section by name.</p><p>Vinyl plank and tile installed directly over a slab, with no acoustic underlayment, essentially never meets that rating in an older building, because impact sound from footsteps transmits straight through the concrete to the unit below. That's the whole reason acoustic underlayment exists as a product category, and it's why HOA-approved flooring lists almost always name a specific underlayment product alongside the finish material.</p>"
+  },
+  {
+   "h2": "Who Can Pull the Permit in a Multi-Family Building",
+   "html": "<p>When a permit is required, it's often not something a condo owner can pull as an owner-builder the way they might for a single-family house. In Longboat Key, for example, the town's building department FAQ notes that owners cannot pull owner-builder permits in multi-family buildings; a licensed contractor has to file for the permit. If your building requires a permit, plan on the contractor handling that filing rather than doing it yourself.</p><p>That's a practical reason to loop your contractor in early, before you've ordered material, rather than after. A contractor who's used to condo work in your building or a similar one nearby can usually tell you upfront whether the city and the association are going to want a permit, an affidavit, or both, which saves a round trip to the board after material is already sitting in a storage unit somewhere in the building.</p>"
+  },
+  {
+   "h2": "What to Check Before You Order Flooring",
+   "html": "<p>Start with your HOA or condo board's flooring policy, then confirm whether your city requires a permit or affidavit on top of that. Upper-floor units in <a href=\"/siesta-key/\">Siesta Key</a> and <a href=\"/longboat-key/\">Longboat Key</a> buildings especially tend to have specific underlayment requirements tied to the IIC/STC 50 standard. Our <a href=\"/tools/condo-flooring-approval-checklist/\">condo flooring approval checklist</a> tool walks through what boards typically ask for, and our <a href=\"/condo-flooring/\">condo flooring</a> page covers underlayment options that meet the code minimum. For the board approval process itself, see our guide on <a href=\"/blog/hoa-approval-new-flooring-sarasota-condo/\">getting HOA approval for new flooring</a>.</p><p><a href=\"#estimate\">Request a free estimate</a> and we'll help you gather what your board or building department needs before material gets ordered.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What IIC rating does my condo flooring need in Florida?",
+   "a": "The Florida Building Code sets a minimum IIC and STC of 50, or 45 if field-tested, for floor-ceiling assemblies between dwelling units. Your specific HOA may require the same minimum or set its own, sometimes stricter, standard."
+  },
+  {
+   "q": "Does county permit approval override my HOA's flooring rules?",
+   "a": "No. A county or city permit and an HOA's architectural or flooring approval are separate processes, and you generally need to satisfy both, not just one."
+  },
+  {
+   "q": "What happens if I install condo flooring without HOA approval?",
+   "a": "Associations can require removal and reinstallation to a compliant standard, which is far more expensive than getting approval before you order material. It's worth confirming requirements first."
+  }
+ ],
+ "next_step": "Request a free estimate and we'll help confirm what your condo board and local permit office require before you order flooring.",
+ "sources": [
+  {"title": "Acoustical Solutions: Florida Building Code Floor Soundproofing", "url": "https://acousticalsolutions.com/florida-building-code-floor-soundproofing"},
+  {"title": "Commercial Acoustics: Flooring Permit Requirements", "url": "https://commercial-acoustics.com/soundproofing/flooring-permit/"},
+  {"title": "Town of Longboat Key: Building Division FAQ", "url": "https://www.longboatkey.org/town-government/departments/planning-zoning-building/building-division/frequently-asked-questions"}
+ ],
+ "related_services": ["tile-installation", "vinyl-plank-flooring"],
+ "related_cities": ["siesta-key", "longboat-key"],
+ "related_posts": ["hoa-approval-new-flooring-sarasota-condo", "iic-rating-condo-flooring-florida", "permit-replace-flooring-sarasota-county", "best-soundproof-underlayment-condo-floors", "floating-floors-allowed-siesta-key-longboat-key-condos"],
+ "keywords": ["condo flooring permit florida", "condo flooring sound rating", "IIC STC condo flooring", "condo flooring approval", "flooring longboat key"]
+}

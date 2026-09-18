@@ -1,0 +1,1512 @@
+[
+ {
+  "keyword": "flooring near me",
+  "cluster": "near-me",
+  "demand": "HIGH",
+  "exact": 4,
+  "exact_pages": 4,
+  "loose": 2362,
+  "loose_pages": 178,
+  "title_h1_pages": 111
+ },
+ {
+  "keyword": "flooring sarasota",
+  "cluster": "head",
+  "demand": "HIGH",
+  "exact": 13,
+  "exact_pages": 10,
+  "loose": 877,
+  "loose_pages": 178,
+  "title_h1_pages": 36
+ },
+ {
+  "keyword": "hardwood flooring near me",
+  "cluster": "hardwood",
+  "demand": "HIGH",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 573,
+  "loose_pages": 177,
+  "title_h1_pages": 20
+ },
+ {
+  "keyword": "flooring installation near me",
+  "cluster": "near-me",
+  "demand": "HIGH",
+  "exact": 6,
+  "exact_pages": 5,
+  "loose": 519,
+  "loose_pages": 178,
+  "title_h1_pages": 27
+ },
+ {
+  "keyword": "flooring installation sarasota",
+  "cluster": "head",
+  "demand": "HIGH",
+  "exact": 3,
+  "exact_pages": 3,
+  "loose": 399,
+  "loose_pages": 178,
+  "title_h1_pages": 7
+ },
+ {
+  "keyword": "hardwood flooring sarasota",
+  "cluster": "hardwood",
+  "demand": "HIGH",
+  "exact": 4,
+  "exact_pages": 3,
+  "loose": 375,
+  "loose_pages": 177,
+  "title_h1_pages": 4
+ },
+ {
+  "keyword": "vinyl plank flooring sarasota",
+  "cluster": "LVP",
+  "demand": "HIGH",
+  "exact": 2,
+  "exact_pages": 2,
+  "loose": 374,
+  "loose_pages": 177,
+  "title_h1_pages": 4
+ },
+ {
+  "keyword": "flooring company sarasota",
+  "cluster": "head",
+  "demand": "HIGH",
+  "exact": 177,
+  "exact_pages": 176,
+  "loose": 368,
+  "loose_pages": 178,
+  "title_h1_pages": 10
+ },
+ {
+  "keyword": "flooring bradenton fl",
+  "cluster": "city",
+  "demand": "HIGH",
+  "exact": 4,
+  "exact_pages": 4,
+  "loose": 285,
+  "loose_pages": 177,
+  "title_h1_pages": 4
+ },
+ {
+  "keyword": "flooring lakewood ranch",
+  "cluster": "city",
+  "demand": "HIGH",
+  "exact": 6,
+  "exact_pages": 4,
+  "loose": 283,
+  "loose_pages": 177,
+  "title_h1_pages": 5
+ },
+ {
+  "keyword": "flooring venice fl",
+  "cluster": "city",
+  "demand": "HIGH",
+  "exact": 4,
+  "exact_pages": 4,
+  "loose": 276,
+  "loose_pages": 177,
+  "title_h1_pages": 4
+ },
+ {
+  "keyword": "vinyl plank flooring installation near me",
+  "cluster": "LVP",
+  "demand": "HIGH",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 275,
+  "loose_pages": 177,
+  "title_h1_pages": 12
+ },
+ {
+  "keyword": "tile installation sarasota",
+  "cluster": "tile",
+  "demand": "HIGH",
+  "exact": 3,
+  "exact_pages": 2,
+  "loose": 271,
+  "loose_pages": 177,
+  "title_h1_pages": 3
+ },
+ {
+  "keyword": "lvp installation near me",
+  "cluster": "LVP",
+  "demand": "HIGH",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 248,
+  "loose_pages": 177,
+  "title_h1_pages": 3
+ },
+ {
+  "keyword": "flooring installers near me",
+  "cluster": "near-me",
+  "demand": "HIGH",
+  "exact": 22,
+  "exact_pages": 21,
+  "loose": 76,
+  "loose_pages": 48,
+  "title_h1_pages": 16
+ },
+ {
+  "keyword": "hardwood floor refinishing near me",
+  "cluster": "refinishing",
+  "demand": "HIGH",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 35,
+  "loose_pages": 17,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "floor installers near me",
+  "cluster": "near-me",
+  "demand": "HIGH",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 23,
+  "loose_pages": 22,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "cost to install vinyl plank flooring",
+  "cluster": "cost",
+  "demand": "HIGH",
+  "exact": 9,
+  "exact_pages": 9,
+  "loose": 21,
+  "loose_pages": 17,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring installation cost per square foot",
+  "cluster": "cost",
+  "demand": "HIGH",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 15,
+  "loose_pages": 12,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring companies near me",
+  "cluster": "near-me",
+  "demand": "HIGH",
+  "exact": 7,
+  "exact_pages": 7,
+  "loose": 9,
+  "loose_pages": 7,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "tile installers near me",
+  "cluster": "tile",
+  "demand": "HIGH",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 8,
+  "loose_pages": 7,
+  "title_h1_pages": 3
+ },
+ {
+  "keyword": "cost to refinish hardwood floors",
+  "cluster": "cost",
+  "demand": "HIGH",
+  "exact": 5,
+  "exact_pages": 4,
+  "loose": 7,
+  "loose_pages": 6,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "cost to install laminate flooring",
+  "cluster": "cost",
+  "demand": "HIGH",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 5,
+  "loose_pages": 4,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best flooring for pets",
+  "cluster": "comparison",
+  "demand": "HIGH",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 5,
+  "loose_pages": 3,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best waterproof flooring",
+  "cluster": "comparison",
+  "demand": "HIGH",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 5,
+  "loose_pages": 4,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "lvp vs laminate",
+  "cluster": "comparison",
+  "demand": "HIGH",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 4,
+  "loose_pages": 3,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring contractors near me",
+  "cluster": "near-me",
+  "demand": "HIGH",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 3,
+  "loose_pages": 3,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring store sarasota",
+  "cluster": "head",
+  "demand": "HIGH",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 2,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "cost to install hardwood floors",
+  "cluster": "cost",
+  "demand": "HIGH",
+  "exact": 2,
+  "exact_pages": 1,
+  "loose": 2,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "sarasota flooring companies",
+  "cluster": "head",
+  "demand": "HIGH",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best flooring for florida homes",
+  "cluster": "comparison",
+  "demand": "HIGH",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring st petersburg fl",
+  "cluster": "city",
+  "demand": "HIGH (",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 0,
+  "loose_pages": 0,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "free flooring estimate near me",
+  "cluster": "modifier",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 565,
+  "loose_pages": 178,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "floor repair near me",
+  "cluster": "repair",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 467,
+  "loose_pages": 177,
+  "title_h1_pages": 10
+ },
+ {
+  "keyword": "tile flooring sarasota",
+  "cluster": "tile",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 363,
+  "loose_pages": 177,
+  "title_h1_pages": 2
+ },
+ {
+  "keyword": "laminate flooring sarasota",
+  "cluster": "laminate",
+  "demand": "MEDIUM",
+  "exact": 3,
+  "exact_pages": 2,
+  "loose": 301,
+  "loose_pages": 177,
+  "title_h1_pages": 4
+ },
+ {
+  "keyword": "hardwood flooring installation near me",
+  "cluster": "hardwood",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 246,
+  "loose_pages": 177,
+  "title_h1_pages": 6
+ },
+ {
+  "keyword": "hardwood flooring lakewood ranch",
+  "cluster": "service x city",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 238,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "luxury vinyl plank sarasota",
+  "cluster": "LVP",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 229,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "luxury vinyl flooring sarasota",
+  "cluster": "LVP",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 228,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "luxury vinyl plank flooring installation",
+  "cluster": "LVP",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 228,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "laminate flooring installation near me",
+  "cluster": "laminate",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 217,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "stair treads installation near me",
+  "cluster": "stairs",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 201,
+  "loose_pages": 177,
+  "title_h1_pages": 2
+ },
+ {
+  "keyword": "flooring north port fl",
+  "cluster": "city",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 197,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring englewood fl",
+  "cluster": "city",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 196,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring port charlotte",
+  "cluster": "city",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 196,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring sun city center",
+  "cluster": "city",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 196,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "hardwood floor installation sarasota",
+  "cluster": "hardwood",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 191,
+  "loose_pages": 177,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring installation lakewood ranch",
+  "cluster": "city",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 189,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring installation venice fl",
+  "cluster": "city",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 188,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring installation bradenton fl",
+  "cluster": "city",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 187,
+  "loose_pages": 177,
+  "title_h1_pages": 2
+ },
+ {
+  "keyword": "flooring company bradenton",
+  "cluster": "city",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 184,
+  "loose_pages": 176,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring installation cost",
+  "cluster": "cost",
+  "demand": "MEDIUM",
+  "exact": 7,
+  "exact_pages": 6,
+  "loose": 82,
+  "loose_pages": 64,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring removal near me",
+  "cluster": "removal",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 68,
+  "loose_pages": 38,
+  "title_h1_pages": 2
+ },
+ {
+  "keyword": "wood flooring sarasota",
+  "cluster": "hardwood",
+  "demand": "MEDIUM",
+  "exact": 4,
+  "exact_pages": 3,
+  "loose": 58,
+  "loose_pages": 46,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "engineered hardwood flooring sarasota",
+  "cluster": "engineered hardwood",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 47,
+  "loose_pages": 25,
+  "title_h1_pages": 2
+ },
+ {
+  "keyword": "floor leveling near me",
+  "cluster": "floor prep",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 39,
+  "loose_pages": 26,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best flooring sarasota",
+  "cluster": "head-best",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 30,
+  "loose_pages": 26,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring installation cost florida",
+  "cluster": "cost",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 30,
+  "loose_pages": 30,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "waterproof flooring sarasota",
+  "cluster": "waterproof",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 29,
+  "loose_pages": 21,
+  "title_h1_pages": 2
+ },
+ {
+  "keyword": "sarasota flooring installers",
+  "cluster": "head",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 25,
+  "loose_pages": 22,
+  "title_h1_pages": 4
+ },
+ {
+  "keyword": "subfloor repair near me",
+  "cluster": "subfloor",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 25,
+  "loose_pages": 14,
+  "title_h1_pages": 2
+ },
+ {
+  "keyword": "waterproof laminate flooring",
+  "cluster": "laminate",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 22,
+  "loose_pages": 17,
+  "title_h1_pages": 2
+ },
+ {
+  "keyword": "tile removal sarasota",
+  "cluster": "removal",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 20,
+  "loose_pages": 12,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "moisture barrier for vinyl plank on concrete",
+  "cluster": "slab prep",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 17,
+  "loose_pages": 15,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "iic rating flooring",
+  "cluster": "condo",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 17,
+  "loose_pages": 12,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "can you have hardwood floors in florida",
+  "cluster": "hardwood",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 16,
+  "loose_pages": 12,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "carpet installation sarasota",
+  "cluster": "carpet",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 12,
+  "loose_pages": 12,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "hardwood floor refinishing sarasota",
+  "cluster": "refinishing",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 11,
+  "loose_pages": 7,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "lvp vs tile",
+  "cluster": "comparison",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 10,
+  "loose_pages": 10,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "vinyl plank flooring installers",
+  "cluster": "LVP",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 9,
+  "loose_pages": 9,
+  "title_h1_pages": 6
+ },
+ {
+  "keyword": "is waterproof vinyl plank flooring really waterproof",
+  "cluster": "waterproof",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 8,
+  "loose_pages": 8,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "wood look tile installation",
+  "cluster": "tile",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 6,
+  "loose_pages": 3,
+  "title_h1_pages": 2
+ },
+ {
+  "keyword": "stair remodel near me",
+  "cluster": "stairs",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 6,
+  "loose_pages": 3,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "water damaged floor repair",
+  "cluster": "repair",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 6,
+  "loose_pages": 5,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best flooring company sarasota",
+  "cluster": "head-best",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 5,
+  "loose_pages": 5,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best flooring company near me",
+  "cluster": "near-me-best",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 5,
+  "loose_pages": 5,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "baseboard installation near me",
+  "cluster": "baseboards",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 5,
+  "loose_pages": 4,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best flooring for beach house",
+  "cluster": "comparison",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 5,
+  "loose_pages": 5,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring contractors sarasota",
+  "cluster": "head",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 3,
+  "loose_pages": 3,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring contractors",
+  "cluster": "head-generic",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 3,
+  "loose_pages": 3,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "condo flooring soundproofing requirements florida",
+  "cluster": "condo",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 3,
+  "loose_pages": 3,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "affordable flooring installation near me",
+  "cluster": "modifier",
+  "demand": "MEDIUM",
+  "exact": 2,
+  "exact_pages": 1,
+  "loose": 2,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "sand and refinish hardwood floors near me",
+  "cluster": "refinishing",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 2,
+  "loose_pages": 2,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "glue down vs floating vinyl plank",
+  "cluster": "LVP",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 2,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "tile removal cost per square foot",
+  "cluster": "removal",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 2,
+  "loose_pages": 2,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "cost to replace carpet with lvp",
+  "cluster": "carpet",
+  "demand": "MEDIUM",
+  "exact": 2,
+  "exact_pages": 1,
+  "loose": 2,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "lvp installation labor cost",
+  "cluster": "cost",
+  "demand": "MEDIUM",
+  "exact": 2,
+  "exact_pages": 1,
+  "loose": 2,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "cost to install tile floor in florida",
+  "cluster": "cost",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 2,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best flooring for concrete slab in florida",
+  "cluster": "comparison",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 2,
+  "loose_pages": 2,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best flooring for condos in florida",
+  "cluster": "condo",
+  "demand": "MEDIUM",
+  "exact": 2,
+  "exact_pages": 1,
+  "loose": 2,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "lvp vs engineered hardwood",
+  "cluster": "comparison",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 2,
+  "loose_pages": 2,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "condo flooring underlayment requirements florida",
+  "cluster": "condo",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 2,
+  "loose_pages": 2,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring companies sarasota fl",
+  "cluster": "head",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "local flooring companies",
+  "cluster": "near-me",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring installation near me with financing",
+  "cluster": "modifier",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "tile contractors sarasota fl",
+  "cluster": "tile",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "wood look tile vs lvp",
+  "cluster": "comparison",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "dustless tile removal sarasota",
+  "cluster": "removal",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "how much to install 1000 sq ft of flooring",
+  "cluster": "cost",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "labor cost to install flooring per square foot",
+  "cluster": "cost",
+  "demand": "MEDIUM",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best flooring for florida humidity",
+  "cluster": "comparison",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "best flooring for rental property",
+  "cluster": "comparison",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "top rated flooring companies near me",
+  "cluster": "near-me-best",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 0,
+  "loose_pages": 0,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring punta gorda",
+  "cluster": "city",
+  "demand": "MEDIUM",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 0,
+  "loose_pages": 0,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "stair treads sarasota",
+  "cluster": "stairs",
+  "demand": "LOW",
+  "exact": 2,
+  "exact_pages": 2,
+  "loose": 310,
+  "loose_pages": 177,
+  "title_h1_pages": 3
+ },
+ {
+  "keyword": "flooring siesta key",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 7,
+  "exact_pages": 4,
+  "loose": 298,
+  "loose_pages": 177,
+  "title_h1_pages": 5
+ },
+ {
+  "keyword": "flooring longboat key",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 6,
+  "exact_pages": 4,
+  "loose": 298,
+  "loose_pages": 177,
+  "title_h1_pages": 5
+ },
+ {
+  "keyword": "floor repair sarasota",
+  "cluster": "repair",
+  "demand": "LOW",
+  "exact": 3,
+  "exact_pages": 2,
+  "loose": 293,
+  "loose_pages": 177,
+  "title_h1_pages": 3
+ },
+ {
+  "keyword": "flooring palmetto fl",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 3,
+  "exact_pages": 3,
+  "loose": 276,
+  "loose_pages": 177,
+  "title_h1_pages": 5
+ },
+ {
+  "keyword": "flooring parrish fl",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 3,
+  "exact_pages": 3,
+  "loose": 271,
+  "loose_pages": 177,
+  "title_h1_pages": 4
+ },
+ {
+  "keyword": "vinyl plank flooring bradenton",
+  "cluster": "service x city",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 236,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "vinyl plank flooring venice fl",
+  "cluster": "service x city",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 236,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "hardwood flooring bradenton",
+  "cluster": "service x city",
+  "demand": "LOW",
+  "exact": 2,
+  "exact_pages": 1,
+  "loose": 235,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring wellen park",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 217,
+  "loose_pages": 177,
+  "title_h1_pages": 4
+ },
+ {
+  "keyword": "flooring ruskin fl",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 201,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring ellenton fl",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 197,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring anna maria island",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 197,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring osprey fl",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 197,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring nokomis fl",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 197,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring apollo beach",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 193,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "flooring myakka city",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 192,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "tile installation venice fl",
+  "cluster": "service x city",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 183,
+  "loose_pages": 177,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "condo flooring sarasota",
+  "cluster": "condo",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 67,
+  "loose_pages": 32,
+  "title_h1_pages": 4
+ },
+ {
+  "keyword": "sarasota flooring services",
+  "cluster": "head",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 34,
+  "loose_pages": 34,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "porcelain tile installation sarasota",
+  "cluster": "tile",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 29,
+  "loose_pages": 18,
+  "title_h1_pages": 2
+ },
+ {
+  "keyword": "condo flooring longboat key",
+  "cluster": "condo",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 25,
+  "loose_pages": 13,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "hardwood flooring cost sarasota",
+  "cluster": "cost",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 24,
+  "loose_pages": 23,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "tile installation cost sarasota",
+  "cluster": "cost",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 23,
+  "loose_pages": 22,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "commercial flooring sarasota",
+  "cluster": "head-segment",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 12,
+  "loose_pages": 11,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "vinyl flooring installation cost sarasota",
+  "cluster": "cost",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 12,
+  "loose_pages": 10,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring gulf gate sarasota",
+  "cluster": "neighborhood",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 12,
+  "loose_pages": 8,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring palmer ranch",
+  "cluster": "neighborhood",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 9,
+  "loose_pages": 5,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "concrete slab moisture testing for flooring",
+  "cluster": "floor prep",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 8,
+  "loose_pages": 8,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "floor leveling sarasota",
+  "cluster": "floor prep",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 7,
+  "loose_pages": 5,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring lido key",
+  "cluster": "neighborhood",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 6,
+  "loose_pages": 5,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "engineered hardwood installation on concrete slab",
+  "cluster": "engineered hardwood",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 5,
+  "loose_pages": 4,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring holmes beach",
+  "cluster": "city",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 4,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "same day flooring estimate",
+  "cluster": "modifier",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 3,
+  "loose_pages": 3,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "wood floor repair sarasota",
+  "cluster": "repair",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 3,
+  "loose_pages": 3,
+  "title_h1_pages": 1
+ },
+ {
+  "keyword": "is vinyl plank flooring good in florida",
+  "cluster": "LVP",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 2,
+  "loose_pages": 2,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring for second floor condo in florida",
+  "cluster": "condo",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 2,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "can you put hardwood floors in florida condo",
+  "cluster": "condo",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 2,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "dustless hardwood floor refinishing",
+  "cluster": "refinishing",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "engineered vs solid hardwood in florida",
+  "cluster": "comparison",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "cost to install vinyl plank flooring on stairs",
+  "cluster": "stairs",
+  "demand": "LOW",
+  "exact": 1,
+  "exact_pages": 1,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "baseboard installation sarasota",
+  "cluster": "baseboards",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "flooring university park fl",
+  "cluster": "neighborhood",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "tile installers bradenton fl",
+  "cluster": "service x city",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "hardwood floor refinishing bradenton",
+  "cluster": "service x city",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 1,
+  "loose_pages": 1,
+  "title_h1_pages": 0
+ },
+ {
+  "keyword": "licensed and insured flooring contractors",
+  "cluster": "modifier",
+  "demand": "LOW",
+  "exact": 0,
+  "exact_pages": 0,
+  "loose": 0,
+  "loose_pages": 0,
+  "title_h1_pages": 0
+ }
+]

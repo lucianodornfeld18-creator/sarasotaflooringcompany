@@ -1,0 +1,31 @@
+{
+ "slug": "floor-tile-not-slippery-wet",
+ "question": "What floor tile is not slippery when wet?",
+ "title": "What Floor Tile Isn't Slippery When Wet?",
+ "h1": "Which Tile Stays Safe to Walk On When It's Wet?",
+ "description": "Look for a wet DCOF of 0.42 or higher, the ANSI minimum for interior floors, before choosing tile for a Sarasota bathroom, kitchen or lanai entry.",
+ "cluster": "tile",
+ "cluster_label": "Tile",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Look for a tile rated at a wet DCOF of 0.42 or higher, the ANSI A137.1/A326.3 minimum for interior floors expected to get walked on wet, including Florida bathrooms and kitchens. That number comes from a lab test, not a guarantee for every spill; texture, grout joint width and how you clean the floor also affect how it feels underfoot.",
+ "sections": [
+  {"h2": "What DCOF 0.42 actually means", "html": "<p>DCOF stands for dynamic coefficient of friction - essentially, how much a standardized test rig slides on a wet tile surface before it grips. ANSI A137.1 and A326.3 set 0.42 as the minimum for tile used on a level interior floor that's expected to get walked on while wet. It's a pass/fail threshold, not a ranking, and it's not a promise that nobody will ever slip - a puddle of cooking oil or a wet foot on a steep transition behaves differently than the lab's test.</p><p>Most manufacturers now print the DCOF rating on the box or spec sheet for <a href=\"/tile-installation/\">tile</a> marketed toward bathrooms, kitchens and entries. If it's not listed, ask before you buy - it's a fast way to rule out tile that's really meant for walls or low-traffic areas. We check the rating on every sample we bring to a bathroom or kitchen estimate before it goes on our recommended list.</p>"},
+  {"h2": "Where this matters most in a Sarasota or Manatee County home", "html": "<p>Shower floors, bathroom floors, kitchens near sinks, and the entry off a pool or lanai are the spots where a wet foot meets tile every day. In beach communities like <a href=\"/tile-installation/siesta-key/\">Siesta Key</a> and Longboat Key, sandy, wet feet come straight off the beach through a lanai entry, and that combination of sand and water on a slick tile is a common slip complaint we hear on remodel calls. Pool decks, covered lanais and other areas that see standing water or direct rain need a slip rating suited to that exposure - the interior 0.42 minimum is a floor, not a ceiling, for those spaces, and we spec exterior-rated tile there separately.</p><p>A curbless shower is a particular spot to get right, since the same floor plane runs from the dry side of the bathroom into the wet zone with no threshold to signal the transition - our <a href=\"/tile-installation/\">tile installation</a> estimates for those flag slip rating as a line item, not an afterthought.</p>"},
+  {"h2": "What actually makes a tile feel less slippery", "html": "<p>Surface texture does most of the work. Matte and textured porcelain finishes generally grip better wet than a high-gloss polished finish, and small-format tile with more grout lines underfoot adds traction that a single large slab doesn't have. Grout joint width is part of the same equation - a wider joint means more textured grout line per square foot of floor. None of that shows up as a single number on a spec sheet, so a sample piece wetted down in the showroom or at your home is worth doing before you commit to a finish for a wet-prone room. Wood-look plank tile, priced around $8-$13 per sq ft installed in our <a href=\"/cost/tile-installation/\">tile cost guide</a>, is often available in both a smoother and a more textured finish - worth asking about if you like the wood look but need the extra grip.</p>"},
+  {"h2": "Keeping a compliant tile floor from getting slippery over time", "html": "<p>A tile that tested at 0.42 new can still get slicker over the years as soap film, hard-water scale or sealer buildup coats the surface. Regular cleaning with a non-oil-based cleaner and resealing natural stone on schedule keeps the tested slip resistance closer to what it was on install day - a detail that matters more in a house that's rinsed with well water or gets heavy pool traffic. If an older bathroom floor has gotten noticeably slicker over the years despite regular cleaning, that's usually a sign the surface has worn smooth rather than a cleaning problem, and it's worth a <a href=\"#estimate\">free estimate</a> to look at replacement options.</p>"}
+ ],
+ "faqs": [
+  {"q": "Is a higher DCOF number always better?", "a": "Above the 0.42 interior minimum, higher generally means more slip resistance, but very high-friction textured tile can also be harder to clean and rougher underfoot barefoot. For most residential rooms, meeting the 0.42 minimum with a textured matte finish is enough."},
+  {"q": "Does polished porcelain tile meet the 0.42 minimum?", "a": "Often it does not, or comes close to the line, which is why polished finishes are more common in dry living areas and less common in bathrooms, showers and kitchens."},
+  {"q": "Do I need a different slip rating for a covered lanai than for an indoor bathroom?", "a": "Yes. Exterior and covered outdoor tile that sees rain or standing water is specified under a separate exterior use category, not the interior 0.42 floor rating."}
+ ],
+ "next_step": "Tell us which rooms get wet feet and we'll pull tile samples with the right slip rating for your free estimate.",
+ "sources": [
+  {"title": "Daltile: DCOF slip resistance testing and reading test results", "url": "https://www.daltile.com/why-daltile/industry-standards/dcof-slip-resistance-testing-reading-test-results"}
+ ],
+ "related_services": ["tile-installation"],
+ "related_cities": ["siesta-key", "longboat-key"],
+ "related_posts": ["flat-floor-large-format-tile", "floor-tiles-popping-up-sounding-hollow", "whats-best-flooring-option-house-by-water", "lvp-vs-porcelain-tile-better-florida-house"],
+ "keywords": ["slip resistant tile", "DCOF 0.42", "non-slip floor tile Florida", "tile installation Sarasota"]
+}

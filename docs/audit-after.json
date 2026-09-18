@@ -1,0 +1,918 @@
+{
+ "pages": 178,
+ "words_total": 244117,
+ "words_by_page": {
+  "/": 5141,
+  "/404.html": 428,
+  "/about/": 980,
+  "/anna-maria-island/": 1651,
+  "/apollo-beach/": 1451,
+  "/areas/": 1606,
+  "/blog/": 3241,
+  "/blog/12-mil-20-mil-wear-layer-vinyl-plank/": 1129,
+  "/blog/am-stupid-want-engineered-wood-florida/": 1155,
+  "/blog/best-flooring-dogs/": 1138,
+  "/blog/best-flooring-florida-condo-upper-floor/": 1278,
+  "/blog/best-flooring-florida-home/": 1313,
+  "/blog/best-flooring-vacation-rental-florida/": 1229,
+  "/blog/best-soundproof-underlayment-condo-floors/": 1240,
+  "/blog/best-time-year-flooring-installation-sarasota/": 1175,
+  "/blog/better-buy-flooring-home-depot-lowes-hire-local/": 1107,
+  "/blog/better-refinish-replace-hardwood-floors/": 1117,
+  "/blog/cost-install-hardwood-stair-treads/": 1140,
+  "/blog/cost-install-vinyl-plank-flooring-sarasota-fl/": 1340,
+  "/blog/cost-refinish-hardwood-floors/": 1109,
+  "/blog/cost-remove-tile-flooring-southwest-florida/": 1259,
+  "/blog/cupped-hardwood-floors-fixed-without-replacing-them/": 1122,
+  "/blog/deposit-pay-flooring-contractor/": 1111,
+  "/blog/dustless-tile-removal-worth-extra-cost/": 1141,
+  "/blog/fast-floors-replaced-between-guest-bookings/": 1208,
+  "/blog/flat-concrete-floor-vinyl-plank-flooring/": 1167,
+  "/blog/flat-floor-large-format-tile/": 1218,
+  "/blog/floor-tile-not-slippery-wet/": 1145,
+  "/blog/floor-tiles-popping-up-sounding-hollow/": 1176,
+  "/blog/flooring-best-snowbird-home-sits-empty-all-summer/": 1231,
+  "/blog/flooring-florida-home-buyers-want/": 1165,
+  "/blog/flooring-holds-up-dog-urine/": 1140,
+  "/blog/flooring-installers-license-florida/": 1152,
+  "/blog/flooring-quotes-sarasota-different-each-other/": 1250,
+  "/blog/flooring-survives-hurricane-flood-florida/": 1163,
+  "/blog/glue-down-floating-better-floors-florida-concrete-slab/": 1224,
+  "/blog/hardwood-flooring-cost-per-square-foot-installed/": 1221,
+  "/blog/hoa-approval-new-flooring-sarasota-condo/": 1224,
+  "/blog/homeowners-insurance-cover-flood-damaged-floors-florida/": 1204,
+  "/blog/iic-rating-condo-flooring-florida/": 1312,
+  "/blog/indoor-humidity-keep-wood-floors-florida/": 1223,
+  "/blog/install-hardwood-flooring-directly-concrete-slab/": 1164,
+  "/blog/install-new-flooring-over-existing-tile/": 1202,
+  "/blog/keep-beach-sand-scratching-floors/": 1146,
+  "/blog/laminate-flooring-bad-idea-florida/": 1088,
+  "/blog/live-house-during-floor-removal-installation/": 1149,
+  "/blog/long-flooring-acclimate-florida-before-installation/": 1168,
+  "/blog/long-slab-dry-after-flooding-before-new-floors/": 1147,
+  "/blog/long-take-refinish-hardwood-floors/": 1107,
+  "/blog/long-take-replace-floors-whole-house/": 1243,
+  "/blog/lvp-tile-smarter-choice-long-term-rental-property/": 1195,
+  "/blog/lvp-vs-porcelain-tile-better-florida-house/": 1176,
+  "/blog/moisture-barrier-under-laminate-concrete-floor/": 1119,
+  "/blog/moisture-barrier-under-vinyl-plank-flooring-concrete-slab/": 1251,
+  "/blog/mold-grow-under-vinyl-plank-flooring-florida-slab/": 1200,
+  "/blog/new-flooring-increase-home-value/": 1138,
+  "/blog/permit-change-flooring-florida-condo/": 1146,
+  "/blog/permit-replace-flooring-sarasota-county/": 1171,
+  "/blog/porcelain-tile-installation-cost-per-square-foot/": 1233,
+  "/blog/put-vinyl-plank-flooring-lanai-florida-room-no/": 1149,
+  "/blog/put-vinyl-plank-flooring-stairs/": 1173,
+  "/blog/questions-ask-flooring-contractor-before-hiring/": 1250,
+  "/blog/real-hardwood-floors-florida/": 1311,
+  "/blog/replace-carpet-florida-condo-tile-hardwood/": 1230,
+  "/blog/replace-floors-before-selling-house/": 1168,
+  "/blog/set-ac-humidistat-leave-florida-home-summer-floors/": 1270,
+  "/blog/solid-vs-engineered-hardwood-better-concrete-slab/": 1245,
+  "/blog/soon-pull-up-wet-flooring-after-storm-surge/": 1212,
+  "/blog/spc-vs-wpc-vinyl-plank-core-better-florida/": 1120,
+  "/blog/sunlight-damage-vinyl-plank-flooring/": 1130,
+  "/blog/test-concrete-slab-moisture-before-installing-flooring/": 1254,
+  "/blog/thick-wear-layer-engineered-hardwood/": 1183,
+  "/blog/times-refinish-hardwood-engineered-floors/": 1123,
+  "/blog/use-steam-mop-vinyl-plank-hardwood-floors/": 1097,
+  "/blog/vinyl-plank-floor-buckling/": 1145,
+  "/blog/vinyl-plank-flooring-really-waterproof/": 1127,
+  "/blog/vinyl-plank-flooring-saved-after-flood/": 1144,
+  "/blog/water-damaged-hardwood-floors-saved/": 1181,
+  "/blog/waterproof-laminate-vs-luxury-vinyl-plank-better-florida/": 1122,
+  "/blog/whats-best-flooring-option-house-by-water/": 1149,
+  "/bradenton/": 1607,
+  "/condo-flooring/": 2480,
+  "/contact/": 143,
+  "/cost/": 1345,
+  "/cost/floor-repair/": 2413,
+  "/cost/hardwood-flooring/": 2736,
+  "/cost/laminate-flooring/": 2569,
+  "/cost/stair-treads/": 2466,
+  "/cost/tile-installation/": 2698,
+  "/cost/vinyl-plank-flooring/": 2793,
+  "/editorial-standards/": 759,
+  "/ellenton/": 1589,
+  "/engineered-hardwood-flooring/": 2275,
+  "/englewood/": 1715,
+  "/faq/": 6478,
+  "/financing/": 671,
+  "/floor-repair/": 2882,
+  "/floor-repair/bradenton/": 1095,
+  "/floor-repair/lakewood-ranch/": 1088,
+  "/floor-repair/longboat-key/": 1143,
+  "/floor-repair/palmetto/": 1070,
+  "/floor-repair/parrish/": 1091,
+  "/floor-repair/sarasota/": 1093,
+  "/floor-repair/siesta-key/": 1102,
+  "/floor-repair/venice/": 1064,
+  "/hardwood-floor-refinishing/": 2282,
+  "/hardwood-flooring/": 3279,
+  "/hardwood-flooring/bradenton/": 1030,
+  "/hardwood-flooring/lakewood-ranch/": 1075,
+  "/hardwood-flooring/longboat-key/": 1116,
+  "/hardwood-flooring/palmetto/": 1121,
+  "/hardwood-flooring/parrish/": 1134,
+  "/hardwood-flooring/sarasota/": 1088,
+  "/hardwood-flooring/siesta-key/": 1145,
+  "/hardwood-flooring/venice/": 1137,
+  "/lakewood-ranch/": 1599,
+  "/laminate-flooring/": 2779,
+  "/laminate-flooring/bradenton/": 1085,
+  "/laminate-flooring/lakewood-ranch/": 1042,
+  "/laminate-flooring/longboat-key/": 1049,
+  "/laminate-flooring/palmetto/": 1038,
+  "/laminate-flooring/parrish/": 1063,
+  "/laminate-flooring/sarasota/": 1075,
+  "/laminate-flooring/siesta-key/": 1098,
+  "/laminate-flooring/venice/": 1075,
+  "/longboat-key/": 1562,
+  "/myakka-city/": 1909,
+  "/nokomis/": 1648,
+  "/north-port/": 1806,
+  "/osprey/": 1642,
+  "/palmetto/": 1524,
+  "/parrish/": 1548,
+  "/port-charlotte/": 1545,
+  "/privacy/": 599,
+  "/riverview/": 1420,
+  "/ruskin/": 1479,
+  "/sarasota/": 1691,
+  "/siesta-key/": 1537,
+  "/stair-treads/": 2750,
+  "/stair-treads/bradenton/": 1035,
+  "/stair-treads/lakewood-ranch/": 1032,
+  "/stair-treads/longboat-key/": 1078,
+  "/stair-treads/palmetto/": 1030,
+  "/stair-treads/parrish/": 1061,
+  "/stair-treads/sarasota/": 1045,
+  "/stair-treads/siesta-key/": 1053,
+  "/stair-treads/venice/": 1046,
+  "/subfloor-leveling/": 2476,
+  "/sun-city-center/": 1628,
+  "/terms/": 588,
+  "/thanks/": 70,
+  "/tile-installation/": 3065,
+  "/tile-installation/bradenton/": 991,
+  "/tile-installation/lakewood-ranch/": 998,
+  "/tile-installation/longboat-key/": 1094,
+  "/tile-installation/palmetto/": 1035,
+  "/tile-installation/parrish/": 1070,
+  "/tile-installation/sarasota/": 1052,
+  "/tile-installation/siesta-key/": 1106,
+  "/tile-installation/venice/": 1082,
+  "/tile-removal/": 2269,
+  "/tools/": 276,
+  "/tools/condo-flooring-approval-checklist/": 617,
+  "/tools/flooring-cost-calculator/": 623,
+  "/tools/florida-flooring-finder/": 315,
+  "/venice/": 1582,
+  "/vinyl-plank-flooring/": 3229,
+  "/vinyl-plank-flooring/bradenton/": 1008,
+  "/vinyl-plank-flooring/lakewood-ranch/": 1040,
+  "/vinyl-plank-flooring/longboat-key/": 1143,
+  "/vinyl-plank-flooring/palmetto/": 1131,
+  "/vinyl-plank-flooring/parrish/": 1098,
+  "/vinyl-plank-flooring/sarasota/": 1063,
+  "/vinyl-plank-flooring/siesta-key/": 1108,
+  "/vinyl-plank-flooring/venice/": 1104,
+  "/warranty/": 768,
+  "/waterproof-flooring/": 2304,
+  "/wellen-park/": 1619
+ },
+ "bytes_max": [
+  110945,
+  "/faq/"
+ ],
+ "bytes_over_150k": [],
+ "title_too_long": [],
+ "desc_bad": [
+  [
+   "/404.html",
+   15
+  ],
+  [
+   "/thanks/",
+   35
+  ]
+ ],
+ "no_h1": [],
+ "multi_h1": [],
+ "dup_titles": {},
+ "dup_desc": {},
+ "dup_h1": {},
+ "no_canon": [],
+ "canon_mismatch": [],
+ "bad_jsonld": [],
+ "jsonld_type_counts": {
+  "HomeAndConstructionBusiness": 84,
+  "LocalBusiness": 84,
+  "WebSite": 1,
+  "FAQPage": 163,
+  "BreadcrumbList": 175,
+  "Article": 79,
+  "Service": 60,
+  "WebApplication": 3
+ },
+ "broken_links": [],
+ "broken_count": 0,
+ "orphans": [],
+ "low_inbound": [
+  [
+   0,
+   "/404.html"
+  ],
+  [
+   0,
+   "/thanks/"
+  ],
+  [
+   4,
+   "/blog/best-flooring-dogs/"
+  ],
+  [
+   4,
+   "/blog/best-time-year-flooring-installation-sarasota/"
+  ],
+  [
+   4,
+   "/blog/install-new-flooring-over-existing-tile/"
+  ],
+  [
+   5,
+   "/blog/deposit-pay-flooring-contractor/"
+  ],
+  [
+   5,
+   "/blog/dustless-tile-removal-worth-extra-cost/"
+  ],
+  [
+   5,
+   "/blog/flooring-best-snowbird-home-sits-empty-all-summer/"
+  ],
+  [
+   5,
+   "/blog/flooring-holds-up-dog-urine/"
+  ],
+  [
+   5,
+   "/blog/live-house-during-floor-removal-installation/"
+  ],
+  [
+   5,
+   "/blog/long-slab-dry-after-flooding-before-new-floors/"
+  ],
+  [
+   5,
+   "/blog/long-take-refinish-hardwood-floors/"
+  ],
+  [
+   5,
+   "/blog/lvp-tile-smarter-choice-long-term-rental-property/"
+  ],
+  [
+   5,
+   "/port-charlotte/"
+  ],
+  [
+   6,
+   "/apollo-beach/"
+  ],
+  [
+   6,
+   "/blog/am-stupid-want-engineered-wood-florida/"
+  ],
+  [
+   6,
+   "/blog/best-soundproof-underlayment-condo-floors/"
+  ],
+  [
+   6,
+   "/blog/fast-floors-replaced-between-guest-bookings/"
+  ],
+  [
+   6,
+   "/blog/flat-concrete-floor-vinyl-plank-flooring/"
+  ],
+  [
+   6,
+   "/blog/floor-tile-not-slippery-wet/"
+  ],
+  [
+   6,
+   "/blog/flooring-installers-license-florida/"
+  ],
+  [
+   6,
+   "/blog/flooring-survives-hurricane-flood-florida/"
+  ],
+  [
+   6,
+   "/blog/keep-beach-sand-scratching-floors/"
+  ],
+  [
+   6,
+   "/blog/new-flooring-increase-home-value/"
+  ],
+  [
+   6,
+   "/blog/replace-floors-before-selling-house/"
+  ]
+ ],
+ "external_domains": [
+  [
+   "www.angi.com",
+   17
+  ],
+  [
+   "homeguide.com",
+   17
+  ],
+  [
+   "ifti.com",
+   14
+  ],
+  [
+   "www.houzz.com",
+   13
+  ],
+  [
+   "www.georgiacarpet.com",
+   11
+  ],
+  [
+   "nwfa.org",
+   10
+  ],
+  [
+   "www.hursthardwoods.com",
+   9
+  ],
+  [
+   "www.thisoldhouse.com",
+   9
+  ],
+  [
+   "removeright.com",
+   9
+  ],
+  [
+   "www.cfiu.org",
+   7
+  ],
+  [
+   "riosfloor.com",
+   6
+  ],
+  [
+   "www.woodandbeyond.com",
+   6
+  ],
+  [
+   "acousticalsolutions.com",
+   6
+  ],
+  [
+   "tcnatile.com",
+   6
+  ],
+  [
+   "www.epa.gov",
+   6
+  ],
+  [
+   "floorcoveringsinternational.com",
+   5
+  ],
+  [
+   "weather-and-climate.com",
+   5
+  ],
+  [
+   "commercial-acoustics.com",
+   5
+  ],
+  [
+   "www.fema.gov",
+   5
+  ],
+  [
+   "www.floortrendsmag.com",
+   4
+  ],
+  [
+   "tampaflooringgallery.com",
+   4
+  ],
+  [
+   "engineerfix.com",
+   4
+  ],
+  [
+   "www.ceramictilefoundation.org",
+   4
+  ],
+  [
+   "pdf.lowes.com",
+   4
+  ],
+  [
+   "content.syndigo.com",
+   4
+  ]
+ ],
+ "top_anchors_sample": {},
+ "internal_dup_pairs_over15": 4314,
+ "internal_dup_top": [
+  [
+   0.867,
+   "/",
+   "/404.html"
+  ],
+  [
+   0.84,
+   "/",
+   "/tools/"
+  ],
+  [
+   0.565,
+   "/terms/",
+   "/tools/"
+  ],
+  [
+   0.565,
+   "/privacy/",
+   "/tools/"
+  ],
+  [
+   0.565,
+   "/editorial-standards/",
+   "/tools/"
+  ],
+  [
+   0.565,
+   "/blog/",
+   "/tools/"
+  ],
+  [
+   0.565,
+   "/404.html",
+   "/tools/"
+  ],
+  [
+   0.558,
+   "/tools/",
+   "/tools/florida-flooring-finder/"
+  ],
+  [
+   0.558,
+   "/tools/",
+   "/tools/flooring-cost-calculator/"
+  ],
+  [
+   0.558,
+   "/tools/",
+   "/tools/condo-flooring-approval-checklist/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/wellen-park/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/waterproof-flooring/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/warranty/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/vinyl-plank-flooring/venice/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/vinyl-plank-flooring/siesta-key/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/vinyl-plank-flooring/sarasota/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/vinyl-plank-flooring/parrish/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/vinyl-plank-flooring/palmetto/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/vinyl-plank-flooring/longboat-key/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/vinyl-plank-flooring/lakewood-ranch/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/vinyl-plank-flooring/bradenton/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/vinyl-plank-flooring/"
+  ],
+  [
+   0.554,
+   "/tools/",
+   "/venice/"
+  ],
+  [
+   0.554,
+   "/tile-removal/",
+   "/tools/"
+  ],
+  [
+   0.554,
+   "/tile-installation/venice/",
+   "/tools/"
+  ],
+  [
+   0.554,
+   "/tile-installation/siesta-key/",
+   "/tools/"
+  ],
+  [
+   0.554,
+   "/tile-installation/sarasota/",
+   "/tools/"
+  ],
+  [
+   0.554,
+   "/tile-installation/parrish/",
+   "/tools/"
+  ],
+  [
+   0.554,
+   "/tile-installation/palmetto/",
+   "/tools/"
+  ],
+  [
+   0.554,
+   "/tile-installation/longboat-key/",
+   "/tools/"
+  ]
+ ],
+ "uniq_share_lowest": [
+  [
+   "/404.html",
+   0.165
+  ],
+  [
+   "/blog/",
+   0.223
+  ],
+  [
+   "/faq/",
+   0.272
+  ],
+  [
+   "/tools/",
+   0.325
+  ],
+  [
+   "/vinyl-plank-flooring/lakewood-ranch/",
+   0.797
+  ],
+  [
+   "/ruskin/",
+   0.805
+  ],
+  [
+   "/vinyl-plank-flooring/sarasota/",
+   0.807
+  ],
+  [
+   "/vinyl-plank-flooring/bradenton/",
+   0.811
+  ],
+  [
+   "/blog/test-concrete-slab-moisture-before-installing-flooring/",
+   0.813
+  ],
+  [
+   "/blog/best-flooring-florida-condo-upper-floor/",
+   0.815
+  ],
+  [
+   "/blog/long-slab-dry-after-flooding-before-new-floors/",
+   0.817
+  ],
+  [
+   "/blog/vinyl-plank-flooring-saved-after-flood/",
+   0.817
+  ],
+  [
+   "/riverview/",
+   0.817
+  ],
+  [
+   "/blog/keep-beach-sand-scratching-floors/",
+   0.818
+  ],
+  [
+   "/cost/vinyl-plank-flooring/",
+   0.818
+  ],
+  [
+   "/blog/best-flooring-dogs/",
+   0.821
+  ],
+  [
+   "/blog/spc-vs-wpc-vinyl-plank-core-better-florida/",
+   0.821
+  ],
+  [
+   "/blog/flat-concrete-floor-vinyl-plank-flooring/",
+   0.822
+  ],
+  [
+   "/cost/tile-installation/",
+   0.822
+  ],
+  [
+   "/blog/permit-change-flooring-florida-condo/",
+   0.824
+  ],
+  [
+   "/cost/laminate-flooring/",
+   0.824
+  ],
+  [
+   "/blog/flooring-survives-hurricane-flood-florida/",
+   0.825
+  ],
+  [
+   "/blog/soon-pull-up-wet-flooring-after-storm-surge/",
+   0.825
+  ],
+  [
+   "/blog/whats-best-flooring-option-house-by-water/",
+   0.826
+  ],
+  [
+   "/tile-installation/lakewood-ranch/",
+   0.827
+  ],
+  [
+   "/blog/iic-rating-condo-flooring-florida/",
+   0.828
+  ],
+  [
+   "/blog/moisture-barrier-under-vinyl-plank-flooring-concrete-slab/",
+   0.828
+  ],
+  [
+   "/blog/best-soundproof-underlayment-condo-floors/",
+   0.83
+  ],
+  [
+   "/blog/install-hardwood-flooring-directly-concrete-slab/",
+   0.83
+  ],
+  [
+   "/siesta-key/",
+   0.83
+  ]
+ ],
+ "uniq_share_mean": 0.852,
+ "siblings": {
+  "bradentonflooring": {
+   "pages": 67,
+   "over5pct": 0,
+   "top": [],
+   "mean": 0
+  },
+  "triangleflooring": {
+   "pages": 301,
+   "over5pct": 0,
+   "top": [],
+   "mean": 0
+  },
+  "napasflooring": {
+   "pages": 155,
+   "over5pct": 1,
+   "top": [
+    [
+     0.238,
+     "/contact/",
+     "/contact/",
+     0.238
+    ]
+   ],
+   "mean": 0.238
+  },
+  "bvaflooring": {
+   "pages": 149,
+   "over5pct": 0,
+   "top": [],
+   "mean": 0
+  }
+ },
+ "keywords": {
+  "near me": {
+   "total": 44,
+   "pages": 40
+  },
+  "best flooring": {
+   "total": 96,
+   "pages": 53
+  },
+  "flooring company": {
+   "total": 386,
+   "pages": 178
+  },
+  "flooring installation": {
+   "total": 254,
+   "pages": 178
+  },
+  "flooring contractor": {
+   "total": 41,
+   "pages": 12
+  },
+  "flooring store": {
+   "total": 3,
+   "pages": 1
+  },
+  "floor installers": {
+   "total": 0,
+   "pages": 0
+  },
+  "free estimate": {
+   "total": 740,
+   "pages": 178
+  },
+  "licensed": {
+   "total": 6,
+   "pages": 4
+  },
+  "insured": {
+   "total": 3,
+   "pages": 2
+  },
+  "waterproof": {
+   "total": 348,
+   "pages": 88
+  },
+  "luxury vinyl": {
+   "total": 123,
+   "pages": 77
+  },
+  "lvp": {
+   "total": 478,
+   "pages": 115
+  },
+  "engineered hardwood": {
+   "total": 301,
+   "pages": 79
+  },
+  "hardwood flooring": {
+   "total": 187,
+   "pages": 75
+  },
+  "tile installation": {
+   "total": 182,
+   "pages": 70
+  },
+  "laminate": {
+   "total": 867,
+   "pages": 110
+  },
+  "stair treads": {
+   "total": 299,
+   "pages": 90
+  },
+  "floor repair": {
+   "total": 315,
+   "pages": 112
+  },
+  "refinishing": {
+   "total": 192,
+   "pages": 36
+  },
+  "carpet": {
+   "total": 301,
+   "pages": 92
+  },
+  "condo": {
+   "total": 522,
+   "pages": 78
+  },
+  "sound": {
+   "total": 218,
+   "pages": 76
+  },
+  "underlayment": {
+   "total": 253,
+   "pages": 59
+  },
+  "slab": {
+   "total": 1428,
+   "pages": 176
+  },
+  "moisture": {
+   "total": 839,
+   "pages": 176
+  },
+  "humidity": {
+   "total": 343,
+   "pages": 87
+  },
+  "per square foot": {
+   "total": 248,
+   "pages": 60
+  },
+  "cost": {
+   "total": 963,
+   "pages": 171
+  },
+  "sarasota": {
+   "total": 2325,
+   "pages": 178
+  },
+  "bradenton": {
+   "total": 487,
+   "pages": 177
+  },
+  "lakewood ranch": {
+   "total": 468,
+   "pages": 177
+  },
+  "venice": {
+   "total": 487,
+   "pages": 177
+  },
+  "north port": {
+   "total": 258,
+   "pages": 177
+  },
+  "englewood": {
+   "total": 73,
+   "pages": 20
+  },
+  "osprey": {
+   "total": 59,
+   "pages": 16
+  },
+  "nokomis": {
+   "total": 69,
+   "pages": 15
+  },
+  "siesta key": {
+   "total": 308,
+   "pages": 96
+  },
+  "longboat key": {
+   "total": 329,
+   "pages": 88
+  },
+  "palmetto": {
+   "total": 295,
+   "pages": 74
+  },
+  "parrish": {
+   "total": 267,
+   "pages": 78
+  },
+  "ellenton": {
+   "total": 56,
+   "pages": 15
+  },
+  "anna maria": {
+   "total": 62,
+   "pages": 19
+  },
+  "port charlotte": {
+   "total": 50,
+   "pages": 7
+  }
+ },
+ "images": {
+  "total": 414,
+  "no_alt": 0,
+  "no_dims": 0
+ }
+}

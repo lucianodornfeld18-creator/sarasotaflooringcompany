@@ -1,0 +1,55 @@
+{
+ "slug": "replace-carpet-florida-condo-tile-hardwood",
+ "question": "Can I replace the carpet in my Florida condo with tile or hardwood?",
+ "title": "Can You Replace Condo Carpet With Tile or Hardwood?",
+ "h1": "Can I Replace My Florida Condo's Carpet With Tile or Hardwood?",
+ "description": "Yes, but Florida Statute 718.113 lets your declaration set the rules. Expect board approval and an IIC/STC 50 minimum before hard flooring goes in.",
+ "cluster": "condo-hoa-sound",
+ "cluster_label": "Condo & HOA flooring",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Yes, in most Florida condos you can swap carpet for tile or hardwood, but Florida Statute 718.113 lets your association's declaration control the swap, not the statute itself. Expect to submit an application, meet your building's IIC/STC minimum, 50 at a minimum under Florida's building code, and install an approved acoustic underlayment before the floor goes down.",
+ "sections": [
+  {
+   "h2": "What Florida Law Actually Says",
+   "html": "<p>Florida Statute 718.113 governs alterations a unit owner can make inside a condominium, but it doesn't hand you a specific sound rating or a yes-or-no answer on flooring. It gives that authority to your association's declaration and rules, which is where the real IIC or STC number lives. Read those documents before you assume the statute settles the question for you.</p><p>That's a different situation than in a single-family home, where <a href=\"/hardwood-flooring/\">hardwood</a> or <a href=\"/tile-installation/\">tile</a> generally goes in without anyone's sign-off beyond a permit, if one's even required.</p><p>This is worth checking even if you've lived in the unit for years without an issue. Associations sometimes update their declaration or rules after a wave of complaints from downstairs neighbors, so a document that was silent on flooring a decade ago may not be silent now.</p>"
+  },
+  {
+   "h2": "What Happens If You Skip Approval",
+   "html": "<p>This isn't a hypothetical risk. Florida's Department of Business and Professional Regulation has issued arbitration orders where associations enforced declarations that required board approval and sound-absorbent underlayment under hard flooring, and owners were ordered to fix or remove floors installed without it. Ripping out a finished floor to add underlayment after the fact costs far more than getting the paperwork right the first time.</p><p>Carpet is forgiving because it's naturally quiet. The moment you switch to tile or hardwood, you're introducing a hard surface that transmits impact noise differently, which is exactly what triggers the approval process in the first place.</p><p>We've also seen owners assume that because carpet was original to the unit, hard flooring must be equally acceptable. That's rarely how it works. Carpet is often allowed to stay specifically because it doesn't trigger the sound concerns that tile and hardwood introduce, so switching materials restarts the approval requirement even in a unit that's never had a complaint filed against it.</p>"
+  },
+  {
+   "h2": "What You'll Need to Meet Code and Your Board's Rules",
+   "html": "<p>Florida's building code sets a floor-ceiling sound rating of IIC 50 and STC 50 between dwelling units, or 45 if the assembly is field-tested. That's the legal baseline, but plenty of Sarasota and Manatee county associations set their own number above it. Before you order material, find out what your building actually requires; our <a href=\"/condo-flooring/\">condo flooring page</a> and <a href=\"/tools/condo-flooring-approval-checklist/\">approval checklist</a> both walk through the documentation most boards ask for.</p><p>Whichever material you land on, whether it's <a href=\"/hardwood-flooring/\">hardwood</a> or <a href=\"/tile-installation/\">tile</a>, the underlayment underneath it is what actually determines whether you pass inspection.</p><p>Get the required number in writing from your property manager or board before you order material, not verbally. A number confirmed by email is something you can point back to if a question comes up mid-project; a figure someone mentioned in passing at the mailboxes isn't.</p>"
+  },
+  {
+   "h2": "How We Handle Carpet-to-Hard-Surface Conversions",
+   "html": "<p>We start every condo job with a slab moisture reading, since carpet often hides a subfloor that's never been tested. From there we build a written, line-itemized quote that separates removal, prep, underlayment, and installation, which is the kind of documentation most renovation committees want to see attached to your application anyway.</p><p>If your board requires a specific test report before it will approve the change, we'll get you the manufacturer's documentation for the exact flooring-and-underlayment combination. Book a <a href=\"#estimate\">free in-home estimate</a> to start the paperwork alongside the actual planning.</p><p>We also keep a record of the moisture reading and the underlayment installed on every condo job, so if a future owner or a board audit asks for proof years later, that documentation still exists. It's a small step that saves a real headache down the line.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Step", "What it involves"],
+  "rows": [
+   ["1. Review your declaration and rules", "Find the actual IIC/STC minimum and any renovation application requirements"],
+   ["2. Submit for board approval", "Application, flooring and underlayment spec sheets, and usually an acoustic test report"],
+   ["3. Test the slab under the old carpet", "Moisture reading before any hardwood or vinyl goes over it"],
+   ["4. Install with the approved underlayment", "Documentation kept on file in case the board asks for proof after the fact"]
+  ],
+  "caption": "General process compiled from Florida condo renovation guidance; confirm your building's exact requirements with your association."
+ },
+ "faqs": [
+  {"q": "Does removing carpet always require board approval?", "a": "In nearly every Florida condo, yes. Hard-surface conversions trigger sound rules that carpet is naturally exempt from, which is why the declaration usually singles out tile, wood, and vinyl for approval."},
+  {"q": "What happens if my board rejects the application?", "a": "Ask what specifically didn't meet the requirement, usually the underlayment or the sound-test documentation, and resubmit with the corrected spec sheet. It's far cheaper to fix the application than to fix an installed floor."},
+  {"q": "Is there one statewide IIC number for every condo?", "a": "No. Florida's building code sets a 50 IIC/STC minimum as the legal baseline, but individual buildings routinely set their own, often higher, number in their declaration or rules."}
+ ],
+ "next_step": "Get a written, line-itemized quote before you submit your renovation application, so your board sees exactly what underlayment and prep you're planning.",
+ "sources": [
+  {"title": "Florida Statute 718.113 - unit owner alterations", "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0718/Sections/0718.113.html"},
+  {"title": "DBPR condo arbitration order (flooring/underlayment enforcement)", "url": "https://www2.myfloridalicense.com/lsc/arbitration/allorders/2010036113.pdf"},
+  {"title": "Florida Building Code sound transmission requirements", "url": "https://acousticalsolutions.com/florida-building-code-floor-soundproofing"}
+ ],
+ "related_services": ["tile-installation", "hardwood-flooring"],
+ "related_cities": ["sarasota"],
+ "related_posts": ["hoa-approval-new-flooring-sarasota-condo", "iic-rating-condo-flooring-florida", "permit-change-flooring-florida-condo", "best-flooring-florida-condo-upper-floor"],
+ "keywords": ["can you put hardwood floors in florida condo", "condo flooring soundproofing requirements florida", "condo flooring sarasota", "permit to change flooring florida condo", "iic rating flooring"]
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "flat-concrete-floor-vinyl-plank-flooring",
+ "question": "How flat does a concrete floor need to be for vinyl plank flooring?",
+ "title": "How Flat Must a Concrete Floor Be for Vinyl Plank?",
+ "h1": "How Flat Does a Concrete Floor Need to Be for Vinyl Plank Flooring?",
+ "description": "Most SPC vinyl plank guides require a slab flat within 3/16 in. over 10 ft; self-leveling typically runs about $250-$700 per room in 2026.",
+ "cluster": "concrete-slab-subfloor",
+ "cluster_label": "Concrete slabs & subfloors",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Shaw's SPC vinyl plank installation guide requires the slab to be flat within 3/16 in. over a 10 ft span, or 1/8 in. over 6 ft, before install. A slab outside that tolerance needs self-leveling underlayment, which typically runs $250 to $700 per room for us on a Sarasota-area job, depending on how uneven the concrete is.",
+ "sections": [
+  {
+   "h2": "The Flatness Number Most Vinyl Plank Manufacturers Use",
+   "html": "<p>Shaw's Floorte Pro SPC installation guide, a fairly typical benchmark across rigid-core vinyl plank, requires the concrete to be flat within 3/16 in. measured over a 10 ft span, or 1/8 in. over 6 ft. That's a tighter tolerance than it sounds at first; a slight dip near a former wall location, a trowel mark left from the original pour, or gradual settling near a slab joint can easily exceed that number. Rigid SPC plank simply doesn't flex over a low spot the way a softer WPC product or a floating floor with thicker padding underneath might, so an out-of-tolerance slab shows up as a hollow spot, a rocking plank, or a locking-joint failure at the seam, sometimes within the first few weeks of foot traffic.</p>"
+  },
+  {
+   "h2": "How We Check It",
+   "html": "<p>We check flatness with a straightedge and feeler gauges at multiple points across a room during the in-home estimate, not just a visual walk-through, because a slab can look flat and still fail the 3/16 in. tolerance in a spot you'd never notice by eye. Rooms with visible transitions between pours, additions built at a different time than the original slab, or older homes that have settled unevenly over the decades tend to need the most attention during that walkthrough. We note every high and low spot on the written quote so there's no surprise once the floor's ordered and material has already been purchased.</p>"
+  },
+  {
+   "h2": "What Fixing It Actually Costs",
+   "html": "<p>Self-leveling underlayment typically runs $250 to $700 per room for us, depending on how much material the low spots need and how much prep the slab requires first. That's broadly consistent with national data showing professional self-leveling work running about $3 to $9 per sq ft, where a 50 lb bag of compound covers roughly 50 sq ft at 1/8 in. thick or only 12 to 15 sq ft at 1/2 in. thick. A slab that's off by a lot in one corner can need several bags in that one spot alone rather than a thin skim coat over the whole room, which is why the estimate matters more than a flat per-square-foot guess.</p>"
+  },
+  {
+   "h2": "What Happens If You Skip It",
+   "html": "<p>Installing rigid SPC vinyl plank over a slab that's out of tolerance doesn't always fail immediately, but it tends to show up as clicking or movement underfoot within the first year, locking joints that separate under foot traffic, or visible waviness across a large room where the eye catches what the straightedge already measured. <a href=\"/subfloor-leveling/\">Slab leveling and moisture prep</a> gets scoped as its own line item on the quote precisely so it isn't skipped to save a few hundred dollars up front on a floor meant to last. <a href=\"/vinyl-plank-flooring/\">Our vinyl plank flooring page</a> covers the full install process this fits into.</p>"
+  },
+  {
+   "h2": "Flatness Isn't the Only Thing We Check",
+   "html": "<p>Flatness and moisture get tested on the same visit because they're independent problems that can both be present on the same slab, and fixing one doesn't fix the other. A slab can pass its moisture reading comfortably and still fail flatness by a wide margin, or the reverse, which is why we treat them as two separate line items rather than one general \"prep\" charge. <a href=\"/blog/test-concrete-slab-moisture-before-installing-flooring/\">Our guide to slab moisture testing</a> covers the other half of that equation, and <a href=\"/cost/vinyl-plank-flooring/\">our vinyl plank cost guide</a> shows how both kinds of prep typically show up on a Sarasota-area quote once they're combined with material and labor.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Measurement Span", "Maximum Allowed Deviation"],
+  "rows": [
+   ["10 ft", "3/16 in."],
+   ["6 ft", "1/8 in."]
+  ],
+  "caption": "Shaw Floorte Pro SPC installation guide flatness tolerance"
+ },
+ "faqs": [
+  {"q": "Does laminate flooring need the same flatness as vinyl plank?", "a": "Similar tolerances apply, since laminate also uses a rigid locking joint. See our <a href=\"/blog/moisture-barrier-under-laminate-concrete-floor/\">laminate over concrete guide</a> for how moisture and flatness both factor in."},
+  {"q": "Can self-leveling and slab moisture testing happen on the same visit?", "a": "Yes, we typically check both flatness and relative humidity during the same in-home estimate, since both determine what prep the slab actually needs before flooring goes down."},
+  {"q": "Will an older Sarasota home usually need self-leveling?", "a": "Not always, but homes with additions, multiple slab pours, or decades of settling are more likely to need it than a newer, single-pour slab. We won't know for certain until we measure."}
+ ],
+ "next_step": "We check slab flatness and moisture together on every free in-home estimate, so any self-leveling work shows up as a clear line item before you commit to vinyl plank.",
+ "sources": [
+  {"title": "Shaw Floorte Pro SPC installation guide (PDF)", "url": "https://www.cfiu.org/wp-content/uploads/2022/01/Shaw-Floors-Floorte-Pro-6-7-10-Installation-pdf-generated-on-12_30_2021.pdf"},
+  {"title": "EngineerFix -- cost to self-level a concrete floor", "url": "https://engineerfix.com/how-much-does-it-cost-to-self-level-a-concrete-floor/"}
+ ],
+ "related_services": ["vinyl-plank-flooring"],
+ "related_cities": ["sarasota"],
+ "related_posts": ["test-concrete-slab-moisture-before-installing-flooring", "moisture-barrier-under-vinyl-plank-flooring-concrete-slab", "glue-down-floating-better-floors-florida-concrete-slab", "flat-floor-large-format-tile", "vinyl-plank-floor-buckling"],
+ "keywords": ["flat concrete floor vinyl plank", "subfloor leveling Sarasota", "self-leveling underlayment cost", "SPC vinyl plank flatness tolerance", "concrete slab prep vinyl flooring"]
+}

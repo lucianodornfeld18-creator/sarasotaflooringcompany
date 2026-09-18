@@ -1,0 +1,58 @@
+{
+ "slug": "soon-pull-up-wet-flooring-after-storm-surge",
+ "question": "How soon do I have to pull up wet flooring after storm surge?",
+ "title": "How Soon to Pull Up Wet Flooring After Storm Surge",
+ "h1": "How Soon Do I Have to Pull Up Wet Flooring After Storm Surge?",
+ "description": "The EPA says dry or remove water-damaged materials within 24-48 hours after storm surge in Florida to keep mold from getting established.",
+ "cluster": "water-flood-hurricane",
+ "cluster_label": "Water, floods & hurricanes",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Within 24 to 48 hours, per EPA guidance on water-damaged materials, is the window before mold risk climbs sharply. After storm surge specifically, that clock starts as soon as it's safe to re-enter the home, not once power or contractors are available. Helene's 2024 surge alone damaged an estimated 7,600 residences in unincorporated Sarasota County, which is why fast removal matters across an entire neighborhood, not just one house.",
+ "sections": [
+  {
+   "h2": "The Short Answer: Don't Wait for a Contractor",
+   "html": "<p>The EPA's guidance on this is direct: dry out or fully remove water-damaged materials within 24 to 48 hours to prevent mold from taking hold. After storm surge, that means pulling up saturated carpet, laminate, and any flooring that trapped standing water as soon as it's physically safe to be in the home, even before an insurance adjuster or a contractor can get out to look at it. Photograph everything thoroughly first for the insurance claim, but don't let the photo requirement delay removal past that window; mold doesn't wait for paperwork. If you're not sure whether a specific material is worth pulling immediately or worth trying to save, a quick call before you start tearing things out can save both time and material.</p>"
+  },
+  {
+   "h2": "Why the Clock Matters More Than the Flooring Itself",
+   "html": "<p>The real risk during that window isn't the flooring, it's what grows underneath it. Storm surge water is rarely clean; it typically carries salt, silt, yard runoff and sometimes sewage, all of which stay trapped against a damp slab under carpet pad, laminate, or vinyl plank long after the visible water on the surface has receded and the room looks dry again. Hurricane Milton made landfall at Siesta Key on October 9, 2024, following Helene's surge two weeks earlier, which damaged an estimated 7,600 residences in unincorporated Sarasota County alone. Homes where flooring came up fast generally had a shorter path back to new floors than ones where wet material sat for a week or more, with less drywall and framing affected in the process.</p>"
+  },
+  {
+   "h2": "What Comes After the Flooring's Up",
+   "html": "<p>Pulling the flooring is the start, not the end. The slab underneath needs to dry and then test within an acceptable moisture range, using the same ASTM thresholds, roughly 75% relative humidity by default, that any new flooring install requires, before new material goes down. <a href=\"/blog/test-concrete-slab-moisture-before-installing-flooring/\">Here's how that testing works</a>, and <a href=\"/blog/long-slab-dry-after-flooding-before-new-floors/\">here's what determines how long the slab actually needs</a>, since it's rarely a fixed number of days and depends on how saturated the concrete actually got during the surge.</p>"
+  },
+  {
+   "h2": "What to Do in Those First 48 Hours",
+   "html": "<p>Cut power to affected outlets and circuits before wading through standing water, photograph the damage room by room, then remove wet flooring, baseboards that wicked up moisture, and any pad or underlayment underneath. Run fans and a dehumidifier as soon as the space is cleared, and don't seal the room back up, close doors, or run the AC on a low setting while it's still damp, since that traps humidity in rather than pulling it out. <a href=\"/floor-repair/\">A repair or replacement assessment</a> after the space is dry tells you whether the subfloor itself needs work before new flooring gets quoted or an install date gets scheduled.</p>"
+  },
+  {
+   "h2": "Which Flooring Types Need to Come Up First",
+   "html": "<p>Carpet and carpet pad come out first, every time, since the pad holds water the longest and starts smelling within a day or two even when the surface looks dry. Laminate is next, because its fiberboard core swells permanently once wet and won't recover no matter how fast it's dried. Solid hardwood that's cupping visibly needs to come up before it cracks or crowns further, though mild cupping is sometimes worth monitoring rather than removing outright. <a href=\"/blog/vinyl-plank-flooring-saved-after-flood/\">Click vinyl plank</a> is the one material that sometimes doesn't need to come up at all if the water was clean and briefly standing, which is worth confirming before you tear out a floor that might have survived.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Timeframe After Surge", "What Should Happen"],
+  "rows": [
+   ["0-24 hours", "Safety check, photos for insurance, cut power to affected areas"],
+   ["24-48 hours", "Remove wet flooring, pad and baseboards; EPA's mold-prevention window"],
+   ["After 48 hours", "Run fans/dehumidifiers, begin slab drying, plan moisture retest before new flooring"]
+  ],
+  "caption": "General timeline based on EPA mold-prevention guidance"
+ },
+ "faqs": [
+  {"q": "Should I wait for my insurance adjuster before pulling up flooring?", "a": "No, not past the 24-48 hour window. Photograph and document the damage thoroughly, but removing wet materials promptly to prevent mold generally matters more to your claim's outcome than waiting for an in-person inspection."},
+  {"q": "Is it safe to pull up flooring myself after storm surge?", "a": "For small areas with power safely cut, often yes, with gloves and a mask given possible contamination. Larger areas, standing water, or any sign of electrical hazard are worth a professional assessment first."},
+  {"q": "Can vinyl plank be pulled up and reused if I act fast?", "a": "Sometimes, if the water was relatively clean. See our guide on <a href=\"/blog/vinyl-plank-flooring-saved-after-flood/\">whether vinyl plank can be saved after a flood</a> for what usually determines it."}
+ ],
+ "next_step": "If storm surge got into your home, we'll assess the flooring and slab once it's safe, and give you a written plan for drying, testing and reinstalling.",
+ "sources": [
+  {"title": "EPA -- A Brief Guide to Mold, Moisture and Your Home", "url": "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"},
+  {"title": "Sarasota County -- storm damage figures", "url": "https://www.scgov.net/Home/Components/News/News/8261/23"},
+  {"title": "IFTI -- ASTM F2170 vs F1869", "url": "https://ifti.com/astm-f2170-vs-f1869-which-moisture-test-fits-your-project/"}
+ ],
+ "related_services": ["floor-repair", "vinyl-plank-flooring"],
+ "related_cities": ["siesta-key", "longboat-key", "sarasota"],
+ "related_posts": ["long-slab-dry-after-flooding-before-new-floors", "vinyl-plank-flooring-saved-after-flood", "water-damaged-hardwood-floors-saved", "homeowners-insurance-cover-flood-damaged-floors-florida", "flooring-survives-hurricane-flood-florida"],
+ "keywords": ["pull up wet flooring storm surge", "flood damaged flooring Florida", "hurricane flooring removal", "storm surge flooring Sarasota", "mold prevention wet flooring"]
+}

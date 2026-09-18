@@ -1,0 +1,59 @@
+{
+ "slug": "water-damaged-hardwood-floors-saved",
+ "question": "Can water-damaged hardwood floors be saved?",
+ "title": "Can Water-Damaged Hardwood Floors Be Saved?",
+ "h1": "Can Water-Damaged Hardwood Floors Be Saved?",
+ "description": "Often yes, if you don't sand a cupped floor too soon; mild cupping can flatten on its own, and average repairs run about $1,078 nationally.",
+ "cluster": "water-flood-hurricane",
+ "cluster_label": "Water, floods & hurricanes",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Often, yes, if the moisture source gets fixed first and nobody sands the boards too early. Mild cupping can flatten on its own over several weeks to months once moisture-meter readings return to normal; sanding before that point tends to cause crowning instead. Angi's 2026 data puts average hardwood floor repair cost at $1,078 nationally, with a typical range of $482 to $1,707.",
+ "sections": [
+  {
+   "h2": "Sometimes, If You Don't Rush the Fix",
+   "html": "<p>Water-damaged hardwood floors can often be saved, but the process runs backward from what feels intuitive to most homeowners. The instinct after seeing cupped boards is to sand them flat immediately. NWFA and moisture-meter manufacturers like Wagner specifically warn against that: sanding a cupped floor before the moisture source is fixed and readings are back to normal tends to cause crowning instead, where the edges end up lower than the center once the wood finishes drying and shrinking back down. The floor needs to stabilize first, not get leveled while it's still actively moving in one direction or the other.</p>"
+  },
+  {
+   "h2": "Why Mild Cupping Often Fixes Itself",
+   "html": "<p>Cupping happens when the bottom of a board absorbs more moisture than the top, so it swells more and the edges rise relative to the center. Once the moisture source, a leak, a flood, a failed slab, is actually addressed and the wood's moisture content comes back down to a normal range, mild cupping frequently flattens out on its own over a period of weeks to months, without any sanding at all. Severe cupping, or boards that have started to crack, split, or separate from the subfloor, don't self-correct the same way and need direct intervention once things have dried out.</p>"
+  },
+  {
+   "h2": "What Determines Whether It's Repairable",
+   "html": "<p>The deciding factors are how long the wood stayed wet, how contaminated the water was, and how far the cupping or damage has progressed before it's addressed. Clean water caught within the EPA's 24-to-48-hour drying window, the same window that governs <a href=\"/blog/soon-pull-up-wet-flooring-after-storm-surge/\">how fast wet flooring needs to come up after storm surge</a>, gives a floor the best odds. Storm surge, sewage-contaminated water, or boards left wet for a week or more usually means replacement of the affected area rather than repair, since the wood's structure and the subfloor underneath can both be compromised by then. We start every water-damage call with a diagnostic visit, $185, credited toward the repair if you move forward, to give you a straight answer before spending more.</p>"
+  },
+  {
+   "h2": "What a Repair Actually Costs",
+   "html": "<p>Angi's 2026 data puts the average hardwood floor repair at $1,078 nationally, with a typical range of $482 to $1,707, depending on the extent of the damage and the region. Our own typical ranges for the Sarasota area run $95 to $225 per plank for individual board replacement, plus an hourly rate of $95 for work that doesn't fit a flat per-plank price, such as spot sanding or refinishing a section to blend with the rest of the room. <a href=\"/hardwood-floor-refinishing/\">Full refinishing</a> is sometimes the better call once enough boards are affected that patching would leave a visible mismatch.</p>"
+  },
+  {
+   "h2": "What the Diagnostic Visit Actually Checks",
+   "html": "<p>We bring a moisture meter, not just a flashlight, since the visible cupping only tells part of the story. Readings taken across the affected boards and a few feet beyond the visible damage show whether the moisture has spread further than it looks, and whether the subfloor underneath, not just the surface boards, absorbed water too. That reading also tells us how long recovery is likely to take before we'd even consider sanding, which is information worth having before committing to a repair budget. If the subfloor turns out to be the real problem, that changes the scope of the job from a cosmetic fix to something closer to a partial <a href=\"/hardwood-flooring/\">hardwood</a> replacement, and we'll say so plainly on the estimate rather than quoting a sanding job that won't hold.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Cost Item", "Typical Range"],
+  "rows": [
+   ["Diagnostic visit (credited to repair)", "$185"],
+   ["Plank replacement, per plank", "$95-$225"],
+   ["Hourly repair work", "$95/hr"],
+   ["National average hardwood repair (Angi, 2026)", "$1,078 (range $482-$1,707)"]
+  ],
+  "caption": "Company ranges are 2026 typical ranges for our Sarasota-area jobs; Angi figure is national"
+ },
+ "faqs": [
+  {"q": "How long should I wait before deciding if cupped floors will recover?", "a": "Give it several weeks to a couple of months after the moisture source is fixed and the room is back to a normal humidity range, then have it checked. Sanding too early is the most common mistake homeowners make."},
+  {"q": "Can engineered hardwood cup the same way solid does?", "a": "Yes, though its cross-layered core often resists it somewhat better than solid strip. The same wait-and-recheck approach applies before deciding on repair versus replacement."},
+  {"q": "Is refinishing cheaper than replacing damaged boards?", "a": "It depends on how many boards are affected and where. See our guide on <a href=\"/blog/better-refinish-replace-hardwood-floors/\">whether it's better to refinish or replace hardwood floors</a> for how we make that call."}
+ ],
+ "next_step": "Book a $185 diagnostic visit, credited toward any repair, and we'll tell you honestly whether your water-damaged hardwood is worth saving or better off replaced.",
+ "sources": [
+  {"title": "Wagner Meters -- can wood floor cupping be fixed", "url": "https://www.wagnermeters.com/moisture-meters/wood-info/can-wood-floor-cupping-be-fixed/"},
+  {"title": "Angi -- hardwood floor repair cost (2026)", "url": "https://www.angi.com/articles/hardwood-floor-repair-cost.htm"},
+  {"title": "EPA -- A Brief Guide to Mold, Moisture and Your Home", "url": "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"}
+ ],
+ "related_services": ["floor-repair", "hardwood-flooring"],
+ "related_cities": ["sarasota"],
+ "related_posts": ["cupped-hardwood-floors-fixed-without-replacing-them", "better-refinish-replace-hardwood-floors", "vinyl-plank-flooring-saved-after-flood", "soon-pull-up-wet-flooring-after-storm-surge", "homeowners-insurance-cover-flood-damaged-floors-florida"],
+ "keywords": ["water damaged hardwood floors saved", "hardwood floor cupping repair", "hardwood floor water damage cost", "fix cupped hardwood floors Florida", "hardwood floor repair Sarasota"]
+}

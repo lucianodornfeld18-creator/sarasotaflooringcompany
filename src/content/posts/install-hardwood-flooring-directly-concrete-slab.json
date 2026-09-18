@@ -1,0 +1,49 @@
+{
+ "slug": "install-hardwood-flooring-directly-concrete-slab",
+ "question": "Can you install hardwood flooring directly on a concrete slab?",
+ "title": "Can You Install Hardwood Directly on a Concrete Slab?",
+ "h1": "Can You Install Hardwood Flooring Directly on a Concrete Slab?",
+ "description": "Engineered hardwood can glue directly to a slab that passes its moisture test; solid hardwood usually needs a plywood subfloor first.",
+ "cluster": "concrete-slab-subfloor",
+ "cluster_label": "Concrete slabs & subfloors",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Engineered hardwood can glue directly to a concrete slab that tests at or below 75% relative humidity (ASTM F2170) or 3 lbs per 1,000 sq ft per 24 hours (ASTM F1869). Solid hardwood traditionally needs a built-up plywood subfloor over the slab first, since the NWFA advises against installing solid wood below grade or directly on bare concrete in a Sarasota-area home.",
+ "sections": [
+  {
+   "h2": "Engineered Glues Direct, Solid Traditionally Doesn't",
+   "html": "<p>The short version: engineered hardwood is manufactured to glue directly to a concrete slab, while solid hardwood traditionally goes over a built-up plywood subfloor first, not straight onto bare concrete. Both still start with the exact same slab moisture test, run the same way regardless of which wood you eventually pick. The NWFA's concrete-subfloor guidance sets the same threshold either way, at or below 75% relative humidity (ASTM F2170) or 3 lbs per 1,000 sq ft per 24 hours (ASTM F1869), unless a rated vapor-retarder system is part of the install. The difference is what happens after that test passes, not whether it's required, and that difference is what actually shows up on your written quote once the numbers are in.</p>"
+  },
+  {
+   "h2": "Why the NWFA Draws This Line for Solid Wood",
+   "html": "<p>Solid wood is a single piece of material through its full thickness, which makes it more reactive to whatever moisture is directly underneath it than engineered's cross-layered, more dimensionally stable core. The NWFA's guidance keeps solid strip and plank above grade and off bare concrete for that reason; installers on Houzz describe the same practical rule, that a slab under solid wood traditionally needs a built-up plywood subfloor, while engineered is made to glue direct once the slab passes its moisture test. It isn't that solid wood can't handle Florida, it's that it handles a slab better with a layer of separation.</p>"
+  },
+  {
+   "h2": "What a Plywood Subfloor Adds to the Job",
+   "html": "<p>Building up a plywood subfloor over a slab means sleepers or a plywood layer mechanically fastened or glued down first, which raises the finished floor height, adds labor and material cost, and gives solid wood a nailing surface concrete doesn't provide on its own. That's on top of the moisture test itself, and it's part of why solid nail-down hardwood runs $10 to $14 per sq ft installed in our area versus $9 to $19 for engineered depending on width and grade, before accounting for the extra subfloor build-up solid often needs over a slab. We itemize that subfloor work separately on the quote so it's clear what's driving the difference.</p>"
+  },
+  {
+   "h2": "The More Common Path in Sarasota-Area Homes",
+   "html": "<p>Most slab-on-grade homes we work in end up with <a href=\"/engineered-hardwood-flooring/\">engineered hardwood</a> glued directly to the slab once it passes the moisture test, simply because it skips the plywood build-up and the height change that comes with it. Solid wood still gets specified when a client wants it specifically, or on a second floor over wood framing where the slab question doesn't apply at all. Either way, the moisture reading comes first; <a href=\"/blog/test-concrete-slab-moisture-before-installing-flooring/\">here's exactly how we run that test</a> before either product gets quoted.</p>"
+  },
+  {
+   "h2": "What If the Slab Isn't Flat, Not Just Wet",
+   "html": "<p>Moisture is only half of what a slab needs to pass before hardwood goes down. A slab that's out of level or has dips from an old pour still needs correcting before engineered can glue flat or before sleepers for solid wood can sit evenly, regardless of how the moisture reading came back. <a href=\"/subfloor-leveling/\">Slab leveling and moisture prep</a> often gets scoped as a single visit alongside the moisture test itself, since both determine what the finished hardwood install actually needs, and both show up as separate, itemized lines on the written quote rather than a lump prep charge that hides what you're paying for. Skipping this step is one of the more common reasons a hardwood floor that started out flat develops squeaks or soft spots within its first year, long before moisture would typically be the cause.</p>"
+  }
+ ],
+ "faqs": [
+  {"q": "Does engineered hardwood need underlayment over a slab?", "a": "Often a thin foam or cork underlayment for sound and comfort, plus a moisture-mitigating layer if the slab reading calls for one. It's a different assembly than the plywood build-up solid wood traditionally needs."},
+  {"q": "Can I install solid hardwood on a second-floor concrete slab?", "a": "The same moisture rules apply, but a second-floor slab in a condo often has different drying characteristics than slab-on-grade. Testing still comes first, and condo buildings frequently add their own underlayment and sound-rating requirements on top of it."},
+  {"q": "Is solid or engineered better for resale in a Sarasota home?", "a": "Both read as real wood to most buyers once installed. See our comparison of <a href=\"/blog/solid-vs-engineered-hardwood-better-concrete-slab/\">solid versus engineered hardwood on a concrete slab</a> for the trade-offs beyond just resale."}
+ ],
+ "next_step": "We'll test your slab on a free in-home visit and give you a written quote for both solid and engineered hardwood, so you can compare the real cost difference for your specific room.",
+ "sources": [
+  {"title": "NWFA Concrete Subfloors guidance (PDF)", "url": "https://nwfa.org/wp-content/uploads/2020/03/Concrete-Subfloors_Updated.pdf"},
+  {"title": "Houzz -- humid FL concrete slab flooring discussion", "url": "https://www.houzz.com/discussions/5840417/humid-fla-concrete-slab-best-floor-choice-type-don-t-want-tile"},
+  {"title": "NWFA moisture guidance via Hurst Hardwoods", "url": "https://www.hursthardwoods.com/moisture-control/"}
+ ],
+ "related_services": ["hardwood-flooring"],
+ "related_cities": ["sarasota"],
+ "related_posts": ["test-concrete-slab-moisture-before-installing-flooring", "solid-vs-engineered-hardwood-better-concrete-slab", "real-hardwood-floors-florida", "am-stupid-want-engineered-wood-florida", "glue-down-floating-better-floors-florida-concrete-slab"],
+ "keywords": ["hardwood flooring on concrete slab", "engineered hardwood glue direct concrete", "solid hardwood plywood subfloor", "hardwood installation Sarasota FL", "hardwood over concrete Florida"]
+}

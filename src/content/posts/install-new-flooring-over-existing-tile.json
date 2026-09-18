@@ -1,0 +1,50 @@
+{
+ "slug": "install-new-flooring-over-existing-tile",
+ "question": "Can you install new flooring over existing tile?",
+ "title": "Can You Install New Flooring Over Existing Tile?",
+ "h1": "Can New Flooring Go Over Your Existing Tile?",
+ "description": "Yes, if the tile is flat within 3/16 in. over 10 ft and fully adhered. Otherwise, removal runs $2.50-$4.50/sq ft under 2026 Southwest Florida pricing.",
+ "cluster": "installation-process-timeline",
+ "cluster_label": "Installation & timeline",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Yes, in most cases. Rigid-core flooring can go over existing tile if the tile is fully adhered, clean, and flat within 3/16 inch over 10 feet. If it fails that flatness test or has loose or cracked tiles, removal typically runs $2.50-$4.50 per square foot, more on a thick mortar bed, before the new floor goes down.",
+ "sections": [
+  {
+   "h2": "What Has to Be True About Your Existing Tile First",
+   "html": "<p>Rigid-core flooring like <a href=\"/vinyl-plank-flooring/\">LVP</a> can generally go over most existing hard surfaces, including tile, as long as it's fully adhered, clean, flat, dry, and structurally sound. Shaw's SPC installation guide sets the flatness bar at 3/16 inch of variance over a 10-foot span, or 1/8 inch over 6 feet. If your tile meets that, skipping removal saves both time and money.</p><p>This matters most for older Florida homes, where tile was often set in a thick mortar bed rather than today's thin-set method. A mortar bed can still pass the flatness test, but it's worth confirming, since mortar-set tile sits noticeably higher than thin-set tile and can throw off transitions to carpet or hardwood in adjoining rooms. A straightedge and a level are the two tools that answer this question definitively; guessing by eye tends to miss the gradual dips that cause problems months later, once foot traffic and furniture have settled into whatever unevenness was already there.</p>"
+  },
+  {
+   "h2": "When Removal Is the Better Call",
+   "html": "<p>Loose or cracked tiles, a floor that fails the flatness check, or a building that restricts added floor height are the situations where removal makes more sense than covering over the problem. Ceramic and porcelain tile removal in Southwest Florida typically runs $2.50-$4.50 per square foot, or $4.00-$6.50-plus on a thick mortar bed, with light thinset grinding adding another $0.75-$1.25 per square foot.</p><p>Height is the other reason removal sometimes wins even when the tile itself would technically pass. Stacking a new floor over existing tile raises the finished height by roughly the thickness of the new material, which can create a step at a sliding door threshold or leave a range or dishwasher sitting slightly proud of the surrounding floor. We've walked into estimates where a homeowner assumed removal was mandatory simply because the tile was decades old, only to find it passed the flatness check without issue. Age alone doesn't disqualify a tile floor from being covered over; condition and flatness are what actually matter.</p>"
+  },
+  {
+   "h2": "How We Check Before Recommending Either Option",
+   "html": "<p>We start with a slab moisture reading and a flatness check using a straightedge across the existing tile, not a guess. If there are high spots but the tile itself is sound, <a href=\"/subfloor-leveling/\">self-leveling</a> can often solve it without full removal. If the tile is failing structurally, we'll walk you through <a href=\"/tile-removal/\">tile removal</a> costs as a separate line item on your written quote before you decide.</p><p>We also check the transition points specifically, doorways, the edge where tile meets carpet, and any exterior threshold, since those are the spots where an extra layer of flooring is most likely to cause a problem later. If your existing tile has scattered cracks rather than a widespread flatness issue, targeted <a href=\"/floor-repair/\">floor repair</a> can sometimes bring a section back into spec without a full tear-out. That documentation also matters if you ever sell the home, since a buyer's inspector may ask what's under the visible floor.</p><p>Whichever direction makes sense for your home, the quote breaks removal, leveling, and installation out as separate line items, so you can see exactly what you're paying for at each stage. We'd rather spend the extra few minutes confirming it now than come back mid-installation with a change order. Compare that against our <a href=\"/cost/tile-installation/\">tile installation cost guide</a> if you're weighing a full tile replacement instead of covering the old floor. Either way, you'll know the real condition of what's under your feet before a single box of new material shows up.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Condition of existing tile", "What it means for your project"],
+  "rows": [
+   ["Fully adhered, flat within 3/16 in. over 10 ft, clean and dry", "New rigid-core flooring can usually go right on top"],
+   ["Loose, cracked, or out of flatness spec", "Removal first, typically $2.50-$4.50/sq ft, more over a mortar bed"],
+   ["High spots or an uneven bed", "Self-leveling before the new floor, priced per room"]
+  ],
+  "caption": "Sources: Georgia Carpet COREtec installation guide, Shaw SPC install guide, Remove Right SW Florida (Feb 2026)."
+ },
+ "faqs": [
+  {"q": "Does going over existing tile raise my floor height?", "a": "A little, since you're adding a layer on top of what's already there. It's worth checking door clearances and thresholds during your estimate, especially at exterior doors and sliders."},
+  {"q": "What if only some of the tiles are loose?", "a": "We assess room by room. Spot repairs can sometimes stabilize a section that's otherwise flat and sound, but widespread loose tile usually points toward full removal instead."},
+  {"q": "Is the flatness check part of the estimate?", "a": "Yes. We check the existing tile with a straightedge as part of the free in-home estimate, before we recommend going over it or removing it."}
+ ],
+ "next_step": "Get a free in-home flatness and moisture check before deciding between covering your existing tile and removing it.",
+ "sources": [
+  {"title": "COREtec scratchless installation guide", "url": "https://www.georgiacarpet.com/pages/installation-guides/coretec-scratchless-installation-guide.html"},
+  {"title": "Shaw Floors Floorte Pro installation guide", "url": "https://www.cfiu.org/wp-content/uploads/2022/01/Shaw-Floors-Floorte-Pro-6-7-10-Installation-pdf-generated-on-12_30_2021.pdf"},
+  {"title": "Floor removal cost guide, Southwest Florida", "url": "https://removeright.com/floor-removal-cost-guide-southwest-florida/"}
+ ],
+ "related_services": ["tile-installation", "vinyl-plank-flooring"],
+ "related_cities": [],
+ "related_posts": ["dustless-tile-removal-worth-extra-cost", "cost-remove-tile-flooring-southwest-florida", "flat-concrete-floor-vinyl-plank-flooring", "moisture-barrier-under-vinyl-plank-flooring-concrete-slab"],
+ "keywords": ["install flooring over existing tile", "tile removal cost per square foot", "flooring removal near me", "lvp installation near me", "floor leveling near me"]
+}

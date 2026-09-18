@@ -1,0 +1,65 @@
+{
+ "slug": "cost-remove-tile-flooring-southwest-florida",
+ "question": "How much does it cost to remove tile flooring in Southwest Florida?",
+ "title": "Tile Removal Cost in Southwest Florida (2026)",
+ "h1": "How Much Does It Cost to Remove Old Tile Flooring?",
+ "description": "Tile removal in Southwest Florida costs $2.50-$4.50 per sq ft in 2026, more for saltillo or a thick mortar bed, per a 2026 regional removal guide.",
+ "cluster": "cost",
+ "cluster_label": "Flooring cost",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Removing ceramic or porcelain tile flooring in Southwest Florida costs $2.50 to $4.50 per square foot in 2026, rising to $4.00-$6.50 or more when the tile sits on a thick mortar bed instead of thinset. Saltillo runs $3.50-$6.00 per square foot to remove and terrazzo runs $3.00-$5.50, both common in older Sarasota and Manatee County homes.",
+ "sections": [
+  {
+   "h2": "How Much Does Tile Removal Cost?",
+   "html": "<p>Standard ceramic or porcelain tile removal in Southwest Florida runs $2.50-$4.50 per square foot, according to a February 2026 regional removal cost guide. That's for tile set in a normal thinset bed. Older homes, especially anything built before the 1990s, often have tile set in a thick mortar bed instead, and that pushes removal to $4.00-$6.50 or more per square foot because the mortar bed itself has to be broken up along with the tile.</p><p>Angi's 2026 national data puts tile removal at $2-$7 per square foot, averaging around $3.50, which brackets the Southwest Florida range on both ends. The gap between the low and high end almost always comes down to what's underneath the tile, not the tile itself: a thinset bed comes up with a floor scraper and a little muscle, while a mortar bed is closer to demolition work.</p>"
+  },
+  {
+   "h2": "Saltillo and Terrazzo: Common in Older Gulf Coast Homes",
+   "html": "<p>Sarasota and Manatee County have a lot of housing stock from the 1970s through the 1990s, and two flooring types from that era come up constantly: Mexican saltillo tile and poured terrazzo. Saltillo removal runs $3.50-$6.00 per square foot; terrazzo, which is often bonded directly to the slab and harder to break loose without damaging the concrete underneath, runs $3.00-$5.50 per square foot.</p><p>Terrazzo in particular deserves a look before demo. In good condition, some homeowners choose to refinish it rather than remove it, since terrazzo under vinyl or carpet is sometimes original and salvageable. We'll tell you honestly during the estimate if removal is really the better move for your slab. We see this most often on older homes around <a href=\"/venice/\">Venice</a> and inland Sarasota County, where a lot of the original 1970s and 1980s terrazzo is still under a later layer of vinyl or carpet.</p>"
+  },
+  {
+   "h2": "What's Included, and What Can Add to the Bill",
+   "html": "<p>Our removal pricing covers demo, hauling tile out and disposal. Two things commonly add to the number: leftover thinset that needs to be ground down before new flooring goes on, which runs $0.75-$1.25 per square foot on top of removal, and a slab that isn't flat once the old tile is out, which calls for <a href=\"/subfloor-leveling/\">self-leveling underlayment</a> at $250-$700 per room. Carpet, laminate or a floating floor is cheaper to pull, $1.75-$3.25 per square foot, since there's no thinset or mortar to break up.</p><p>It's worth budgeting for at least one of those two add-ons on any tile removal job older than about fifteen years. A slab that's been under tile that long has usually had at least a little settling or a prior repair patch, and thinset residue is nearly universal even on a clean-looking demo. Dust control is worth asking about too: dry-cutting or grinding old tile without containment sends fine dust through the whole house, so larger removal jobs benefit from wet-cutting and containment rather than letting demo dust settle into every room.</p>"
+  },
+  {
+   "h2": "Bundling Removal With Your New Floor",
+   "html": "<p>Removal is almost always priced alongside the new flooring install rather than as a standalone job, since we're already on-site with the same crew and dumpster. We include a slab check as part of the removal estimate so leveling or moisture issues show up on the quote before, not after, demo starts. That's a meaningfully different number than hiring a separate demo-only crew and a separate installer, since two trips means two mobilizations and two dumpster fees.</p><p>See what typically drives a Sarasota project's total on our <a href=\"/cost/\">flooring cost guide</a>, or browse new flooring on our <a href=\"/tile-removal/\">tile removal</a> and <a href=\"/tile-installation/\">tile installation</a> pages. <a href=\"#estimate\">Request a free estimate</a> and we'll price removal and installation together.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Removal type", "Price per sq ft (2026)"],
+  "rows": [
+   ["Carpet/laminate/floating floor", "$1.75-$3.25"],
+   ["Ceramic/porcelain tile (thinset bed)", "$2.50-$4.50"],
+   ["Terrazzo", "$3.00-$5.50"],
+   ["Saltillo tile", "$3.50-$6.00"],
+   ["Ceramic/porcelain tile (thick mortar bed)", "$4.00-$6.50+"],
+   ["Thinset grinding add-on", "$0.75-$1.25"]
+  ],
+  "caption": "Southwest Florida regional ranges, February 2026, plus Sarasota Flooring Company scope notes."
+ },
+ "faqs": [
+  {
+   "q": "Is tile removal always necessary before new flooring goes in?",
+   "a": "Not always. Vinyl plank and laminate can sometimes float over sound, flat existing tile. We check flatness and height clearance at doorways during the estimate to tell you whether removal is really required or just an option."
+  },
+  {
+   "q": "Why does removing terrazzo cost less than saltillo?",
+   "a": "Terrazzo is poured and ground as one continuous surface, so demo is more about breaking up a slab-bonded layer, while saltillo tiles are individual pieces set in mortar that each have to be pried loose, which tends to run slightly more labor per square foot."
+  },
+  {
+   "q": "Does removal cost include hauling the debris away?",
+   "a": "Yes, our removal pricing includes demo, hauling and disposal. What it doesn't include is thinset grinding or slab leveling if the subfloor needs extra prep after the old tile is out."
+  }
+ ],
+ "next_step": "Request a free estimate and we'll scope your removal, prep and new flooring as one line-itemized quote.",
+ "sources": [
+  {"title": "Remove Right: Floor Removal Cost Guide for Southwest Florida", "url": "https://removeright.com/floor-removal-cost-guide-southwest-florida/"},
+  {"title": "Angi: What's the Average Cost to Remove Ceramic Tile?", "url": "https://www.angi.com/articles/whats-average-cost-remove-ceramic-tile.htm"}
+ ],
+ "related_services": ["tile-installation", "floor-repair"],
+ "related_cities": ["sarasota", "venice"],
+ "related_posts": ["porcelain-tile-installation-cost-per-square-foot", "cost-install-vinyl-plank-flooring-sarasota-fl", "floor-tiles-popping-up-sounding-hollow", "flooring-quotes-sarasota-different-each-other", "install-new-flooring-over-existing-tile"],
+ "keywords": ["tile removal cost southwest florida", "cost to remove tile flooring", "terrazzo removal cost", "saltillo tile removal", "tile removal cost per square foot"]
+}

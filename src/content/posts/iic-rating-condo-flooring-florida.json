@@ -1,0 +1,104 @@
+{
+ "slug": "iic-rating-condo-flooring-florida",
+ "question": "What IIC rating do I need for condo flooring in Florida?",
+ "title": "IIC Rating for Condo Flooring in Florida",
+ "h1": "What IIC Rating Does Florida Condo Flooring Need?",
+ "description": "Florida code sets IIC/STC 50 between condo units (45 if field-tested), but Sarasota-area boards often want 55-60. Check your docs first.",
+ "cluster": "condo-hoa-sound",
+ "cluster_label": "Condo & HOA flooring",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Florida's building code requires a minimum IIC and STC of 50 between condo floors (45 if field-tested), but that's just the legal floor. Most Sarasota-area associations want 55 to 60, and luxury towers often push higher. The real number lives in your condo declaration and rules, not the state code, so read those documents before you buy flooring or underlayment.",
+ "sections": [
+  {
+   "h2": "What IIC and STC Actually Measure",
+   "html": "<p>IIC stands for Impact Insulation Class. It rates how much footstep noise, dropped keys, or a rolling chair transfers through a floor-ceiling assembly to the unit below. STC, Sound Transmission Class, rates airborne noise instead, things like voices, TV, and music. Both numbers matter in a condo, because a floor that blocks conversation can still let every footstep through if the impact rating is weak.</p><p>Higher numbers mean quieter. A bare concrete slab with tile glued straight to it can test in the high 20s for IIC, according to <a href=\"https://commercial-acoustics.com/soundproofing/flooring-permit/\">Commercial Acoustics</a>, nowhere near what most buildings require. That gap is why nearly every condo declaration in Sarasota and Manatee counties makes you install an acoustic underlayment before hard flooring goes down.</p><p>Most Sarasota and Manatee county condo towers are built with poured concrete floor slabs stacked directly on top of each other, not the wood-frame construction common up north. Without joists or a cavity to absorb vibration, sound travels straight through the slab to the ceiling below unless the flooring assembly itself is doing the work. That's a big part of why boards in both older buildings from the 1970s and 1980s and newer high-rises write detailed underlayment rules into their documents.</p>"
+  },
+  {
+   "h2": "The Code Minimum vs What Your Association Actually Wants",
+   "html": "<p>Florida's building code sets IIC 50 and STC 50 between dwelling units, or 45 if the assembly is field-tested rather than lab-tested. That's the legal floor for new construction and major renovations, not a target for an existing condo tower built decades earlier.</p><p>In practice, associations set their own bar above code. Floor Coverings International's Sarasota office reports that most local condos want IIC/STC 50 or higher, and luxury buildings often require 60-plus. We've seen boards reject a floor that met code because their own rules were stricter. The number that governs your project is whatever your declaration or rules committee has on file, and we cover how that plays out during an install on our <a href=\"/condo-flooring/\">condo flooring page</a>.</p>"
+  },
+  {
+   "h2": "How to Find Your Building's Real Number",
+   "html": "<p>Start with your condo declaration and any separate flooring or renovation rules; most associations keep these as a short addendum rather than burying them in the master declaration. If you can't find a number, ask the property manager directly. Boards that require an acoustic test report on file will usually tell you the minimum before you buy a single plank.</p><p>Cork flooring can reach IIC 55-60 on its own, without an added underlayment, which is worth asking about if your building's number is high and you don't want to stack products. For anything else, if you're leaning toward <a href=\"/tile-installation/\">tile</a> or <a href=\"/vinyl-plank-flooring/\">vinyl plank</a>, get the manufacturer's ASTM E2179 delta-IIC test report for the exact assembly, flooring plus pad plus subfloor, rather than a marketing claim of soundproof. Our <a href=\"/tools/condo-flooring-approval-checklist/\">condo flooring approval checklist</a> walks through what most boards ask to see.</p><p>Some buildings go further and require a physical inspection of the underlayment before the finished floor covers it, so an installer can't just attach paperwork after the fact. If your association does this, build the inspection into your project timeline before ordering material; redoing a finished floor to expose the underlayment again costs far more than a short delay up front.</p>"
+  },
+  {
+   "h2": "How This Fits Into Your Estimate",
+   "html": "<p>When we quote a condo job, we ask for your building's minimum IIC/STC number and any underlayment requirement up front, before we recommend a product. If you don't have the number yet, we can usually help track it down from the declaration or the property manager during the same visit. Every quote is written and line-itemized, so the underlayment shows on its own line, separate from material and labor.</p><p>If your board wants a test report before approving your renovation application, we'll get you the manufacturer's documentation for the exact assembly, not a general spec sheet. Book a <a href=\"#estimate\">free in-home estimate</a> and we'll go over your building's sound-rating requirement before you pick a floor.</p>"
+  }
+ ],
+ "table": {
+  "headers": [
+   "Flooring system on a bare slab",
+   "Typical IIC without added underlayment",
+   "What it usually takes to reach 50+"
+  ],
+  "rows": [
+   [
+    "Tile glued direct to concrete",
+    "High 20s",
+    "Acoustic underlayment or isolation membrane rated for the assembly"
+   ],
+   [
+    "Rigid-core LVP with factory-attached pad",
+    "Varies by product",
+    "Check the product's own ASTM E2179 report before adding a second pad"
+   ],
+   [
+    "Cork flooring, no added pad",
+    "55-60",
+    "Often clears even strict association minimums on its own"
+   ]
+  ],
+  "caption": "Sources: Commercial Acoustics, Floor Coverings International Sarasota, Houzz pro discussion (2026)."
+ },
+ "faqs": [
+  {
+   "q": "What's the difference between IIC and STC?",
+   "a": "IIC measures impact noise, like footsteps and dropped objects, moving through a floor to the unit below. STC measures airborne noise, like voices and TV. Florida's code sets both at a minimum of 50 between condo units."
+  },
+  {
+   "q": "Does a higher IIC number always mean a quieter floor?",
+   "a": "Generally yes, but the number describes one specific tested assembly. Change a layer, like adding extra padding under a rigid-core LVP that already ships with a pad, and the real-world result can change, sometimes for the worse if it voids the product's warranty."
+  },
+  {
+   "q": "Can I get my current floor's IIC rating tested?",
+   "a": "Field testing is possible but it's a specialized acoustic-engineering service, not something a flooring contractor performs. Most owners instead work from the manufacturer's published ASTM E2179 report for the flooring-and-underlayment combination they plan to install."
+  }
+ ],
+ "next_step": "Bring your building's IIC/STC number to a free in-home estimate and we'll match an underlayment that meets it before you buy flooring.",
+ "sources": [
+  {
+   "title": "Florida Building Code sound transmission requirements",
+   "url": "https://acousticalsolutions.com/florida-building-code-floor-soundproofing"
+  },
+  {
+   "title": "Floor Coverings International Sarasota - condo flooring soundproofing guide",
+   "url": "https://floorcoveringsinternational.com/locations/us/fl/sarasota/tips/guide-condo-flooring-soundproofing/"
+  },
+  {
+   "title": "Commercial Acoustics - flooring permit and soundproofing",
+   "url": "https://commercial-acoustics.com/soundproofing/flooring-permit/"
+  }
+ ],
+ "related_services": [
+  "tile-installation",
+  "vinyl-plank-flooring"
+ ],
+ "related_cities": [
+  "sarasota"
+ ],
+ "related_posts": [
+  "best-flooring-florida-condo-upper-floor",
+  "best-soundproof-underlayment-condo-floors",
+  "hoa-approval-new-flooring-sarasota-condo",
+  "permit-change-flooring-florida-condo"
+ ],
+ "keywords": [
+  "iic rating flooring",
+  "condo flooring soundproofing requirements florida",
+  "condo flooring underlayment requirements florida",
+  "IIC rating condo Florida",
+  "STC rating condo flooring"
+ ]
+}

@@ -1,0 +1,1023 @@
+{
+ "pages": 124,
+ "words_total": 218515,
+ "words_by_page": {
+  "/": 1756,
+  "/404.html": 59,
+  "/about/": 948,
+  "/blog/": 2279,
+  "/blog/best-flooring-sarasota-humidity/": 1690,
+  "/blog/floor-repair-cost-bradenton/": 1494,
+  "/blog/floor-repair-cost-lakewood-ranch/": 1540,
+  "/blog/floor-repair-cost-longboat-key/": 1538,
+  "/blog/floor-repair-cost-palmetto/": 1499,
+  "/blog/floor-repair-cost-parrish/": 1476,
+  "/blog/floor-repair-cost-sarasota/": 1509,
+  "/blog/floor-repair-cost-siesta-key/": 1512,
+  "/blog/floor-repair-cost-venice/": 1481,
+  "/blog/flooring-short-term-rental-sarasota/": 1313,
+  "/blog/hardwood-flooring-cost-bradenton/": 1631,
+  "/blog/hardwood-flooring-cost-lakewood-ranch/": 1677,
+  "/blog/hardwood-flooring-cost-longboat-key/": 1675,
+  "/blog/hardwood-flooring-cost-palmetto/": 1636,
+  "/blog/hardwood-flooring-cost-parrish/": 1613,
+  "/blog/hardwood-flooring-cost-sarasota/": 1646,
+  "/blog/hardwood-flooring-cost-siesta-key/": 1649,
+  "/blog/hardwood-flooring-cost-venice/": 1618,
+  "/blog/lakewood-ranch-flooring-replacement-window/": 1427,
+  "/blog/laminate-flooring-cost-bradenton/": 1481,
+  "/blog/laminate-flooring-cost-lakewood-ranch/": 1527,
+  "/blog/laminate-flooring-cost-longboat-key/": 1525,
+  "/blog/laminate-flooring-cost-palmetto/": 1486,
+  "/blog/laminate-flooring-cost-parrish/": 1463,
+  "/blog/laminate-flooring-cost-sarasota/": 1496,
+  "/blog/laminate-flooring-cost-siesta-key/": 1499,
+  "/blog/laminate-flooring-cost-venice/": 1468,
+  "/blog/stair-treads-cost-bradenton/": 1492,
+  "/blog/stair-treads-cost-lakewood-ranch/": 1538,
+  "/blog/stair-treads-cost-longboat-key/": 1536,
+  "/blog/stair-treads-cost-palmetto/": 1497,
+  "/blog/stair-treads-cost-parrish/": 1474,
+  "/blog/stair-treads-cost-sarasota/": 1507,
+  "/blog/stair-treads-cost-siesta-key/": 1510,
+  "/blog/stair-treads-cost-venice/": 1479,
+  "/blog/tile-installation-cost-bradenton/": 1550,
+  "/blog/tile-installation-cost-lakewood-ranch/": 1596,
+  "/blog/tile-installation-cost-longboat-key/": 1594,
+  "/blog/tile-installation-cost-palmetto/": 1555,
+  "/blog/tile-installation-cost-parrish/": 1532,
+  "/blog/tile-installation-cost-sarasota/": 1565,
+  "/blog/tile-installation-cost-siesta-key/": 1568,
+  "/blog/tile-installation-cost-venice/": 1537,
+  "/blog/vinyl-plank-flooring-cost-bradenton/": 1647,
+  "/blog/vinyl-plank-flooring-cost-lakewood-ranch/": 1693,
+  "/blog/vinyl-plank-flooring-cost-longboat-key/": 1691,
+  "/blog/vinyl-plank-flooring-cost-palmetto/": 1652,
+  "/blog/vinyl-plank-flooring-cost-parrish/": 1629,
+  "/blog/vinyl-plank-flooring-cost-sarasota/": 1662,
+  "/blog/vinyl-plank-flooring-cost-siesta-key/": 1665,
+  "/blog/vinyl-plank-flooring-cost-venice/": 1634,
+  "/bradenton/": 1656,
+  "/contact/": 209,
+  "/faq/": 2711,
+  "/financing/": 469,
+  "/floor-repair/": 2084,
+  "/floor-repair/bradenton/": 2125,
+  "/floor-repair/lakewood-ranch/": 2170,
+  "/floor-repair/longboat-key/": 2080,
+  "/floor-repair/palmetto/": 2047,
+  "/floor-repair/parrish/": 2038,
+  "/floor-repair/sarasota/": 2150,
+  "/floor-repair/siesta-key/": 2079,
+  "/floor-repair/venice/": 2132,
+  "/hardwood-flooring/": 2298,
+  "/hardwood-flooring/bradenton/": 2337,
+  "/hardwood-flooring/lakewood-ranch/": 2382,
+  "/hardwood-flooring/longboat-key/": 2292,
+  "/hardwood-flooring/palmetto/": 2259,
+  "/hardwood-flooring/parrish/": 2250,
+  "/hardwood-flooring/sarasota/": 2362,
+  "/hardwood-flooring/siesta-key/": 2291,
+  "/hardwood-flooring/venice/": 2344,
+  "/lakewood-ranch/": 1708,
+  "/laminate-flooring/": 2029,
+  "/laminate-flooring/bradenton/": 2068,
+  "/laminate-flooring/lakewood-ranch/": 2113,
+  "/laminate-flooring/longboat-key/": 2023,
+  "/laminate-flooring/palmetto/": 1990,
+  "/laminate-flooring/parrish/": 1981,
+  "/laminate-flooring/sarasota/": 2093,
+  "/laminate-flooring/siesta-key/": 2022,
+  "/laminate-flooring/venice/": 2075,
+  "/longboat-key/": 1633,
+  "/palmetto/": 1570,
+  "/parrish/": 1578,
+  "/privacy/": 216,
+  "/sarasota/": 1669,
+  "/siesta-key/": 1625,
+  "/stair-treads/": 2018,
+  "/stair-treads/bradenton/": 2058,
+  "/stair-treads/lakewood-ranch/": 2103,
+  "/stair-treads/longboat-key/": 2013,
+  "/stair-treads/palmetto/": 1980,
+  "/stair-treads/parrish/": 1971,
+  "/stair-treads/sarasota/": 2083,
+  "/stair-treads/siesta-key/": 2012,
+  "/stair-treads/venice/": 2065,
+  "/terms/": 270,
+  "/thanks/": 101,
+  "/tile-installation/": 2183,
+  "/tile-installation/bradenton/": 2222,
+  "/tile-installation/lakewood-ranch/": 2267,
+  "/tile-installation/longboat-key/": 2177,
+  "/tile-installation/palmetto/": 2144,
+  "/tile-installation/parrish/": 2135,
+  "/tile-installation/sarasota/": 2247,
+  "/tile-installation/siesta-key/": 2176,
+  "/tile-installation/venice/": 2229,
+  "/venice/": 1662,
+  "/vinyl-plank-flooring/": 2252,
+  "/vinyl-plank-flooring/bradenton/": 2292,
+  "/vinyl-plank-flooring/lakewood-ranch/": 2337,
+  "/vinyl-plank-flooring/longboat-key/": 2247,
+  "/vinyl-plank-flooring/palmetto/": 2214,
+  "/vinyl-plank-flooring/parrish/": 2205,
+  "/vinyl-plank-flooring/sarasota/": 2317,
+  "/vinyl-plank-flooring/siesta-key/": 2246,
+  "/vinyl-plank-flooring/venice/": 2299,
+  "/warranty/": 418
+ },
+ "bytes_max": [
+  76103,
+  "/"
+ ],
+ "bytes_over_150k": [],
+ "title_too_long": [
+  [
+   "/",
+   102
+  ],
+  [
+   "/about/",
+   66
+  ],
+  [
+   "/blog/",
+   70
+  ],
+  [
+   "/contact/",
+   66
+  ],
+  [
+   "/financing/",
+   77
+  ]
+ ],
+ "desc_bad": [
+  [
+   "/",
+   191
+  ],
+  [
+   "/404.html",
+   78
+  ],
+  [
+   "/about/",
+   220
+  ],
+  [
+   "/contact/",
+   180
+  ],
+  [
+   "/privacy/",
+   98
+  ],
+  [
+   "/terms/",
+   100
+  ],
+  [
+   "/thanks/",
+   67
+  ]
+ ],
+ "no_h1": [],
+ "multi_h1": [],
+ "dup_titles": {
+  "Floor Repair Sarasota FL | Sarasota Flooring Co.": [
+   "/floor-repair/",
+   "/floor-repair/sarasota/"
+  ],
+  "Hardwood Flooring Sarasota FL | Sarasota Flooring Co.": [
+   "/hardwood-flooring/",
+   "/hardwood-flooring/sarasota/"
+  ],
+  "Laminate Flooring Sarasota FL | Sarasota Flooring Co.": [
+   "/laminate-flooring/",
+   "/laminate-flooring/sarasota/"
+  ],
+  "Stair Tread Replacement Sarasota FL | Sarasota Flooring Co.": [
+   "/stair-treads/",
+   "/stair-treads/sarasota/"
+  ],
+  "Tile Installation Sarasota FL | Sarasota Flooring Co.": [
+   "/tile-installation/",
+   "/tile-installation/sarasota/"
+  ],
+  "Vinyl Plank Flooring Sarasota FL | Sarasota Flooring Co.": [
+   "/vinyl-plank-flooring/",
+   "/vinyl-plank-flooring/sarasota/"
+  ]
+ },
+ "dup_desc": {},
+ "dup_h1": {
+  "Floor Repair in Sarasota, FL": [
+   "/floor-repair/",
+   "/floor-repair/sarasota/"
+  ],
+  "Hardwood Flooring in Sarasota, FL": [
+   "/hardwood-flooring/",
+   "/hardwood-flooring/sarasota/"
+  ],
+  "Laminate Flooring in Sarasota, FL": [
+   "/laminate-flooring/",
+   "/laminate-flooring/sarasota/"
+  ],
+  "Stair Tread Replacement in Sarasota, FL": [
+   "/stair-treads/",
+   "/stair-treads/sarasota/"
+  ],
+  "Tile Installation in Sarasota, FL": [
+   "/tile-installation/",
+   "/tile-installation/sarasota/"
+  ],
+  "Vinyl Plank Flooring in Sarasota, FL": [
+   "/vinyl-plank-flooring/",
+   "/vinyl-plank-flooring/sarasota/"
+  ]
+ },
+ "no_canon": [],
+ "canon_mismatch": [
+  [
+   "/404.html",
+   "https://sarasotaflooringcompany.com/404"
+  ]
+ ],
+ "bad_jsonld": [],
+ "jsonld_type_counts": {
+  "Organization": 2,
+  "LocalBusiness": 117,
+  "HomeAndConstructionBusiness": 117,
+  "BreadcrumbList": 123,
+  "AboutPage": 1,
+  "Article": 51,
+  "FAQPage": 106,
+  "ContactPage": 1
+ },
+ "broken_links": [],
+ "broken_count": 0,
+ "orphans": [
+  "/404.html",
+  "/thanks/"
+ ],
+ "low_inbound": [
+  [
+   0,
+   "/404.html"
+  ],
+  [
+   0,
+   "/thanks/"
+  ],
+  [
+   2,
+   "/blog/best-flooring-sarasota-humidity/"
+  ],
+  [
+   2,
+   "/blog/flooring-short-term-rental-sarasota/"
+  ],
+  [
+   2,
+   "/blog/lakewood-ranch-flooring-replacement-window/"
+  ],
+  [
+   3,
+   "/blog/floor-repair-cost-bradenton/"
+  ],
+  [
+   3,
+   "/blog/floor-repair-cost-lakewood-ranch/"
+  ],
+  [
+   3,
+   "/blog/floor-repair-cost-longboat-key/"
+  ],
+  [
+   3,
+   "/blog/floor-repair-cost-palmetto/"
+  ],
+  [
+   3,
+   "/blog/floor-repair-cost-parrish/"
+  ],
+  [
+   3,
+   "/blog/floor-repair-cost-sarasota/"
+  ],
+  [
+   3,
+   "/blog/floor-repair-cost-siesta-key/"
+  ],
+  [
+   3,
+   "/blog/floor-repair-cost-venice/"
+  ],
+  [
+   3,
+   "/blog/hardwood-flooring-cost-bradenton/"
+  ],
+  [
+   3,
+   "/blog/hardwood-flooring-cost-lakewood-ranch/"
+  ],
+  [
+   3,
+   "/blog/hardwood-flooring-cost-longboat-key/"
+  ],
+  [
+   3,
+   "/blog/hardwood-flooring-cost-palmetto/"
+  ],
+  [
+   3,
+   "/blog/hardwood-flooring-cost-parrish/"
+  ],
+  [
+   3,
+   "/blog/hardwood-flooring-cost-sarasota/"
+  ],
+  [
+   3,
+   "/blog/hardwood-flooring-cost-siesta-key/"
+  ],
+  [
+   3,
+   "/blog/hardwood-flooring-cost-venice/"
+  ],
+  [
+   3,
+   "/blog/laminate-flooring-cost-bradenton/"
+  ],
+  [
+   3,
+   "/blog/laminate-flooring-cost-lakewood-ranch/"
+  ],
+  [
+   3,
+   "/blog/laminate-flooring-cost-longboat-key/"
+  ],
+  [
+   3,
+   "/blog/laminate-flooring-cost-palmetto/"
+  ]
+ ],
+ "external_domains": [
+  [
+   "g.page",
+   187
+  ],
+  [
+   "brazacleaning.com",
+   124
+  ],
+  [
+   "ocoeeconcrete.com",
+   124
+  ],
+  [
+   "thevillagesremodeling.com",
+   124
+  ]
+ ],
+ "top_anchors_sample": {},
+ "internal_dup_pairs_over15": 3800,
+ "internal_dup_top": [
+  [
+   0.836,
+   "/hardwood-flooring/palmetto/",
+   "/hardwood-flooring/parrish/"
+  ],
+  [
+   0.835,
+   "/hardwood-flooring/parrish/",
+   "/hardwood-flooring/venice/"
+  ],
+  [
+   0.834,
+   "/hardwood-flooring/longboat-key/",
+   "/hardwood-flooring/parrish/"
+  ],
+  [
+   0.833,
+   "/vinyl-plank-flooring/palmetto/",
+   "/vinyl-plank-flooring/parrish/"
+  ],
+  [
+   0.833,
+   "/hardwood-flooring/parrish/",
+   "/hardwood-flooring/siesta-key/"
+  ],
+  [
+   0.833,
+   "/hardwood-flooring/parrish/",
+   "/hardwood-flooring/sarasota/"
+  ],
+  [
+   0.833,
+   "/hardwood-flooring/palmetto/",
+   "/hardwood-flooring/venice/"
+  ],
+  [
+   0.833,
+   "/hardwood-flooring/lakewood-ranch/",
+   "/hardwood-flooring/parrish/"
+  ],
+  [
+   0.833,
+   "/hardwood-flooring/bradenton/",
+   "/hardwood-flooring/parrish/"
+  ],
+  [
+   0.832,
+   "/hardwood-flooring/",
+   "/hardwood-flooring/sarasota/"
+  ],
+  [
+   0.832,
+   "/hardwood-flooring/",
+   "/hardwood-flooring/lakewood-ranch/"
+  ],
+  [
+   0.831,
+   "/vinyl-plank-flooring/parrish/",
+   "/vinyl-plank-flooring/venice/"
+  ],
+  [
+   0.831,
+   "/vinyl-plank-flooring/longboat-key/",
+   "/vinyl-plank-flooring/parrish/"
+  ],
+  [
+   0.831,
+   "/hardwood-flooring/longboat-key/",
+   "/hardwood-flooring/palmetto/"
+  ],
+  [
+   0.83,
+   "/vinyl-plank-flooring/parrish/",
+   "/vinyl-plank-flooring/sarasota/"
+  ],
+  [
+   0.83,
+   "/vinyl-plank-flooring/bradenton/",
+   "/vinyl-plank-flooring/parrish/"
+  ],
+  [
+   0.83,
+   "/hardwood-flooring/palmetto/",
+   "/hardwood-flooring/siesta-key/"
+  ],
+  [
+   0.829,
+   "/vinyl-plank-flooring/parrish/",
+   "/vinyl-plank-flooring/siesta-key/"
+  ],
+  [
+   0.829,
+   "/vinyl-plank-flooring/palmetto/",
+   "/vinyl-plank-flooring/venice/"
+  ],
+  [
+   0.829,
+   "/vinyl-plank-flooring/lakewood-ranch/",
+   "/vinyl-plank-flooring/parrish/"
+  ],
+  [
+   0.829,
+   "/hardwood-flooring/palmetto/",
+   "/hardwood-flooring/sarasota/"
+  ],
+  [
+   0.829,
+   "/hardwood-flooring/bradenton/",
+   "/hardwood-flooring/palmetto/"
+  ],
+  [
+   0.828,
+   "/vinyl-plank-flooring/longboat-key/",
+   "/vinyl-plank-flooring/palmetto/"
+  ],
+  [
+   0.828,
+   "/hardwood-flooring/lakewood-ranch/",
+   "/hardwood-flooring/palmetto/"
+  ],
+  [
+   0.827,
+   "/vinyl-plank-flooring/palmetto/",
+   "/vinyl-plank-flooring/siesta-key/"
+  ],
+  [
+   0.827,
+   "/tile-installation/palmetto/",
+   "/tile-installation/parrish/"
+  ],
+  [
+   0.827,
+   "/hardwood-flooring/",
+   "/hardwood-flooring/siesta-key/"
+  ],
+  [
+   0.826,
+   "/vinyl-plank-flooring/",
+   "/vinyl-plank-flooring/sarasota/"
+  ],
+  [
+   0.826,
+   "/tile-installation/parrish/",
+   "/tile-installation/venice/"
+  ],
+  [
+   0.825,
+   "/vinyl-plank-flooring/palmetto/",
+   "/vinyl-plank-flooring/sarasota/"
+  ]
+ ],
+ "uniq_share_lowest": [
+  [
+   "/hardwood-flooring/sarasota/",
+   0.047
+  ],
+  [
+   "/vinyl-plank-flooring/sarasota/",
+   0.049
+  ],
+  [
+   "/hardwood-flooring/longboat-key/",
+   0.051
+  ],
+  [
+   "/hardwood-flooring/bradenton/",
+   0.053
+  ],
+  [
+   "/hardwood-flooring/lakewood-ranch/",
+   0.053
+  ],
+  [
+   "/hardwood-flooring/venice/",
+   0.053
+  ],
+  [
+   "/vinyl-plank-flooring/longboat-key/",
+   0.053
+  ],
+  [
+   "/blog/vinyl-plank-flooring-cost-longboat-key/",
+   0.054
+  ],
+  [
+   "/blog/vinyl-plank-flooring-cost-siesta-key/",
+   0.054
+  ],
+  [
+   "/hardwood-flooring/siesta-key/",
+   0.054
+  ],
+  [
+   "/tile-installation/sarasota/",
+   0.054
+  ],
+  [
+   "/vinyl-plank-flooring/lakewood-ranch/",
+   0.055
+  ],
+  [
+   "/blog/hardwood-flooring-cost-longboat-key/",
+   0.056
+  ],
+  [
+   "/blog/hardwood-flooring-cost-siesta-key/",
+   0.056
+  ],
+  [
+   "/floor-repair/sarasota/",
+   0.056
+  ],
+  [
+   "/hardwood-flooring/palmetto/",
+   0.056
+  ],
+  [
+   "/hardwood-flooring/parrish/",
+   0.056
+  ],
+  [
+   "/vinyl-plank-flooring/siesta-key/",
+   0.056
+  ],
+  [
+   "/vinyl-plank-flooring/venice/",
+   0.056
+  ],
+  [
+   "/vinyl-plank-flooring/bradenton/",
+   0.057
+  ],
+  [
+   "/blog/vinyl-plank-flooring-cost-lakewood-ranch/",
+   0.058
+  ],
+  [
+   "/tile-installation/longboat-key/",
+   0.059
+  ],
+  [
+   "/blog/hardwood-flooring-cost-lakewood-ranch/",
+   0.06
+  ],
+  [
+   "/blog/hardwood-flooring-cost-sarasota/",
+   0.06
+  ],
+  [
+   "/hardwood-flooring/",
+   0.06
+  ],
+  [
+   "/laminate-flooring/sarasota/",
+   0.06
+  ],
+  [
+   "/stair-treads/sarasota/",
+   0.06
+  ],
+  [
+   "/tile-installation/bradenton/",
+   0.06
+  ],
+  [
+   "/tile-installation/venice/",
+   0.06
+  ],
+  [
+   "/vinyl-plank-flooring/palmetto/",
+   0.06
+  ]
+ ],
+ "uniq_share_mean": 0.181,
+ "siblings": {
+  "bradentonflooring": {
+   "pages": 67,
+   "over5pct": 0,
+   "top": [],
+   "mean": 0
+  },
+  "triangleflooring": {
+   "pages": 301,
+   "over5pct": 0,
+   "top": [],
+   "mean": 0
+  },
+  "napasflooring": {
+   "pages": 155,
+   "over5pct": 40,
+   "top": [
+    [
+     0.112,
+     "/vinyl-plank-flooring/parrish/",
+     "/vinyl-plank-flooring/",
+     0.057
+    ],
+    [
+     0.112,
+     "/vinyl-plank-flooring/palmetto/",
+     "/vinyl-plank-flooring/",
+     0.057
+    ],
+    [
+     0.11,
+     "/vinyl-plank-flooring/",
+     "/vinyl-plank-flooring/",
+     0.055
+    ],
+    [
+     0.109,
+     "/vinyl-plank-flooring/siesta-key/",
+     "/vinyl-plank-flooring/",
+     0.056
+    ],
+    [
+     0.109,
+     "/vinyl-plank-flooring/longboat-key/",
+     "/vinyl-plank-flooring/",
+     0.056
+    ],
+    [
+     0.109,
+     "/vinyl-plank-flooring/bradenton/",
+     "/vinyl-plank-flooring/",
+     0.054
+    ],
+    [
+     0.108,
+     "/vinyl-plank-flooring/sarasota/",
+     "/vinyl-plank-flooring/",
+     0.053
+    ],
+    [
+     0.105,
+     "/vinyl-plank-flooring/venice/",
+     "/vinyl-plank-flooring/",
+     0.053
+    ],
+    [
+     0.104,
+     "/vinyl-plank-flooring/lakewood-ranch/",
+     "/vinyl-plank-flooring/",
+     0.052
+    ],
+    [
+     0.082,
+     "/hardwood-flooring/",
+     "/hardwood-flooring/",
+     0.055
+    ],
+    [
+     0.08,
+     "/hardwood-flooring/parrish/",
+     "/hardwood-flooring/",
+     0.057
+    ],
+    [
+     0.08,
+     "/hardwood-flooring/palmetto/",
+     "/hardwood-flooring/",
+     0.057
+    ],
+    [
+     0.078,
+     "/hardwood-flooring/siesta-key/",
+     "/hardwood-flooring/",
+     0.055
+    ],
+    [
+     0.078,
+     "/hardwood-flooring/sarasota/",
+     "/hardwood-flooring/",
+     0.053
+    ],
+    [
+     0.078,
+     "/hardwood-flooring/longboat-key/",
+     "/hardwood-flooring/",
+     0.055
+    ],
+    [
+     0.077,
+     "/hardwood-flooring/bradenton/",
+     "/hardwood-flooring/",
+     0.054
+    ],
+    [
+     0.075,
+     "/hardwood-flooring/venice/",
+     "/hardwood-flooring/",
+     0.053
+    ],
+    [
+     0.075,
+     "/hardwood-flooring/lakewood-ranch/",
+     "/hardwood-flooring/",
+     0.052
+    ],
+    [
+     0.074,
+     "/blog/vinyl-plank-flooring-cost-sarasota/",
+     "/blog/vinyl-plank-flooring-cost-sarasota/",
+     0.042
+    ],
+    [
+     0.074,
+     "/blog/vinyl-plank-flooring-cost-bradenton/",
+     "/blog/vinyl-plank-flooring-cost-bradenton/",
+     0.042
+    ],
+    [
+     0.072,
+     "/blog/vinyl-plank-flooring-cost-parrish/",
+     "/blog/vinyl-plank-flooring-cost-parrish/",
+     0.043
+    ],
+    [
+     0.072,
+     "/blog/vinyl-plank-flooring-cost-lakewood-ranch/",
+     "/blog/vinyl-plank-flooring-cost-lakewood-ranch/",
+     0.042
+    ],
+    [
+     0.071,
+     "/blog/vinyl-plank-flooring-cost-venice/",
+     "/blog/vinyl-plank-flooring-cost-venice/",
+     0.042
+    ],
+    [
+     0.071,
+     "/blog/vinyl-plank-flooring-cost-palmetto/",
+     "/blog/vinyl-plank-flooring-cost-palmetto/",
+     0.042
+    ],
+    [
+     0.07,
+     "/blog/vinyl-plank-flooring-cost-siesta-key/",
+     "/blog/vinyl-plank-flooring-cost-bradenton/",
+     0.041
+    ]
+   ],
+   "mean": 0.077
+  },
+  "bvaflooring": {
+   "pages": 149,
+   "over5pct": 0,
+   "top": [],
+   "mean": 0
+  }
+ },
+ "keywords": {
+  "near me": {
+   "total": 0,
+   "pages": 0
+  },
+  "best flooring": {
+   "total": 5,
+   "pages": 4
+  },
+  "flooring company": {
+   "total": 238,
+   "pages": 88
+  },
+  "flooring installation": {
+   "total": 23,
+   "pages": 10
+  },
+  "flooring contractor": {
+   "total": 6,
+   "pages": 4
+  },
+  "flooring store": {
+   "total": 0,
+   "pages": 0
+  },
+  "floor installers": {
+   "total": 0,
+   "pages": 0
+  },
+  "free estimate": {
+   "total": 300,
+   "pages": 121
+  },
+  "licensed": {
+   "total": 12,
+   "pages": 11
+  },
+  "insured": {
+   "total": 2,
+   "pages": 2
+  },
+  "waterproof": {
+   "total": 245,
+   "pages": 69
+  },
+  "luxury vinyl": {
+   "total": 256,
+   "pages": 82
+  },
+  "lvp": {
+   "total": 771,
+   "pages": 103
+  },
+  "engineered hardwood": {
+   "total": 303,
+   "pages": 85
+  },
+  "hardwood flooring": {
+   "total": 234,
+   "pages": 73
+  },
+  "tile installation": {
+   "total": 237,
+   "pages": 74
+  },
+  "laminate": {
+   "total": 977,
+   "pages": 100
+  },
+  "stair treads": {
+   "total": 516,
+   "pages": 91
+  },
+  "floor repair": {
+   "total": 404,
+   "pages": 73
+  },
+  "refinishing": {
+   "total": 19,
+   "pages": 19
+  },
+  "carpet": {
+   "total": 201,
+   "pages": 103
+  },
+  "condo": {
+   "total": 69,
+   "pages": 15
+  },
+  "sound": {
+   "total": 65,
+   "pages": 57
+  },
+  "underlayment": {
+   "total": 61,
+   "pages": 44
+  },
+  "slab": {
+   "total": 611,
+   "pages": 114
+  },
+  "moisture": {
+   "total": 750,
+   "pages": 117
+  },
+  "humidity": {
+   "total": 137,
+   "pages": 66
+  },
+  "per square foot": {
+   "total": 77,
+   "pages": 62
+  },
+  "cost": {
+   "total": 802,
+   "pages": 114
+  },
+  "sarasota": {
+   "total": 1720,
+   "pages": 124
+  },
+  "bradenton": {
+   "total": 546,
+   "pages": 82
+  },
+  "lakewood ranch": {
+   "total": 562,
+   "pages": 82
+  },
+  "venice": {
+   "total": 653,
+   "pages": 74
+  },
+  "north port": {
+   "total": 0,
+   "pages": 0
+  },
+  "englewood": {
+   "total": 0,
+   "pages": 0
+  },
+  "osprey": {
+   "total": 0,
+   "pages": 0
+  },
+  "nokomis": {
+   "total": 0,
+   "pages": 0
+  },
+  "siesta key": {
+   "total": 539,
+   "pages": 82
+  },
+  "longboat key": {
+   "total": 541,
+   "pages": 82
+  },
+  "palmetto": {
+   "total": 484,
+   "pages": 67
+  },
+  "parrish": {
+   "total": 491,
+   "pages": 67
+  },
+  "ellenton": {
+   "total": 0,
+   "pages": 0
+  },
+  "anna maria": {
+   "total": 70,
+   "pages": 51
+  },
+  "port charlotte": {
+   "total": 0,
+   "pages": 0
+  }
+ },
+ "images": {
+  "total": 7,
+  "no_alt": 0,
+  "no_dims": 0
+ }
+}

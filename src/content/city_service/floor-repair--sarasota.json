@@ -1,0 +1,25 @@
+{
+  "floor-repair/sarasota": {
+    "title": "Floor Repair Sarasota FL | Condo Leaks & Slab Cracks",
+    "description": "Floor repair in Sarasota, FL for condo-tower water damage, slab-crack tile failures in Cherokee Park and Granada, and cupped hardwood after a closed summer.",
+    "h1": "Floor Repair in Sarasota: Leaks, Slab Cracks and Cupping",
+    "lede": "Three repair patterns dominate our Sarasota calls, and each one traces straight back to the decade the house or tower went up.",
+    "capsule": "Sarasota repair calls cluster in three places: condo towers with upstairs-unit water damage, Cherokee Park and Granada slab-crack tile failures, and snowbird homes in The Meadows with cupped hardwood after a closed-up summer. A typical tile repair runs $475-$1,110 installed in 2026; the $185 diagnostic visit credits toward the fix.",
+    "body_html": "<p>Three kinds of <a href=\"/floor-repair/\">repair</a> calls dominate our Sarasota schedule, and each one traces back to the city's housing mix described on our <a href=\"/sarasota/\">Sarasota area page</a>. In the bayfront and downtown condo towers, the most common call is water damage from a unit above: a failed ice-maker line or washing-machine hose in a neighbor's kitchen sends water down through the slab seam and into the ceiling and floor below. Association rules usually make the unit of origin responsible for the damage, but the floor repair itself, cracked or lifted tile, swollen cabinet toe-kicks, stained grout lines, is still ours to diagnose and fix regardless of whose insurance eventually pays.</p><p>Cherokee Park and Granada's mid-century block homes bring a different problem: hollow-sounding or tenting tile over a slab that developed a hairline crack decades after the original pour. Florida's expansive clay soils and seventy-plus years of thermal cycling move these old slabs just enough that tile set directly over the crack eventually telegraphs it, and the tile itself doesn't fail, the bond underneath does. We test with a tapping method first, since a hollow sound over a wide area versus an isolated tile tells us whether it's a bond failure or a growing slab crack, then decide whether crack-isolation membrane needs to go under the replacement tile or whether a straight pull-and-reset will hold, a distinction we cover in more depth on our <a href=\"/blog/floor-tiles-popping-up-sounding-hollow/\">blog</a>.</p><p>The third pattern shows up every October: cupped hardwood in a house that's been closed up for the summer. Sarasota has a real seasonal-owner population in neighborhoods like The Meadows and Three Oaks, and a house with the AC set to 85 degrees for four months while the outdoor dew point sits in the 70s pulls enough moisture into the wood to cup the planks. A 1988 Meadows-area home with 900 sq ft of solid oak flooring would typically show cupping concentrated near exterior walls and windows first, worst in the room that got the least airflow. Most of that reverses once the house re-acclimates for a few weeks at a normal humidity setting; the planks that don't flatten back out are the ones we replace.</p>",
+    "cost_html": "<p>A typical downtown Sarasota condo repair after an upstairs leak: five cracked porcelain tiles at $95-$185 each ($475-$925) plus a $185 diagnostic visit, which is credited toward the repair rather than added on top, so the total invoice runs $475-$925, not $660-$1,110.</p><p>A Cherokee Park slab-crack tile repair (six tiles along the crack line plus crack-isolation membrane) runs similarly: $570-$1,110 for the tile work, with regrouting the surrounding field at $3.50-$7.00 per sq ft if the grout lines don't match cleanly. Cupped-hardwood repair prices per plank at $95-$225, so an eight-plank cupping fix in a Meadows-area home runs $760-$1,800. Full pricing across every repair category is in our <a href=\"/cost/floor-repair/\">floor repair cost guide</a>.</p>",
+    "faqs": [
+      {
+        "q": "My downtown Sarasota condo has water damage from the unit above. Who fixes the floor?",
+        "a": "The unit where the leak started is usually responsible for the damage under most Sarasota association rules, but we diagnose and repair the affected floor regardless of which insurance policy ends up paying, since the tile and subfloor need attention either way."
+      },
+      {
+        "q": "Why is my tile hollow-sounding in my Cherokee Park home?",
+        "a": "Sarasota's mid-century block homes sit on slabs that have had seventy-plus years to develop hairline cracks, and tile set directly over a moving crack eventually loses its bond even though the tile itself is fine. That hollow sound means the bond failed, not the tile."
+      },
+      {
+        "q": "Why did my hardwood floor cup while I was away for the summer in Sarasota?",
+        "a": "Closing up a house with the AC set high for months, common in The Meadows and other seasonal-owner neighborhoods, lets indoor humidity climb enough to swell hardwood plank edges. Most of that reverses once the home re-acclimates, which is why we recommend a humidistat setting before you leave."
+      }
+    ]
+  }
+}

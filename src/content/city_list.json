@@ -1,0 +1,191 @@
+[
+ {
+  "slug": "sarasota",
+  "name": "Sarasota",
+  "county": "Sarasota County",
+  "distance_mi": 0,
+  "drive_min": 10,
+  "tier": 1,
+  "core": true
+ },
+ {
+  "slug": "siesta-key",
+  "name": "Siesta Key",
+  "county": "Sarasota County",
+  "distance_mi": 5,
+  "drive_min": 18,
+  "tier": 1,
+  "core": true
+ },
+ {
+  "slug": "lakewood-ranch",
+  "name": "Lakewood Ranch",
+  "county": "Manatee & Sarasota counties",
+  "distance_mi": 8,
+  "drive_min": 22,
+  "tier": 1,
+  "core": true
+ },
+ {
+  "slug": "longboat-key",
+  "name": "Longboat Key",
+  "county": "Sarasota & Manatee counties",
+  "distance_mi": 10,
+  "drive_min": 25,
+  "tier": 1,
+  "core": true
+ },
+ {
+  "slug": "osprey",
+  "name": "Osprey",
+  "county": "Sarasota County",
+  "distance_mi": 10,
+  "drive_min": 20,
+  "tier": 1,
+  "core": false
+ },
+ {
+  "slug": "bradenton",
+  "name": "Bradenton",
+  "county": "Manatee County",
+  "distance_mi": 12,
+  "drive_min": 28,
+  "tier": 1,
+  "core": true
+ },
+ {
+  "slug": "palmetto",
+  "name": "Palmetto",
+  "county": "Manatee County",
+  "distance_mi": 13,
+  "drive_min": 32,
+  "tier": 1,
+  "core": true
+ },
+ {
+  "slug": "ellenton",
+  "name": "Ellenton",
+  "county": "Manatee County",
+  "distance_mi": 13,
+  "drive_min": 30,
+  "tier": 1,
+  "core": false
+ },
+ {
+  "slug": "nokomis",
+  "name": "Nokomis",
+  "county": "Sarasota County",
+  "distance_mi": 16,
+  "drive_min": 28,
+  "tier": 2,
+  "core": false
+ },
+ {
+  "slug": "anna-maria-island",
+  "name": "Anna Maria Island",
+  "county": "Manatee County",
+  "distance_mi": 17,
+  "drive_min": 45,
+  "tier": 2,
+  "core": false
+ },
+ {
+  "slug": "venice",
+  "name": "Venice",
+  "county": "Sarasota County",
+  "distance_mi": 17,
+  "drive_min": 32,
+  "tier": 2,
+  "core": true
+ },
+ {
+  "slug": "parrish",
+  "name": "Parrish",
+  "county": "Manatee County",
+  "distance_mi": 19,
+  "drive_min": 38,
+  "tier": 2,
+  "core": true
+ },
+ {
+  "slug": "myakka-city",
+  "name": "Myakka City",
+  "county": "Manatee County",
+  "distance_mi": 23,
+  "drive_min": 40,
+  "tier": 2,
+  "core": false
+ },
+ {
+  "slug": "wellen-park",
+  "name": "Wellen Park",
+  "county": "Sarasota County",
+  "distance_mi": 24,
+  "drive_min": 42,
+  "tier": 2,
+  "core": false
+ },
+ {
+  "slug": "north-port",
+  "name": "North Port",
+  "county": "Sarasota County",
+  "distance_mi": 27,
+  "drive_min": 45,
+  "tier": 2,
+  "core": false
+ },
+ {
+  "slug": "ruskin",
+  "name": "Ruskin",
+  "county": "Hillsborough County",
+  "distance_mi": 27,
+  "drive_min": 45,
+  "tier": 2,
+  "core": false
+ },
+ {
+  "slug": "englewood",
+  "name": "Englewood",
+  "county": "Sarasota & Charlotte counties",
+  "distance_mi": 28,
+  "drive_min": 55,
+  "tier": 2,
+  "core": false
+ },
+ {
+  "slug": "sun-city-center",
+  "name": "Sun City Center",
+  "county": "Hillsborough County",
+  "distance_mi": 29,
+  "drive_min": 45,
+  "tier": 2,
+  "core": false
+ },
+ {
+  "slug": "apollo-beach",
+  "name": "Apollo Beach",
+  "county": "Hillsborough County",
+  "distance_mi": 31,
+  "drive_min": 50,
+  "tier": 3,
+  "core": false
+ },
+ {
+  "slug": "port-charlotte",
+  "name": "Port Charlotte",
+  "county": "Charlotte County",
+  "distance_mi": 37,
+  "drive_min": 55,
+  "tier": 3,
+  "core": false
+ },
+ {
+  "slug": "riverview",
+  "name": "Riverview",
+  "county": "Hillsborough County",
+  "distance_mi": 39,
+  "drive_min": 55,
+  "tier": 3,
+  "core": false
+ }
+]

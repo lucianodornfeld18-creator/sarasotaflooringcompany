@@ -1,0 +1,57 @@
+{
+ "slug": "test-concrete-slab-moisture-before-installing-flooring",
+ "question": "How do you test a concrete slab for moisture before installing flooring?",
+ "title": "How to Test a Concrete Slab for Moisture Before Flooring",
+ "h1": "How Do You Test a Concrete Slab for Moisture Before Installing Flooring?",
+ "description": "Slabs are tested with ASTM F2170 relative humidity probes or F1869 calcium chloride; the default limit is 75% RH or 3 lbs per 1,000 sq ft.",
+ "cluster": "concrete-slab-subfloor",
+ "cluster_label": "Concrete slabs & subfloors",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "Concrete slabs get tested with ASTM F2170 relative humidity probes, set at 40% of slab depth, or ASTM F1869 calcium chloride tests measuring vapor emission over 24 hours. The default acceptable reading is 75% RH or 3 lbs per 1,000 sq ft per 24 hours, unless the flooring manufacturer specifies a higher limit, and we run this before quoting any wood or vinyl job on a Sarasota-area slab.",
+ "sections": [
+  {
+   "h2": "The Two Tests Installers Actually Use",
+   "html": "<p>Two ASTM tests cover almost every slab-moisture question in flooring: F2170 and F1869. F2170 measures in-situ relative humidity by drilling small holes into the slab, inserting sensors, and letting them fully equilibrate for at least 24 hours before reading the final percentage. F1869, the older, simpler calcium chloride test, seals a small dish of desiccant to the slab surface for 60 to 72 hours and weighs how much moisture it absorbed, reported in pounds per 1,000 sq ft per 24 hours. F2170 reads deeper into the slab and is what most manufacturers, including Shaw, now require for warranty coverage; F1869 only measures what's happening at the surface, which can understate a real problem sitting deeper in a thick slab.</p>"
+  },
+  {
+   "h2": "What Counts as an Acceptable Moisture Reading",
+   "html": "<p>The default ceiling under ASTM F710 and F2170 is 75% relative humidity, and under F1869 it's 3 lbs per 1,000 sq ft per 24 hours, unless the specific flooring or adhesive manufacturer states a higher number in writing. Some products allow more: Shaw's Floorte Pro SPC line permits up to 90% RH or 8 lbs in its tested system, with slab pH capped at 9 to 10. A slab that fails the default limit isn't automatically unusable, it just means the product choice narrows to whatever line is actually rated for that reading, or a vapor-retarder system gets added to the plan.</p>"
+  },
+  {
+   "h2": "How the Test Actually Happens on Your Slab",
+   "html": "<p>For F2170, probes go in at 40% of the slab's depth, the standard placement for a slab that's only drying from the top surface, which describes almost every slab-on-grade home from Sarasota to Bradenton. Shaw's guidance, and most manufacturers, call for a minimum of three test locations across the first 1,000 sq ft, more on larger jobs, because a slab can read differently near an exterior wall than in the middle of a room. We schedule this on the same visit as the in-home estimate so the reading is in hand before we write a wood or vinyl quote, not discovered after material is ordered.</p>"
+  },
+  {
+   "h2": "What We Do If the Slab Fails",
+   "html": "<p>A high reading changes the plan, not the timeline more than necessary. Options include a rated vapor-retarder membrane between the slab and the flooring, switching to a product line tested for higher moisture like some SPC <a href=\"/vinyl-plank-flooring/\">vinyl plank</a>, or letting the slab dry longer before install, sometimes with fans and dehumidification to speed it along. <a href=\"/blog/install-hardwood-flooring-directly-concrete-slab/\">If hardwood is the goal, here's how a failed reading changes that specific decision</a>, and <a href=\"/subfloor-leveling/\">slab leveling and moisture prep</a> covers the work itself once we know which direction the numbers point.</p>"
+  },
+  {
+   "h2": "Why We Don't Skip This Step to Save a Trip",
+   "html": "<p>It would be faster to eyeball a slab, quote the job, and deal with problems later, but that's exactly the shortcut that turns into a warranty dispute or a callback six months after install. A slab that looks and feels dry can still fail F2170 by a wide margin, especially one poured within the last year, since concrete keeps releasing water long after it's cured enough to walk on. We build the test into the free in-home estimate rather than pricing it as an add-on, because a quote written without a moisture number isn't really a quote for <a href=\"/hardwood-flooring/\">hardwood</a> or vinyl, it's a guess with a dollar figure attached, and every <a href=\"/cost/\">flooring cost</a> in this market traces straight back to what that reading turns out to be, for better or worse, once the job actually starts.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Test", "What It Measures", "Default Limit"],
+  "rows": [
+   ["ASTM F2170 (RH probe)", "In-situ relative humidity at 40% slab depth", "75% RH (unless manufacturer allows more)"],
+   ["ASTM F1869 (calcium chloride)", "Surface moisture vapor emission over 24 hours", "3 lbs per 1,000 sq ft per 24 hours"]
+  ],
+  "caption": "Default ASTM limits per IFTI; some manufacturers, like Shaw's Floorte Pro SPC line, permit higher readings in their tested systems"
+ },
+ "faqs": [
+  {"q": "How long does slab moisture testing take?", "a": "F2170 probes need at least 24 hours to equilibrate after they're set, and F1869 dishes sit for 60 to 72 hours. We typically set probes on the estimate visit and collect the reading a day or two later, before finalizing the quote."},
+  {"q": "Is a moisture reading required, or just recommended?", "a": "Most flooring manufacturers require documented F2170 (or F1869) results to honor the product warranty. Skipping the test doesn't just risk the floor, it can void coverage if a moisture-related failure shows up later."},
+  {"q": "Does a new slab need the same test as an older one?", "a": "Yes, and new slabs often read higher since concrete keeps curing and releasing water for a year or more. A slab poured within the last 12 months is worth testing even if it looks and feels dry."}
+ ],
+ "next_step": "We include slab moisture testing with every free in-home estimate for hardwood, engineered wood or vinyl plank, so the quote you get already accounts for your actual reading.",
+ "sources": [
+  {"title": "IFTI -- ASTM F2170 vs F1869", "url": "https://ifti.com/astm-f2170-vs-f1869-which-moisture-test-fits-your-project/"},
+  {"title": "NWFA Concrete Subfloors guidance (PDF)", "url": "https://nwfa.org/wp-content/uploads/2020/03/Concrete-Subfloors_Updated.pdf"},
+  {"title": "Shaw Floorte Pro SPC installation guide (PDF)", "url": "https://www.cfiu.org/wp-content/uploads/2022/01/Shaw-Floors-Floorte-Pro-6-7-10-Installation-pdf-generated-on-12_30_2021.pdf"}
+ ],
+ "related_services": ["hardwood-flooring", "vinyl-plank-flooring"],
+ "related_cities": ["sarasota", "bradenton"],
+ "related_posts": ["moisture-barrier-under-vinyl-plank-flooring-concrete-slab", "install-hardwood-flooring-directly-concrete-slab", "glue-down-floating-better-floors-florida-concrete-slab", "flat-concrete-floor-vinyl-plank-flooring", "long-slab-dry-after-flooding-before-new-floors"],
+ "keywords": ["test concrete slab moisture", "ASTM F2170", "ASTM F1869", "acceptable moisture level concrete slab", "slab moisture testing flooring Florida"]
+}

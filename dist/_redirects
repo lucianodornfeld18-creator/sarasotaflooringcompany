@@ -1,0 +1,90 @@
+# Common redirect patterns for Sarasota Flooring Company
+# Catches old URLs, vanity URLs, and common typos
+
+# Catch www → bare domain (Cloudflare-side)
+# Catch trailing-slash variants
+/home / 301
+/index / 301
+/index.html / 301
+
+# Service-area shorthand
+/services /hardwood-flooring/ 301
+/areas /sarasota/ 301
+
+# Common typos & vanity
+/quote /contact/ 301
+/estimate /contact/ 301
+/free-quote /contact/ 301
+/free-estimate /contact/ 301
+/call /contact/ 301
+/phone /contact/ 301
+
+# Service shortcuts
+/hardwood /hardwood-flooring/ 301
+/vinyl /vinyl-plank-flooring/ 301
+/lvp /vinyl-plank-flooring/ 301
+/spc /vinyl-plank-flooring/ 301
+/tile /tile-installation/ 301
+/laminate /laminate-flooring/ 301
+/stairs /stair-treads/ 301
+/repair /floor-repair/ 301
+
+# City shortcuts
+/sarasota-fl /sarasota/ 301
+/bradenton-fl /bradenton/ 301
+/lakewood-ranch-fl /lakewood-ranch/ 301
+
+# 404 fallback (Cloudflare auto-serves /404.html on miss)
+
+# --- v2: consolidated cost-by-city posts -> cost guides
+/blog/hardwood-flooring-cost-sarasota/ /cost/hardwood-flooring/ 301
+/blog/hardwood-flooring-cost-bradenton/ /cost/hardwood-flooring/ 301
+/blog/hardwood-flooring-cost-lakewood-ranch/ /cost/hardwood-flooring/ 301
+/blog/hardwood-flooring-cost-venice/ /cost/hardwood-flooring/ 301
+/blog/hardwood-flooring-cost-parrish/ /cost/hardwood-flooring/ 301
+/blog/hardwood-flooring-cost-palmetto/ /cost/hardwood-flooring/ 301
+/blog/hardwood-flooring-cost-siesta-key/ /cost/hardwood-flooring/ 301
+/blog/hardwood-flooring-cost-longboat-key/ /cost/hardwood-flooring/ 301
+/blog/vinyl-plank-flooring-cost-sarasota/ /cost/vinyl-plank-flooring/ 301
+/blog/vinyl-plank-flooring-cost-bradenton/ /cost/vinyl-plank-flooring/ 301
+/blog/vinyl-plank-flooring-cost-lakewood-ranch/ /cost/vinyl-plank-flooring/ 301
+/blog/vinyl-plank-flooring-cost-venice/ /cost/vinyl-plank-flooring/ 301
+/blog/vinyl-plank-flooring-cost-parrish/ /cost/vinyl-plank-flooring/ 301
+/blog/vinyl-plank-flooring-cost-palmetto/ /cost/vinyl-plank-flooring/ 301
+/blog/vinyl-plank-flooring-cost-siesta-key/ /cost/vinyl-plank-flooring/ 301
+/blog/vinyl-plank-flooring-cost-longboat-key/ /cost/vinyl-plank-flooring/ 301
+/blog/tile-installation-cost-sarasota/ /cost/tile-installation/ 301
+/blog/tile-installation-cost-bradenton/ /cost/tile-installation/ 301
+/blog/tile-installation-cost-lakewood-ranch/ /cost/tile-installation/ 301
+/blog/tile-installation-cost-venice/ /cost/tile-installation/ 301
+/blog/tile-installation-cost-parrish/ /cost/tile-installation/ 301
+/blog/tile-installation-cost-palmetto/ /cost/tile-installation/ 301
+/blog/tile-installation-cost-siesta-key/ /cost/tile-installation/ 301
+/blog/tile-installation-cost-longboat-key/ /cost/tile-installation/ 301
+/blog/laminate-flooring-cost-sarasota/ /cost/laminate-flooring/ 301
+/blog/laminate-flooring-cost-bradenton/ /cost/laminate-flooring/ 301
+/blog/laminate-flooring-cost-lakewood-ranch/ /cost/laminate-flooring/ 301
+/blog/laminate-flooring-cost-venice/ /cost/laminate-flooring/ 301
+/blog/laminate-flooring-cost-parrish/ /cost/laminate-flooring/ 301
+/blog/laminate-flooring-cost-palmetto/ /cost/laminate-flooring/ 301
+/blog/laminate-flooring-cost-siesta-key/ /cost/laminate-flooring/ 301
+/blog/laminate-flooring-cost-longboat-key/ /cost/laminate-flooring/ 301
+/blog/stair-treads-cost-sarasota/ /cost/stair-treads/ 301
+/blog/stair-treads-cost-bradenton/ /cost/stair-treads/ 301
+/blog/stair-treads-cost-lakewood-ranch/ /cost/stair-treads/ 301
+/blog/stair-treads-cost-venice/ /cost/stair-treads/ 301
+/blog/stair-treads-cost-parrish/ /cost/stair-treads/ 301
+/blog/stair-treads-cost-palmetto/ /cost/stair-treads/ 301
+/blog/stair-treads-cost-siesta-key/ /cost/stair-treads/ 301
+/blog/stair-treads-cost-longboat-key/ /cost/stair-treads/ 301
+/blog/floor-repair-cost-sarasota/ /cost/floor-repair/ 301
+/blog/floor-repair-cost-bradenton/ /cost/floor-repair/ 301
+/blog/floor-repair-cost-lakewood-ranch/ /cost/floor-repair/ 301
+/blog/floor-repair-cost-venice/ /cost/floor-repair/ 301
+/blog/floor-repair-cost-parrish/ /cost/floor-repair/ 301
+/blog/floor-repair-cost-palmetto/ /cost/floor-repair/ 301
+/blog/floor-repair-cost-siesta-key/ /cost/floor-repair/ 301
+/blog/floor-repair-cost-longboat-key/ /cost/floor-repair/ 301
+/blog/best-flooring-sarasota-humidity/ /blog/best-flooring-florida-home/ 301
+/blog/flooring-short-term-rental-sarasota/ /blog/ 301
+/blog/lakewood-ranch-flooring-replacement-window/ /lakewood-ranch/ 301

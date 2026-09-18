@@ -1,0 +1,64 @@
+{
+ "slug": "replace-floors-before-selling-house",
+ "question": "Should I replace my floors before selling my house?",
+ "title": "Should You Replace Your Floors Before Selling?",
+ "h1": "Is It Worth Replacing Your Floors Before You List Your House?",
+ "description": "Replacing worn or dated flooring before selling often pays back most of its cost; a 2022 NAR/NARI report puts new wood flooring recovery at 118%.",
+ "cluster": "resale-value",
+ "cluster_label": "Resale value",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "It depends on your floor's condition, not a blanket rule. If flooring is worn, stained or visibly dated, replacing it before listing usually pays for itself; the 2022 NAR/NARI Remodeling Impact Report found new wood flooring recovered 118% of its cost at resale. If your existing floor is in decent shape, a refinish or targeted repair is often the better return for less money and less time before closing.",
+ "sections": [
+  {
+   "h2": "Should You Replace Flooring Before Selling?",
+   "html": "<p>Start by being honest about condition, not age. A 15-year-old hardwood floor that's just lost its shine is a refinishing candidate; a 15-year-old floor with pet stains, deep scratches or cupped boards is a different conversation. The 2022 NAR/NARI Remodeling Impact Report found new wood flooring installation recovered 118% of its cost at resale, and refinishing recovered even more, 147%, which tells you the market rewards fixing flooring problems before a buyer ever walks through the door rather than pricing around them after the fact.</p><p>Sellers often ask us this question the same week they're getting a pre-listing inspection, which is honestly the right time to ask it. A flooring problem that shows up on an inspection report tends to spook buyers more than the same problem noticed and priced in ahead of time during negotiations. Fixing it before the inspection also keeps it off the negotiation table entirely, rather than becoming a credit buyers ask for at closing, which usually costs more than the repair itself once negotiations start, and often comes with a buyer's markup attached besides, since a negotiated closing credit tends to run higher than a contractor's actual bid for the identical repair would have cost.</p>"
+  },
+  {
+   "h2": "When Replacing Pays Off",
+   "html": "<p>Worn carpet and dated tile are the two flooring issues that come up most often as buyer objections in Florida listings. If that describes your main living areas, kitchen or entry, replacement is usually worth it, since those are the rooms buyers judge hardest on a first walkthrough. Standard <a href=\"/vinyl-plank-flooring/\">vinyl plank</a> material and labor combined runs $5-$20 per square foot nationally depending on grade, which gives you a rough budget to weigh against your list price and timeline.</p><p>Water-damaged or actively failing flooring is the clearest case for replacement regardless of budget, since it's the kind of issue a home inspector will flag directly on a written report, which tends to affect negotiations more seriously than an outdated but structurally sound floor ever would.</p>"
+  },
+  {
+   "h2": "When You Might Skip It",
+   "html": "<p>If your existing hardwood is structurally sound and just needs its finish refreshed, a refinish is usually the stronger move financially and takes less time than a full tear-out and replace. Tile in good condition, even if it's not the newest style, rarely needs full replacement before a sale; it's damage and heavy wear that move the needle, not the tile's age by itself. If you're on a tight closing timeline, a full-house replacement may not be realistic anyway, which pushes the decision toward targeted repair.</p><p>A single-room fix, redoing just the primary bathroom or replacing carpet in one bedroom, can address a specific objection without the scope or timeline risk of a whole-house project. That's often the more realistic move once a closing date is already on the calendar and there's no room left for a project that runs long.</p>"
+  },
+  {
+   "h2": "Making the Call for Your House",
+   "html": "<p>Walk each room and ask honestly whether a buyer would notice the floor as a problem or just as background. For anything that reads as a problem, get a number before you decide, rather than guessing at cost from memory or an old quote. See our <a href=\"/blog/hardwood-flooring-cost-per-square-foot-installed/\">hardwood cost guide</a> and <a href=\"/floor-repair/\">floor repair</a> page for repair-versus-replace pricing, and ask us whether your existing workmanship warranty, if you have one, can transfer to the new owner. <a href=\"#estimate\">Request a free estimate</a> and we'll help you weigh cost against your timeline.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Floor condition", "Likely better move before listing"],
+  "rows": [
+   ["Worn or stained carpet", "Replace"],
+   ["Small dated tile, heavy grout wear", "Replace, or consider tile-over options"],
+   ["Hardwood with dull finish, no structural damage", "Refinish"],
+   ["Hardwood with deep scratches, stains or cupping", "Replace"],
+   ["Tile in good condition, just older style", "Leave as-is unless timeline and budget allow more"]
+  ],
+  "caption": "General guidance; confirm with a walkthrough estimate for your specific floors."
+ },
+ "faqs": [
+  {
+   "q": "How fast can flooring be replaced before closing?",
+   "a": "Timeline depends on square footage, material lead time and whether removal is needed. Ask us for a schedule estimate during your free consultation so you can plan against your closing date."
+  },
+  {
+   "q": "Does a flooring warranty transfer to the home's new owner?",
+   "a": "Ask your installer directly, since transfer terms vary. It's a reasonable question to raise before you sell if the work was done recently."
+  },
+  {
+   "q": "What if I don't have the budget to replace all the flooring before selling?",
+   "a": "Targeted repair, replacing just the worst room or fixing specific damage, can address the biggest buyer objections without a whole-house budget. We can walk your home and prioritize with you."
+  }
+ ],
+ "next_step": "Request a free estimate and we'll help you prioritize which rooms are worth fixing before you list.",
+ "sources": [
+  {"title": "Floor Trends: NAR/NARI Releases 2022 Remodeling Impact Report", "url": "https://www.floortrendsmag.com/articles/110579-nar-nari-releases-2022-remodeling-impact-report"},
+  {"title": "This Old House: Cost to Install Vinyl Plank Flooring", "url": "https://www.thisoldhouse.com/flooring/cost-to-install-vinyl-plank-flooring"}
+ ],
+ "related_services": ["floor-repair", "hardwood-flooring"],
+ "related_cities": ["sarasota", "bradenton"],
+ "related_posts": ["new-flooring-increase-home-value", "flooring-florida-home-buyers-want", "better-refinish-replace-hardwood-floors", "cost-refinish-hardwood-floors"],
+ "keywords": ["replace floors before selling house", "should i replace flooring before selling", "flooring resale value", "home selling flooring tips", "hardwood floor refinishing"]
+}

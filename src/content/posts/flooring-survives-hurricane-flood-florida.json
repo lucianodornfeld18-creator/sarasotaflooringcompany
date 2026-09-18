@@ -1,0 +1,49 @@
+{
+ "slug": "flooring-survives-hurricane-flood-florida",
+ "question": "What flooring survives a hurricane flood in Florida?",
+ "title": "What Flooring Survives a Hurricane Flood in Florida?",
+ "h1": "What Flooring Survives a Hurricane Flood in Florida?",
+ "description": "FEMA ranks flood-resistant materials in Classes 1-5; low-absorption porcelain tile (0.5% or less per ANSI) is a common below-grade pick.",
+ "cluster": "water-flood-hurricane",
+ "cluster_label": "Water, floods & hurricanes",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "No flooring type is truly hurricane-proof, but materials with very low water absorption hold up best. FEMA's Technical Bulletin 2 sorts building materials into Classes 1 through 5 by flood damage resistance, requiring Class 4 or 5 below the base flood elevation in a Special Flood Hazard Area. Porcelain tile, defined by ANSI as absorbing 0.5% or less water, is a common choice in Sarasota-area homes near open water.",
+ "sections": [
+  {
+   "h2": "The FEMA Framework Behind \"Flood-Resistant\"",
+   "html": "<p>FEMA's Technical Bulletin 2, updated January 2025, sorts building materials into Classes 1 through 5 by how well they survive contact with floodwater, and only materials rated Class 4 and 5 are allowed to be installed below the base flood elevation in a designated Special Flood Hazard Area. The bulletin doesn't hand every flooring product a single, easy-to-quote class rating; the actual classification depends on the specific product and how it's installed, which is why a local floodplain official or the manufacturer's documentation is the real source for a specific product's rating, not a general rule of thumb repeated online. For a Sarasota-area homeowner rebuilding after a storm, that means the class rating gets confirmed room by room rather than assumed for the whole house.</p>"
+  },
+  {
+   "h2": "Materials That Tend to Hold Up Better",
+   "html": "<p>Water absorption is the single property that matters most once floodwater actually gets involved, because a material that doesn't soak up water doesn't swell, delaminate, or hold contamination the way a porous one can. Porcelain tile is defined under ANSI A137.1 as tile with water absorption of 0.5% or less, tested under ASTM C373, a threshold low enough that only tile meeting that exact standard can carry official PTCA certification. That low-absorption property is a big part of why <a href=\"/tile-installation/\">porcelain tile</a> shows up so often in ground-floor rooms near open water, even before flooring choice ever reaches a formal FEMA classification question in a specific home's rebuild plan.</p>"
+  },
+  {
+   "h2": "What Milton and Helene Showed Us Locally",
+   "html": "<p>Hurricane Milton made landfall at Siesta Key on October 9, 2024 as a Category 3 storm. Helene's surge two weeks earlier caused damage to about 7,600 residences in unincorporated Sarasota County, over $1.1 billion, and about 2,200 structures on Longboat Key, roughly $176 million, according to county figures. Flooring was rarely the only casualty in those homes, but it was almost always among the first things gutted, because wet drywall, insulation and flooring together create the mold risk that drives a full remediation, not just a floor replacement, which is part of why material choice matters most in the rooms most likely to flood again.</p>"
+  },
+  {
+   "h2": "What We'd Install Below Base Flood Elevation",
+   "html": "<p>For a ground-floor room in a flood zone, or any space that's flooded before, we generally steer clients toward porcelain tile or a rigid, fully-adhered vinyl product over a properly prepared slab, and away from solid hardwood, which the NWFA already advises keeping above grade. <a href=\"/waterproof-flooring/\">Our waterproof flooring options</a> page covers the vinyl side of that choice. None of this replaces checking your specific flood zone and elevation certificate with Sarasota or Manatee County directly; the flooring decision follows the elevation determination, not the other way around.</p>"
+  },
+  {
+   "h2": "What We'd Avoid in a Ground-Floor Flood Zone",
+   "html": "<p>Solid hardwood tops that list for us, since the NWFA already advises keeping it above grade even without a flood risk added on top. Carpet and carpet pad are close behind, since both absorb and hold contaminated water in a way that's difficult to fully dry or sanitize, which is part of why so many post-storm remediation jobs start with carpet removal before anything else. <a href=\"/laminate-flooring/\">Laminate's</a> fiberboard core is also a poor match for a flood-prone room, since that core swells permanently once soaked, unlike a rigid vinyl or tile surface that can often be cleaned and dried. None of these choices are wrong for a home outside a flood zone; the calculus just changes once storm surge becomes a realistic scenario for that specific room.</p>"
+  }
+ ],
+ "faqs": [
+  {"q": "Is porcelain tile completely floodproof?", "a": "No material is completely immune to a major flood event, especially one involving contaminated storm surge, but porcelain tile's low water absorption means the tile itself typically survives even when the grout, cabinetry or drywall around it doesn't."},
+  {"q": "What about vinyl plank in a flood zone?", "a": "Rigid, fully-adhered vinyl plank with a moisture-rated adhesive can hold up reasonably well to clean water, but manufacturers generally don't warranty it against submersion in storm surge. See our guide on <a href=\"/blog/vinyl-plank-flooring-saved-after-flood/\">whether vinyl plank can be saved after a flood</a>."},
+  {"q": "Should I check my flood zone before choosing flooring?", "a": "Yes. Sarasota and Manatee County both publish flood zone maps and elevation data, and that determination affects which FEMA material class your ground-floor rooms actually need."}
+ ],
+ "next_step": "Tell us your flood zone or elevation certificate details and we'll recommend flooring for ground-floor rooms with that in mind, written into your free estimate.",
+ "sources": [
+  {"title": "FEMA Technical Bulletin 2 (Jan 2025 PDF)", "url": "https://www.fema.gov/sites/default/files/documents/fema_tb_2_flood_damage-resistant_materials_requirements_01-22-2025.pdf"},
+  {"title": "TCNA -- Porcelain Tile Certification (ANSI A137.1)", "url": "https://tcnatile.com/resource-center/porcelain-tile-certification/"},
+  {"title": "Sarasota County -- storm damage figures", "url": "https://www.scgov.net/Home/Components/News/News/8261/23"}
+ ],
+ "related_services": ["tile-installation", "vinyl-plank-flooring"],
+ "related_cities": ["siesta-key", "longboat-key", "sarasota"],
+ "related_posts": ["vinyl-plank-flooring-saved-after-flood", "water-damaged-hardwood-floors-saved", "homeowners-insurance-cover-flood-damaged-floors-florida", "soon-pull-up-wet-flooring-after-storm-surge", "whats-best-flooring-option-house-by-water"],
+ "keywords": ["flooring survives hurricane flood Florida", "flood-resistant flooring Florida", "FEMA flood damage flooring", "porcelain tile flood zone", "best flooring for flood zone Florida"]
+}

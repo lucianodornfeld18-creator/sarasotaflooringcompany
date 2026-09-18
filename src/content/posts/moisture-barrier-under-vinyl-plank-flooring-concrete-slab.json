@@ -1,0 +1,58 @@
+{
+ "slug": "moisture-barrier-under-vinyl-plank-flooring-concrete-slab",
+ "question": "Do I need a moisture barrier under vinyl plank flooring on a concrete slab?",
+ "title": "Do You Need a Moisture Barrier Under Vinyl Plank?",
+ "h1": "Do I Need a Moisture Barrier Under Vinyl Plank on a Concrete Slab?",
+ "description": "Often, yes -- most vinyl plank makers still cap slab moisture near 75-90% RH, and some SPC lines allow more only with a vapor barrier.",
+ "cluster": "concrete-slab-subfloor",
+ "cluster_label": "Concrete slabs & subfloors",
+ "date": "2026-09-18",
+ "updated": "2026-09-18",
+ "capsule": "It depends on the product, but often yes. Most floating LVP and LVT makers cap acceptable in-slab relative humidity at 75% to 85%; some rigid SPC lines allow up to 90% RH or 8 lbs per 1,000 sq ft per 24 hours within the manufacturer's tested system. A slab above the rated limit needs a vapor-retarder layer before vinyl plank goes down in a Sarasota-area home.",
+ "sections": [
+  {
+   "h2": "The Short Answer: It Depends on the Product, Not Just the Slab",
+   "html": "<p>Whether you need a separate moisture barrier under vinyl plank on a concrete slab depends on which product you're installing, because manufacturers set their own limits and their own required assemblies. Most floating LVP and LVT lines still cap acceptable in-slab relative humidity at 75% to 85%; go above that and the manufacturer's warranty typically requires a rated vapor-retarder layer between the slab and the plank, not just a slightly thicker foam pad underneath. Some rigid SPC lines allow more: Shaw's Floorte Pro guide permits up to 8 lbs per 1,000 sq ft per 24 hours (ASTM F1869) or 90% relative humidity (ASTM F2170) in its tested system, with slab pH capped at 9 to 10 and three moisture tests required for the first 1,000 sq ft of any given room or open floor plan.</p>"
+  },
+  {
+   "h2": "Why Floating Doesn't Get You Off the Hook",
+   "html": "<p>A floating floor, the kind that clicks together without glue, feels like it should sidestep slab moisture entirely since nothing is bonded to the concrete. It doesn't remove the limit, it just changes what fails when the slab is too wet. Instead of adhesive bond loss, a floating floor over an unaddressed wet slab tends to show swelling at the plank edges, locking mechanisms that won't stay tight, and the damp, low-airflow conditions underneath that support mold. The manufacturer's moisture cap still applies whether the floor is glued or floating; it's written into the warranty either way.</p>"
+  },
+  {
+   "h2": "What Actually Counts as a Barrier",
+   "html": "<p>A moisture barrier isn't the thin foam pad that comes attached to some click-together vinyl planks; that pad manages sound and comfort, not vapor. Mohawk's laminate installation guidance, which applies the same underlying principle to floating floors over concrete, calls for 6-mil polyethylene sheeting with seams overlapped at least 8 in., taped and run up the walls behind the baseboard. For vinyl plank specifically, that can mean a rated underlayment with a built-in vapor layer, a liquid-applied membrane troweled onto the slab, or, on the glue-down side, a moisture-mitigating adhesive rated for the reading you actually measured. <a href=\"/subfloor-leveling/\">Slab leveling and moisture prep</a> is where this usually gets addressed before flooring is ordered.</p>"
+  },
+  {
+   "h2": "What This Means for Your Quote",
+   "html": "<p>We test the slab before writing a <a href=\"/vinyl-plank-flooring/\">vinyl plank flooring</a> quote, not after, because the test result changes the line items on the quote itself. A clean reading under a product's stated limit needs no extra barrier beyond the standard underlayment. A high reading adds a vapor-retarder line, sometimes a different product line rated for wetter slabs, and occasionally a slab-drying delay before install. <a href=\"/blog/test-concrete-slab-moisture-before-installing-flooring/\">Here's exactly how we run that test</a>, and what the numbers mean once we have them.</p>"
+  },
+  {
+   "h2": "How This Compares to Laminate Over the Same Slab",
+   "html": "<p>Laminate flooring uses similar logic but a more specific spec: Mohawk's laminate guidance calls for 6-mil polyethylene film under every floating laminate installation over concrete, full stop, with no moisture-percentage exception built in the way some SPC vinyl lines allow. That makes laminate a slightly less forgiving product on a borderline slab reading, since the barrier isn't optional above some threshold, it's simply required regardless of how the slab tests. If you're weighing <a href=\"/laminate-flooring/\">laminate</a> against vinyl plank for the same room, <a href=\"/blog/moisture-barrier-under-laminate-concrete-floor/\">our laminate-specific moisture barrier guide</a> walks through that requirement in more detail, including how it interacts with the 8 in. seam overlap the film needs at every joint, and why we still test the slab before ordering either product for a Bradenton or Sarasota home.</p>"
+  }
+ ],
+ "table": {
+  "headers": ["Installation Type", "Typical Moisture Limit", "Barrier Usually Needed"],
+  "rows": [
+   ["Floating LVP/LVT (standard)", "75-85% RH", "Yes, above manufacturer's limit"],
+   ["Rigid SPC, tested system (e.g. Shaw Floorte Pro)", "Up to 90% RH / 8 lbs (F1869)", "Only if slab exceeds this higher limit"],
+   ["Glue-down vinyl plank", "Set by adhesive manufacturer", "Moisture-mitigating adhesive or membrane if slab is high"]
+  ],
+  "caption": "Manufacturer limits vary by product line; always confirmed against your slab's actual test result"
+ },
+ "faqs": [
+  {"q": "Does a thicker underlayment pad work as a moisture barrier?", "a": "No. The attached foam pad on many click-together planks is for sound and underfoot comfort, not vapor control. A true moisture barrier is a rated film, membrane, or moisture-mitigating adhesive sized to your slab's tested reading."},
+  {"q": "Can I skip the slab test if I'm using a 'waterproof' vinyl plank?", "a": "No. \"Waterproof\" describes the plank surface resisting spills and standing water, not the slab's moisture vapor emission from below. Those are two different problems, and the slab test still applies."},
+  {"q": "What if my slab fails the moisture test?", "a": "We'll discuss a vapor-retarder system, a product line rated for higher moisture, or letting the slab dry longer before install, all itemized on a written quote so you can see the trade-offs before committing."}
+ ],
+ "next_step": "We'll test your slab on the in-home estimate and build any moisture barrier your specific vinyl plank product requires directly into the written quote.",
+ "sources": [
+  {"title": "IFTI -- Acceptable moisture content, concrete & vinyl flooring", "url": "https://ifti.com/acceptable-moisture-content-concrete-vinyl-flooring/"},
+  {"title": "Mohawk laminate installation FAQ (PDF)", "url": "https://content.syndigo.com/legacy/sp/a/mohklamFAQ.pdf.pdf?spworld_assetname=4YV9qpwo.pdf&spworld_download=1&spworld_filename=mohklamFAQ.pdf.pdf"},
+  {"title": "Shaw Floorte Pro SPC installation guide (PDF)", "url": "https://www.cfiu.org/wp-content/uploads/2022/01/Shaw-Floors-Floorte-Pro-6-7-10-Installation-pdf-generated-on-12_30_2021.pdf"}
+ ],
+ "related_services": ["vinyl-plank-flooring", "laminate-flooring"],
+ "related_cities": ["sarasota", "bradenton"],
+ "related_posts": ["test-concrete-slab-moisture-before-installing-flooring", "mold-grow-under-vinyl-plank-flooring-florida-slab", "glue-down-floating-better-floors-florida-concrete-slab", "moisture-barrier-under-laminate-concrete-floor", "vinyl-plank-flooring-really-waterproof"],
+ "keywords": ["moisture barrier vinyl plank concrete", "vapor barrier LVP slab", "vinyl plank flooring concrete slab", "slab moisture vinyl plank Florida", "SPC flooring moisture limit"]
+}
