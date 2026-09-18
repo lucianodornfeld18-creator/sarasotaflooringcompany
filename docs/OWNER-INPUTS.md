@@ -50,3 +50,8 @@ O site inteiro tem **8 fotos**. É a maior fraqueza de conteúdo que sobrou.
 - `triangle-floor.com` e `napasflooring.com` usam a mesma arquitetura de URLs e miram Sarasota, Venice e Lakewood Ranch; `bradentonflooring.com` mira Bradenton. Medi sobreposição de texto: **0% com bradentonflooring, triangleflooring e bvaflooring; ~8% com napasflooring em 40 páginas antigas** (todas reescritas nesta versão).
 - Decisão aplicada neste site: nenhum link entre os sites da rede (tirei os 3 links de "partner sites" do rodapé — 372 links externos sitewide), nenhuma frase compartilhada, e estrutura de página diferente (cápsulas de resposta, guias de custo consolidados, páginas de condomínio/remoção/nivelamento que os irmãos não têm).
 - Recomendação: para **Bradenton**, deixar `bradentonflooring.com` como dono da intenção "flooring bradenton" e manter aqui só a página de cidade + serviço×cidade com conteúdo local próprio (já é assim). Reavaliar em 90 dias com dados do Search Console.
+
+## 7. Dois ajustes de painel do Cloudflare (o token do wrangler não tem escopo para isto)
+
+1. **Purgar o cache da zona** (Caching → Configuration → Purge Everything). Depois do deploy de 2026-09-18 o Pages já responde 404 para `/_data.py` e `/README.md`, mas a borda ainda guarda a cópia antiga de `/_data.py` de uma consulta feita de manhã. Expira sozinho; o purge resolve na hora.
+2. **Redirecionar `www` → domínio raiz** (Rules → Redirect Rules → "Redirect from WWW to root", modelo pronto do painel). Hoje `www.sarasotaflooringcompany.com` responde 200 com o mesmo conteúdo; o canonical já aponta para a raiz, então não há duplicação indexável, mas o 301 é o correto.
